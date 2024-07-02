@@ -5,7 +5,6 @@
 #                         K. Bhatta 
 #
 #                           2024
-#                     
 #----------------------------------------------------------#
 
 #----------------------------------------------------------#
@@ -20,7 +19,8 @@
 source("R/00_Config_file.R")
 
 
-# Surface samples of Eurasian region are available at "https://doi.pangaea.de/10.1594/PANGAEA.909130"
+# Surface samples of Eurasian region are available at 
+#  "https://doi.pangaea.de/10.1594/PANGAEA.909130"
 
 read_excel_allsheets <- 
     function(file_path, 
@@ -100,5 +100,5 @@ harmonisation_table <-
                 eco_group = groupid) %>% 
   dplyr::filter(taxon_name %in% empd_taxa$taxa) 
 
-write_csv(harmonisation_table,
-          file = "Inputs/Tables/taxa_names_empd_211123.csv")
+readr::write_csv(harmonisation_table,
+                 file = "Inputs/Tables/taxa_names_empd_211123.csv")

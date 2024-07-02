@@ -35,6 +35,7 @@ package_list <-
     "leaflet",
     "maps",
     "mgcv", 
+    "pangaear",
     "performance",
     "picante",
     "raster",
@@ -53,7 +54,7 @@ package_list <-
     "vegan",
     "viridis",
     "xaringan"
-  )
+    )
 
 # load all packages
 sapply(package_list, library, character.only = TRUE)

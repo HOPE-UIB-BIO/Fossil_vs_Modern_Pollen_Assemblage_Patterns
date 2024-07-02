@@ -5,7 +5,6 @@
 #                         K. Bhatta 
 #
 #                           2024
-#                     
 #----------------------------------------------------------#
 
 #----------------------------------------------------------#
@@ -29,9 +28,9 @@ data_cao_samples <-
   dplyr::ungroup()
   
 data_cao_lat_long <- 
-  read_csv(
+  readr::read_csv(
     "Inputs/Data/surface_samples_cao/mc.csv"
-  ) %>% 
+    ) %>% 
   dplyr::select(sample_id = No.,
                 sitename = `Site name`,
                 long,
@@ -57,24 +56,27 @@ data_cao_lat_long <-
   dplyr::ungroup()
 
 data_cao <- 
-  inner_join(data_cao_lat_long,
-             data_cao_samples,
-             by = "sample_id")
-write_rds(data_cao,
-          file = "Inputs/Data/surface_samples_cao/surface_samples_cao_221123.rds",
-          compress = "gz")
+  dplyr::inner_join(data_cao_lat_long,
+                    data_cao_samples,
+                    by = "sample_id")
+readr::write_rds(data_cao,
+                 file = paste("Inputs/Data/surface_samples_cao/",
+                              "surface_samples_cao_221123.rds",
+                              sep = ""),
+                 compress = "gz")
 
 taxa_cao <-
   data_cao %>%
   dplyr::mutate(taxa =
                   purrr::map(raw_counts,
                              ~ colnames(.x) %>%
-                               enframe(name = NULL,
-                                       value = "taxon_name")
+                               tibble::enframe(name = NULL,
+                                               value = "taxon_name")
                              )
                 ) %>%
   dplyr::select(taxa) %>%
   tidyr::unnest(taxa) %>% 
-  distinct()
-write_csv(taxa_cao,
+  dplyr::distinct()
+
+readr::write_csv(taxa_cao,
           file = "Inputs/Tables/taxa_names_cao_data_221123.csv")

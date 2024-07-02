@@ -1,6 +1,13 @@
 #----------------------------------------------------------#
+# Fossil pollen data can predict robust spatial patterns of biodiversity 
+#                        in the past
 #
-#       Latitudinal analysis of phylogenetic dispersion
+#                         K. Bhatta 
+#
+#                           2024
+#----------------------------------------------------------#
+
+#----------------------------------------------------------#
 #
 #         Surface sample pollen data from Pangaea ----
 #                          
@@ -10,7 +17,6 @@
 # Load configuration ----
 #-----------------------------------------------#
 source("R/00_Config_file.R")
-library(pangaear)
 
 # Download surface sample data (14.09.2023)
 surface_sample1 <- 
@@ -78,7 +84,7 @@ raw_data <-
       }
     ) %>% 
   unlist(., recursive = FALSE) %>% 
-  bind_rows()
+  dplyr::bind_rows()
 
 # Individually checked DOIs
 sel_doi <- c(
@@ -100,7 +106,7 @@ raw_data_1 <-
   dplyr::filter(
     doi %in% sel_doi
   )
-write_rds(
+readr::write_rds(
   raw_data_1,
   file = "Inputs/Data/data_raw_surface_samples_140923.rds",
   compress = "gz"
@@ -114,7 +120,7 @@ raw_taxa <-
   purrr::map(., ~ as.data.frame(.x , sep = "\t") %>% 
                slice(1,)
              ) %>% 
-  bind_rows() %>% 
+  dplyr::bind_rows() %>% 
   dplyr::rename(taxa = .x) %>% 
   dplyr::distinct() 
 
@@ -127,15 +133,16 @@ clean_names <-
   unlist(., recursive = FALSE) %>%
   do.call(rbind.data.frame, .)
 names(clean_names) <- as.character(c('taxon.name', 'abbrev'))
+
 clean_names <- 
   clean_names %>% 
   dplyr::mutate(
     abbrev = gsub(".*\\(","", abbrev),
     abbrev = gsub("\\).*","", abbrev)
     ) %>% 
-  distinct(taxon.name, abbrev, .keep_all = TRUE)
+  dplyr::distinct(taxon.name, abbrev, .keep_all = TRUE)
 
-#write_csv(
+#readr::write_csv(
 #  clean_names,
 #  file = "Inputs/Tables/taxa_names_surface_samples_pangaea_150923.csv"
 #  )  
@@ -145,8 +152,8 @@ clean_names <-
 raw_dat <- 
   readr::read_rds(
     "Inputs/Data/data_raw_surface_samples_140923.rds"
-  ) %>% 
-  distinct()
+    ) %>% 
+  dplyr::distinct()
 
 #10.1594/PANGAEA.849666 
 dt1 <- 
@@ -177,7 +184,7 @@ lat_long_849666 <-
                 long) %>% 
   dplyr::group_by(sample_id) %>% 
   tidyr::nest(lat_long = -group_cols()) %>% 
-  ungroup()
+  dplyr::ungroup()
 
 counts_849666 <- 
   counts_849666_raw %>% 
@@ -186,9 +193,10 @@ counts_849666 <-
     ) %>% 
   dplyr::group_by(sample_id) %>% 
   tidyr::nest(counts = -group_cols()) %>% 
-  ungroup()
+  dplyr::ungroup()
+
 lat_long_sample_id_849666 <- 
-  inner_join(
+  dplyr::inner_join(
     counts_849666, 
     lat_long_849666,
     by = "sample_id")
@@ -207,7 +215,6 @@ dat1_849666 <-
   dplyr::mutate_at("long", as.numeric)
 
 
-
 #10.1594/PANGAEA.808952
 dt2 <- 
   raw_dat %>% 
@@ -216,8 +223,6 @@ dt2 <-
   )
 dt2$citation
 as <- dt2$data[[1]] #fossil pollen data: EXCLUDE
-
-
 
 
 # 10.1594/PANGAEA.808953
@@ -250,20 +255,20 @@ counts_808953 <-
       "Pollen indet [#]" 
       )
     ) %>% 
-  bind_cols(
+  dplyr::bind_cols(
     Urticaceae, 
     Poaceae
     ) %>% 
-  slice(n = 1:8) %>%  # bottom 3 rows are NA
+  dplyr::slice(n = 1:8) %>%  # bottom 3 rows are NA
   dplyr::group_by(sample_id) %>% 
   tidyr::nest(
     counts = -group_cols()
     ) %>% 
-  ungroup()
+  dplyr::ungroup()
 
 event <- 
   dt3[1,]$metadata[[1]]$events %>% 
-  str_split(., "; ") 
+  stringr::str_split(., "; ") 
 
 lat_long_808953 <-
   tibble(
@@ -300,10 +305,10 @@ lat_long_808953 <-
   ) %>% 
   dplyr::group_by(sample_id) %>% 
   tidyr::nest(lat_long = -group_cols()) %>% 
-  ungroup()
+  dplyr::ungroup()
 
 lat_count_808953 <- 
-  inner_join(
+  dplyr::inner_join(
     lat_long_808953,
     counts_808953,
     by = "sample_id"
@@ -321,7 +326,6 @@ dat_808953 <-
   dplyr::mutate_at("lat", as.numeric) %>% 
   dplyr::mutate_at("long", as.numeric)
   
-
 
 # 10.1594/PANGAEA.829749
 dt4 <- 
@@ -354,7 +358,7 @@ lat_long_829751 <-
   tidyr::nest(
     lat_long = -group_cols()
     ) %>%
-  ungroup()
+  dplyr::ungroup()
 
 counts_829751 <- 
   dt6$data[[1]] %>%
@@ -372,8 +376,8 @@ counts_829751 <-
   tidyr::nest(
     counts = -group_cols()
     ) %>% 
-  ungroup() %>% 
-  inner_join(lat_long_829751,
+  dplyr::ungroup() %>% 
+  dplyr::inner_join(lat_long_829751,
              by = "sample_id")
 dat_829751 <- 
   tibble(
@@ -386,7 +390,6 @@ dat_829751 <-
   tidyr::unnest(lat_long) %>% 
   dplyr::mutate_at("lat", as.numeric) %>% 
   dplyr::mutate_at("long", as.numeric)
-
 
 
 #10.1594/PANGAEA.871523
@@ -471,31 +474,31 @@ counts_871523 <-
 which(duplicated(counts_871523$sample_id)) #85, "Liaodong_Bay-SP73"
 test <- counts_871523 %>% 
   dplyr::filter(sample_id == "Liaodong_Bay-SP73") %>% 
-  group_by(sample_id) %>% 
-  summarise_if(is.numeric, sum)
+  dplyr::group_by(sample_id) %>% 
+  dplyr::summarise_if(is.numeric, sum)
 
 counts_871523a <- 
   counts_871523 %>% 
   dplyr::group_by(sample_id) %>% 
-  group_by(sample_id) %>% 
-  summarise_if(is.numeric, sum) %>% 
-  group_by(sample_id) %>% 
+  dplyr::group_by(sample_id) %>% 
+  dplyr::summarise_if(is.numeric, sum) %>% 
+  dplyr::group_by(sample_id) %>% 
   tidyr::nest(
     counts = -group_cols()
-  ) %>% 
-  ungroup()
+    ) %>% 
+  dplyr::ungroup()
 
 comb_dat_871523 <- 
-  inner_join(
+  dplyr::inner_join(
     depositional_env_871523,
     counts_871523a,
     by = "sample_id"
-  ) %>% 
-  distinct() %>% 
-  inner_join(
+    ) %>% 
+  dplyr::distinct() %>% 
+  dplyr::inner_join(
     lat_long_871523,
     by = "sample_id"
-  )
+    )
 
 dat_871523 <- 
   tibble(
@@ -581,13 +584,13 @@ counts_933659 <-
     sample_id = Event,
     everything()
   ) %>% 
-  slice(-49,) %>% 
+  dplyr::slice(-49,) %>% 
   dplyr::group_by(sample_id) %>% 
   tidyr::nest(counts = -group_cols()) %>% 
-  ungroup()
+  dplyr::ungroup()
 
 counts_latlong_933659 <- 
-  inner_join(
+  dplyr::inner_join(
   lat_long_933659, 
   counts_933659,
   by = "sample_id"
@@ -600,7 +603,7 @@ dat_933659 <-
     depositional_env = depositional_env_933659,
     publication = publication_933659
   ) %>% 
- dplyr::mutate(percentage = TRUE) %>% 
+  dplyr::mutate(percentage = TRUE) %>% 
   dplyr::mutate_at("lat", as.numeric) %>% 
   dplyr::mutate_at("long", as.numeric)
 
@@ -635,10 +638,10 @@ counts_717143 <-
   ) %>% 
   dplyr::mutate(sample_id = "TK_220") %>% 
   dplyr::select(-"Sec label") %>% 
-  group_by(sample_id) %>% 
+  dplyr::group_by(sample_id) %>% 
   tidyr::nest(counts = -group_cols()) %>% 
   dplyr::mutate(percentage = FALSE) %>% 
-  ungroup()
+  dplyr::ungroup()
 
 dat_717143 <- 
   tibble(
@@ -700,7 +703,7 @@ lat_long_proc <-
                              )
                          )
              ) %>%
-  bind_rows() %>%
+  dplyr::bind_rows() %>%
   dplyr::filter(V2 == "Include") %>%
   dplyr::select(-c(V2)) %>%
   dplyr::mutate(
@@ -711,18 +714,18 @@ lat_long_proc <-
       "event", 
       "other"),
     lat = ifelse(
-      str_detect(
+      stringr::str_detect(
         V1, "LATITUDE"
         ) == TRUE, 
       "lat", 
       "other"),
     long = ifelse(
-      str_detect(
+      stringr::str_detect(
         V1, "LONGITUDE"
         ) == TRUE, 
       "long", 
       "other")
-  )
+    )
 
   sample_id <- 
     lat_long_proc %>% 
@@ -759,8 +762,8 @@ lat_long_proc <-
     data.frame(
       strsplit(lat_comp$lat, ': ',
              fixed = TRUE)) %>% 
-    slice(-1,) %>% 
-    gather() %>% 
+    dplyr::slice(-1,) %>% 
+    tidyr::gather() %>% 
   dplyr::select(lat = value) %>% 
   dplyr::mutate_at("lat", as.numeric)
       
@@ -776,14 +779,14 @@ lat_long_proc <-
     data.frame(
       strsplit(long_comp$long, ': ',
                fixed = TRUE)) %>% 
-    slice(-1,) %>% 
-    gather() %>% 
+    dplyr::slice(-1,) %>% 
+    tidyr::gather() %>% 
     dplyr::select(long = value) %>% 
     dplyr::mutate_at("long", as.numeric)
   
   
 lat_long <- 
-  bind_cols(
+  dplyr::bind_cols(
     sample_id,
     lat,
     long
@@ -808,8 +811,8 @@ counts_lat_long_910726 <-
     counts_910726,
     by = "sample_label") %>% 
 dplyr::select(-sample_label) %>% 
-  as_tibble() %>% 
-  ungroup()
+  tibble::as_tibble() %>% 
+  dplyr::ungroup()
     
 dat_910726 <- 
   tibble(
@@ -824,7 +827,7 @@ dat_910726 <-
   
 
 surface_samples_pangaea <- 
-  bind_rows(
+  dplyr::bind_rows(
     dat_717143,
     dat_808953,
     dat_829751,
@@ -838,14 +841,14 @@ counts_taxa <-
   purrr::map(
     surface_samples_pangaea$counts,
     ~ colnames(.x) %>% 
-      enframe(
+      tibble::enframe(
         name = NULL,
         value = "taxa"
         ) %>% 
-      bind_rows()
+      dplyr::bind_rows()
     ) %>% 
-  bind_rows() %>% 
-  distinct()
+  dplyr::bind_rows() %>% 
+  dplyr::distinct()
 
 clean_names <-
   counts_taxa %>%
@@ -863,13 +866,13 @@ clean_names <-
       )
     ) %>% 
   tidyr::unnest(abbrev) %>% 
-  distinct()
+  dplyr::distinct()
 
 table_taxa <- 
-  read_csv(
+  readr::read_csv(
     "Inputs/Tables/taxa_names_surface_samples_pangaea_150923.csv"
   ) %>% 
-  bind_rows(
+  dplyr::bind_rows(
     tibble(taxon.name = 
              c(
                "Rosaceae_nonoperculate",
@@ -925,7 +928,7 @@ raw_dat <-
                 )
               ) %>% 
             tidyr::unnest(abbrev) %>% 
-            distinct() %>% 
+            dplyr::distinct() %>% 
             dplyr::inner_join(
               table_taxa,
               by = "abbrev"
@@ -940,12 +943,10 @@ raw_dat <-
             
           return(res)
         }
-      
+        )
     )
-  )
 
-
-write_rds(
+readr::write_rds(
   raw_dat,
   file = "Inputs/Data/surface_samples_cao/surface_samples_pangaea_220923.rds",
   compress = "gz"
