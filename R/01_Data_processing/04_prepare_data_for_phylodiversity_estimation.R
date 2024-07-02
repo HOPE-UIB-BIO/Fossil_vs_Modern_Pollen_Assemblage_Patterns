@@ -1,9 +1,13 @@
 #----------------------------------------------------------#
+# Fossil pollen data can predict robust spatial patterns of biodiversity 
+#                        in the past
 #
-#       Latitudinal analysis of phylogenetic dispersion
+#                         K. Bhatta 
 #
-#               Surface sample pollen data 
-#          
+#                           2024
+#----------------------------------------------------------#
+
+#----------------------------------------------------------#
 #        Prepare data of phylodiversity estimation ----
 #----------------------------------------------------------#
 #-----------------------------------------------#
@@ -26,13 +30,13 @@ dat_phylodiv <-
   dplyr::filter(!sample_id == "201") %>% #erroneous data
   tidyr::unnest(harmonised_percentages)  #2789 datasets
 
-which(duplicated(dat_phylodiv$sample_id))
+which(duplicated(dat_phylodiv$sample_id)) # 178
   
 data_for_phylodiv_estimation <- 
 dat_phylodiv %>% 
-  slice(-178,) %>% 
+  dplyr::slice(-178,) %>% 
   dplyr::arrange(lat) %>% 
-  column_to_rownames("sample_id") %>% 
+  tibble::column_to_rownames("sample_id") %>% 
   dplyr::mutate_if(is.numeric, 
                    ~replace(., is.na(.), 
                             0)
@@ -45,11 +49,11 @@ data_for_phylodiv_estimation <-
 
 surface_pollen_filtered <- 
   data_for_phylodiv_estimation[rowSums(data_for_phylodiv_estimation > 0) > 2,] %>% # filter out samples with < 3 taxa
-  rownames_to_column("sample_id")  #2783 samples
+  tibble::rownames_to_column("sample_id")  #2783 samples
 
 # Add climate zones (Beck et al. 2018)
 beck_translation_table <- 
-  read_csv("Inputs/Data/Biomes_spatial/koppen_link.csv") %>% 
+  readr::read_csv("Inputs/Data/Biomes_spatial/koppen_link.csv") %>% 
   dplyr::rename(
     ecozone_koppen_30 = genzone,
     ecozone_koppen_15 = genzone_cluster,
@@ -101,14 +105,18 @@ surface_pollen_filtered_clim_zone <-
                 -raster_values) %>% 
   dplyr::filter(!is.na(climate_zone_revised)) # 2735 samples
 
-write_rds(surface_pollen_filtered_clim_zone,
+readr::write_rds(surface_pollen_filtered_clim_zone,
           file = "Inputs/Data/surface_pollen_filtered_030124.rds",
           compress = "gz")
 
 
 # B. Top samples from fossil pollen data ----
+# Note: This data was used directly from  "Latitudinal gradients in the 
+#  phylogenetic assembly of angiosperms in Asia during the Holocene"
+# Therefore, initial filtering and harmonisation was alredy done there.
+
 top_fossil_pollen <-
-  read_rds("Inputs/Data/data_for_main_analysis_191223.rds") %>%
+  readr::read_rds("Inputs/Data/data_for_main_analysis_191223.rds") %>%
   dplyr::select(dataset_id,
                 long,
                 lat,
@@ -119,16 +127,9 @@ top_fossil_pollen <-
                                        ~.x %>% 
                                          dplyr::filter(age >= 0 & age <= 500)
                                        ),
-    levels_filtered_1000yr = purrr::map(levels_filtered,
-                                        ~.x %>% 
-                                          dplyr::filter(age >= 0 & age <= 1000)
-                                        ),
     nsamples_500yr = purrr::map_dbl(levels_filtered_500yr,
                                     ~ nrow(.x)
-                                    ),
-    nsamples_1000yr = purrr::map_dbl(levels_filtered_1000yr,
-                                     ~ nrow(.x)
-                                     )
+                                    )
     )
 
 top_fossil_pollen_500yr <- 
@@ -205,86 +206,6 @@ top_fossil_pollen_500yr_filtered_clim_zone <-
     -raster_values
     )
 
-
-write_rds(top_fossil_pollen_500yr_filtered_clim_zone,
+readr::write_rds(top_fossil_pollen_500yr_filtered_clim_zone,
           file = "Inputs/Data/top_fossil_pollen_500yr_filtered_080124.rds",
-          compress = "gz")
-
-# Top samples within 1000 yrs
-top_fossil_pollen_1000yr <- 
-  top_fossil_pollen %>% 
-  dplyr::filter(nsamples_1000yr > 0) %>% 
-  dplyr::mutate(harmonised_fam_angiosperms_percentages_1000yr = 
-                  purrr::map2(
-                    .x = harmonised_fam_angiosperms_percentages,
-                    .y = levels_filtered_1000yr,
-                    ~ .x %>% 
-                      dplyr::inner_join(.y %>% 
-                                          dplyr::select(sample_id),
-                                        by = "sample_id"
-                      ) %>% 
-                      dplyr::select(sample_id, everything())
-                  )
-  ) %>% 
-  dplyr::select(
-    dataset_id,
-    lat,
-    long,
-    harmonised_fam_angiosperms_percentages_1000yr
-  ) %>% 
-  tidyr::unnest(harmonised_fam_angiosperms_percentages_1000yr) %>% 
-  dplyr::mutate(sample_id = paste(sample_id, "_", row.names(.), sep = "")) # To avoid duplicated row names
-
-lat_sample_id_top_fossil_pollen_1000yr <- 
-  top_fossil_pollen_1000yr %>% 
-  dplyr::select(dataset_id, lat, long, sample_id)
-
-top_fossil_pollen_1000yr_filtered_1 <- 
-  top_fossil_pollen_1000yr %>% 
-  dplyr::select(-c(dataset_id, lat, long)) %>% 
-  column_to_rownames("sample_id") %>% 
-  dplyr::mutate_if(is.numeric, 
-                   ~replace(., is.na(.), 
-                            0)
-  ) %>% 
-  dplyr::select_if(colSums(.) != 0)
-
-top_fossil_pollen_1000yr_filtered <- 
-  top_fossil_pollen_1000yr_filtered_1[rowSums(top_fossil_pollen_1000yr_filtered_1 > 0) > 2,] %>% # filter out samples with < 3 taxa
-  rownames_to_column("sample_id") %>% 
-  dplyr::inner_join(lat_sample_id_top_fossil_pollen_1000yr,
-                    by = "sample_id") %>% 
-  dplyr::select(dataset_id, sample_id, lat,long, everything()) #837 samples, 81 taxa
-
-
-# Add climate zone (Beck et al. 2018)
-top_fossil_pollen_1000yr_filtered_geo_tif <- 
-  RUtilpol::geo_assign_tif(
-    data_source = top_fossil_pollen_1000yr_filtered, 
-    tif_file_name = "Inputs/Data/Biomes_spatial/Beck_KG_V1_present_0p083.tif",  
-    fill_na = FALSE,
-    na_as_value = NULL,
-    distance_step = 500,
-    n_max_step = 10)
-
-top_fossil_pollen_1000yr_filtered_clim_zone <- 
-  top_fossil_pollen_1000yr_filtered_geo_tif %>% 
-  dplyr::left_join(
-    beck_translation_table,
-    by = "raster_values"
-    ) %>% 
-  dplyr::select(
-    dataset_id,
-    sample_id,
-    lat,
-    long,
-    ecozone_koppen_5,
-    ecozone_koppen_15,
-    ecozone_koppen_30,
-    climate_zone_revised,
-    everything(),
-    -raster_values)
-
-write_rds(top_fossil_pollen_1000yr_filtered_clim_zone,
-          file = "Inputs/Data/top_fossil_pollen_1000yr_filtered_080124.rds",
           compress = "gz")
