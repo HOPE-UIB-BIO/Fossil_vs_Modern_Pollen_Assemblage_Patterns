@@ -1,15 +1,64 @@
 #----------------------------------------------------------#
+# Fossil pollen data can predict robust spatial patterns of biodiversity 
+#                        in the past
 #
+#                         K. Bhatta 
 #
-#         Latitudinal analysis of phylogenetic dispersion
-#
-#                       Config file
-#                          
+#                           2024
+#                     
+#                     Configuration file 
 #----------------------------------------------------------#
 
 #----------------------------------------------------------#
 # 1. Load packages -----
 #----------------------------------------------------------#
+
+# define packages
+
+package_list <- 
+  c(
+    "ape",
+    "assertthat",
+    "corrplot", 
+    "cowplot",
+    "devtools",
+    "dplyr",
+    "ggplot2",
+    "ggpubr",
+    "ggmap",
+    "ggspatial",
+    "ggtext",
+    "gratia",
+    "grid",
+    "gridExtra",
+    "here",   
+    "leaflet",
+    "maps",
+    "mgcv", 
+    "performance",
+    "picante",
+    "raster",
+    "RColorBrewer",
+    "REcopol",
+    "renv", 
+    "RFossilpol",
+    "rpart",
+    "roxygen2", 
+    "scales",
+    "sf",
+    "sjmisc",
+    "sjstats", 
+    "tidyverse",  
+    "usethis",
+    "vegan",
+    "viridis",
+    "xaringan"
+  )
+
+# load all packages
+sapply(package_list, library, character.only = TRUE)
+
+# Note: new required packages should be installed here!
 
 if(!exists("update_repo_packages")){
   update_repo_packages <- TRUE
@@ -23,65 +72,15 @@ if(update_repo_packages == TRUE){
   
   if(already_synch == FALSE){
     library(here)
-  # synchronise the package versions
+    # synchronise the package versions
     renv::restore(lockfile = here::here( "renv/library_list.lock"))
     already_synch <- TRUE
     
-  # save snapshot of package versions
+    # save snapshot of package versions
     renv::snapshot(lockfile =  "renv/library_list.lock")  # do only for update
   }
 }
 
-# define packages
-
-package_list <- 
-  c(
-    "ape",
-    "assertthat",
-    "car",
-    "corrplot", 
-    "cowplot",
-    "devtools",
-    "dplyr",
-    "flextable",
-    "ggplot2",
-    "ggpubr",
-    "ggmap",
-    "ggspatial",
-    "ggtext",
-    "gratia",
-    "grid",
-    "gridExtra",
-    "here",   
-    "leaflet",
-    "lemon", 
-    "maps",
-    "mgcv", 
-    "multidplyr",
-    "parallel",
-    "performance",
-    "picante",
-    "raster",
-    "RColorBrewer",
-    "REcopol",
-    "renv", 
-    "RFossilpol",
-    "rpart",
-    "roxygen2", 
-    "scales",
-    "sf",
-    "sjmisc",
-    "sjstats", # For use for r2 functions
-    "targets",
-    "tidyverse",  
-    "usethis",
-    "vegan",
-    "viridis",
-    "xaringan"
-  )
-
-# load all packages
-sapply(package_list, library, character.only = TRUE)
 
 #----------------------------------------------------------#
 # 2. Define space -----

@@ -1,6 +1,14 @@
 #----------------------------------------------------------#
+# Fossil pollen data can predict robust spatial patterns of biodiversity 
+#                        in the past
 #
-#       Latitudinal analysis of phylogenetic dispersion
+#                         K. Bhatta 
+#
+#                           2024
+#                     
+#----------------------------------------------------------#
+
+#----------------------------------------------------------#
 #
 #         Surface sample pollen data from Cao ----
 #                          
@@ -10,7 +18,6 @@
 # Load configuration ----
 #-----------------------------------------------#
 source("R/00_Config_file.R")
-
 
 data_cao_samples <- 
   readr::read_csv(

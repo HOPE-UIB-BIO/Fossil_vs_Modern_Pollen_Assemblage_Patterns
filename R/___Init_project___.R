@@ -11,8 +11,7 @@
 #----------------------------------------------------------#
 
 # Script to prepare all necessary components of environment to run the Project.
-#   Needs to be run only once
-
+#  Needs to be run only once
 
 #----------------------------------------------------------#
 # Step 1: Install 'renv' package -----
