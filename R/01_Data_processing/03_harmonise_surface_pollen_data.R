@@ -1,19 +1,25 @@
 #----------------------------------------------------------#
+# Fossil pollen data can predict robust spatial patterns of biodiversity 
+#                        in the past
 #
-#       Latitudinal analysis of phylogenetic dispersion
+#                         K. Bhatta 
 #
-#               Surface sample pollen data 
-#          
+#                           2024
+#----------------------------------------------------------#
+
+#----------------------------------------------------------#
 #                  Harmonise data ----
 #----------------------------------------------------------#
 #-----------------------------------------------#
 # Load configuration ----
 #-----------------------------------------------#
+
 source("R/00_Config_file.R")
 
 #-----------------------------------------------#
+
 full_data <- 
-  read_rds(
+  readr::read_rds(
     "Inputs/Data/data_combined_raw_121223.rds"
   )
 
@@ -96,7 +102,7 @@ dat_harmonised <-
       )
   )
 
-write_rds(
+readr::write_rds(
   dat_harmonised,
   file = "Inputs/Data/data_harmonised_121223.rds",
   compress = "gz"
