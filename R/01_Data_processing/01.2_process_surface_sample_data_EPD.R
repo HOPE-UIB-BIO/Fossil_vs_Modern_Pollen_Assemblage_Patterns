@@ -1,10 +1,19 @@
 #----------------------------------------------------------#
+# Fossil pollen data can predict robust spatial patterns of biodiversity 
+#                        in the past
 #
-#       Latitudinal analysis of phylogenetic dispersion
+#                         K. Bhatta 
 #
-#           Surface sample pollen data from EPD ----
+#                           2024
+#                     
+#----------------------------------------------------------#
+
+#----------------------------------------------------------#
+#
+#         Surface sample pollen data from EPD ----
 #                          
 #----------------------------------------------------------#
+
 #-----------------------------------------------#
 # Load configuration ----
 #-----------------------------------------------#
@@ -28,7 +37,7 @@ read_excel_allsheets <-
   
 mysheets <- 
   read_excel_allsheets("Inputs/Data/surface_samples_epd/EMPD2_count_v1.xlsx")
-  
+# Ignore warnings!  
 
 metadata <- 
   mysheets$metadata %>% 
@@ -38,7 +47,7 @@ metadata <-
                 long = Longitude,
                 percentage = ispercent,
                 depositional_env = SampleType) %>% 
-  group_by(sample_id) %>% 
+  dplyr::group_by(sample_id) %>% 
   dplyr::filter(!long < 75 & !long > 125) %>%
   dplyr::filter(!lat < 25 & !lat > 66) %>% 
   tidyr::nest(.key = "metadata")
@@ -50,38 +59,38 @@ counts <-
     taxon = original_varname,
     raw_counts = count
   ) %>%
- pivot_wider(
+ tidyr::pivot_wider(
     names_from = taxon,
     values_from = raw_counts,
     values_fill = 0 # empty values as '0', otherwise turns NA
   ) %>% 
-  group_by(sample_id) %>% 
+  dplyr::group_by(sample_id) %>% 
   tidyr::nest(.key = "raw_counts")
 
 
 data_empd <- 
-  inner_join(metadata,
+  dplyr::inner_join(metadata,
              counts,
              by = "sample_id")
 
-write_rds(data_empd,
-          file = "Inputs/Data/surface_samples_epd/data_empd_211123.rds",
-          compress = "gz")
+readr::write_rds(data_empd,
+                 file = "Inputs/Data/surface_samples_epd/data_empd_211123.rds",
+                 compress = "gz")
 
 empd_taxa <- 
   data_empd %>% 
-  ungroup() %>% 
+  dplyr::ungroup() %>% 
   dplyr::mutate(taxa = 
                   purrr::map(
                     raw_counts,
                     ~  colnames(.x) %>% 
-                      enframe(name = NULL,
-                              value = "taxa")
+                      tibble::enframe(name = NULL,
+                                      value = "taxa")
                     )
                 ) %>% 
   dplyr::select(taxa) %>% 
   tidyr::unnest(taxa) %>% 
-  distinct()
+  dplyr::distinct()
   
   
 
