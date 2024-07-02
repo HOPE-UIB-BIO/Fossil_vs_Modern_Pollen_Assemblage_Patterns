@@ -1,0 +1,703 @@
+taxon_name,abbrev
+Event label (Event),Event
+Latitude of event (Latitude),Latitude
+Longitude of event (Longitude),Longitude
+Elevation of event [m] (Elevation),Elevation
+"DEPTH, sediment/rock [m] (Depth)",Depth
+Alnus glutinosa,Aln.g
+Betula sect. Albae,Bet.Se.A
+Carpinus,Car
+Juglans,Jug
+Larix,Lar
+Picea,Pic
+Pinus diploxylon-type,Pin.d-T
+Pinaceae,Pinae
+Betula sect. Nanae,Bet.Se.N
+Alnus fruticosa,Aln.f
+Pinus haploxylon-type,Pin.h-T
+Salix,Sal
+Cyperaceae,Cypae
+Poaceae,Poac
+Artemisia,Art
+Asteraceae,Astae
+Asteraceae matricaria-type,A. matricaria-T
+Asteraceae saussurea-type,A. saussurea-T
+Asteraceae senecio-type,A. senecio-T
+Cichorioideae,Cicoid
+Brassicaceae,Braae
+Caryophyllaceae,Cphae
+Caryophyllaceae stellaria holostea-type,C. stellaria holostea-T
+Chenopodiaceae,Cheae
+Epilobium,Epl
+Ericaceae,Eriae
+Ericaceae empetrum-type,E. empetrum-T
+Ericaceae vaccinium-type,E. vaccinium-T
+Fabaceae,Fabae
+Fumariaceae,Fumae
+Gentianaceae,Genae
+Gerianiaceae,Gerianiaceae
+Pollen indeterminata,Pollen indet
+Lamiaceae,Lamae
+Liliaceae,Lilae
+Linaceae,Lineae
+Malvaceae,Malvae
+Papaveraceae,Papae
+Plantago,Pla
+Plumbaginaceae,Pluae
+Polygonaceae,Polae
+Polygonum bistorta-type,Pol.b-T
+Polygonum viviparum-type,Pol.v-T
+Primulaceae,Priae
+Ranunculaceae,Ranae
+Ranunculaceae pulsatilla,R. pulsatilla
+Ranunculaceae thalictrum,R. thalictrum
+Rosaceae,Rosae
+Rosaceae Dryas,Rosaceae Dryas
+Rosaceae rosa canina,R. rosa canina
+Rumex,Rum
+Sanguisorba officinalis-type,San.o-T
+Saxifragaceae,Saxae
+Scabiosa,Sca
+Scrophulariaceae,Scoae
+Valeriana,Val
+Potamogeton,Pot
+Botryococcus,Bot
+Pediastrum,Pdi
+Botrychium,Bot
+Dryopteris filix-mas,Drp.f-m
+Equisetum,Equ
+Lycopodium annotinum,Lyc.a
+Polypodiaceae,Pocae
+Riccia,Ric
+Selaginella rupestris,Sel.r
+Sphagnum,Sph
+Delitschia,Delitschia
+Gelasinospora,Gel
+Glomus,Glomus
+Microthyrium,Mic
+Podospora,Podospora
+scalariform perforation plate,scalariform perforation plate
+Stomata,Stomat
+Tracheids,Tracheids
+Spores indeterminata,Spo.indet
+"Pollen, terrestrial",Pollen ter
+Lycopodium spores counted,Lyc.counted
+Pollen per unit sediment mass [#/g] (Pollen/sed),Pollen/sed
+"Depth, top/min [m] (Depth top)",Depth top
+"Depth, bottom/max [m] (Depth bot)",Depth bot
+Analyst (Analyst),Analyst
+Sample code/label (Sample label),Sample label
+"Depth, composite [mcd] (Depth comp)",Depth comp
+AGE [ka BP] (Age),Age
+Volume [cm,Volume [cm
+"Pollen, total concentration [#/cm","Pollen, total concentration [#/cm"
+Ratio (Ratio),Ratio
+Pinus subgen. Haploxylon-type,P. s/g Haplo-T
+Pinus subgen. Diploxylon-type,P. s/g Diplo-T
+Pinus sylvestris-type,Pin.s-T
+Pinus undifferentiated,Pinus undiff
+Pinaceae undifferentiated,Pinea undiff
+Abies,Abi
+Cedrus,Ced
+Tsuga,Tsu
+Podocarpus,Pod
+Juniperus-type,Jun-T
+Ephedra fragilis-type,Eph.f-T
+Ephedra distachya-type,Eph.d-T
+Alnus undifferentiated,Aln.ud
+Alnus fruticosa-type,Aln.f-T
+Betula utilis-type,B. utilis-T
+Betula undifferentiated,Bet.ud
+Carpinus viminea-type,C. viminea-T
+Carpinus undifferentiated,Carp undiff
+Corylus,Cor
+Quercus,Que
+Ulmus,Ulm
+Morus,Mor
+Myrica,Myr
+Acer,Ace
+Aesculus,Aes
+Castanea-type,Cas-T
+Celtis,Cel
+Grewia,Grewia
+Rutaceae undifferentiated,Rutaceae undiff
+Mallotus,Mallotus
+Meliaceae,Meliaceae
+Clethra-type,Clethra-T
+Aerva-type,Aer-T
+Carya,Cya
+Hippophae,Hpp
+Populus,Pop
+Myricaria-type,Myc-T
+Lonicera,Lon
+Rhamnus-type,Rha-T
+Ribes alpinum-type,R. alpinum-T
+Lycium,Lyi
+Buxus,Bux
+Berberis,Ber
+Nitraria,Nit
+Rosaceae undifferentiated,Rosae.ud
+Sorbus/Cotoneaster-type,Sorbus/Cotoneaster-T
+Prunus-type,Prn-T
+Potentilla/Chamaerhodos-type,Potentilla/Chamaer-T
+Sibbaldia-type,Sibbaldia-T
+Geum/Potentilla-type,Geu/Pot-T
+Rosa-type,Ros-T
+Spiraea-type,Spi-T
+Amaranthus,Amaranthus
+Sagina,Sag
+Aster/Gnaphalium-type,Ast/Gna-T
+Anthemis-type,Ant-T
+Saussurea-type,Sau-T
+Scorzonera,Sco
+Ranunculus-type,Ran-T
+Clematis/Anemone-type,Clematis/Anemone-T
+Caltha/Isopyrum-type,Caltha/Isopyrum-T
+Delphinium-type,Del-T
+Thalictrum,Tha
+Polygonum,Pol
+Knorringia-type,Knorringia-T
+Aconogonon,Aconogonon
+Bistorta,Bist
+Polygonum nepalensis-type,Pol.n-T
+Koenigia-type,Koenigia-T
+Fagopyrum,Fgy
+Caryophyllaceae undifferentiated,Cphae.ud
+Silene-type,Sil-T
+Spergularia-type,Spg-T
+Herniaria-type,Hrn-T
+Gentiana pneumonanthe-type,Gen.x-T
+Gentianella campestris-type,Gen.c-T
+Gentianella tenella-type,Gen.t-T
+Swertia-type,Swertia-T
+Ophelia-type,Ophelia-T
+Lomatogonium,Lom
+Saxifraga granulata/hirculus-type,S. granulata/hirculus-T
+Saxifraga cernua-type,Sax.c-T
+Saxifraga hirsuta/cuneifolia-type,S. hirsuta/cuneifolia-T
+Saxifraga stellaris-type,Sax.s-T
+Bergenia-type,Bergenia-T
+Stachys-type,Sta-T
+Mentha/Elsholtzia-type,Mentha/Elsholtzia-T
+Prunella/Nepeta-type,Prunella/Nepeta-T
+Scrophularia-type,Sco-T
+Veronica-type,Ver-T
+Pedicularis,Ped
+Primula-type,Pri-T
+Androsace,And
+Glaux,Glx
+Apiaceae undifferentiated,Api.ud
+Bupleurum-type,Bup-T
+Euphorbia,Eup
+Papaver-type,Pap-T
+Meconopsis,Meconopsis
+Papaver argemone-type,Pap.a-T
+Glaucium-type,Gla-T
+Urticaceae,Urtae
+Cannabis-type,Can-T
+Astragalus/Oxytropis-type,Astra/Oxy-T
+Carex-type,Car-T
+Sedum-type,Sed-T
+Plantago undifferentiated,Pla.ud
+Plantago lanceolata-type,Pla.l-T
+Solanum-type,Solanum-T
+Geranium,Ger
+Biebersteinia,Biebersteinia
+Galium-type,Gal-T
+Campanula-type,Cam-T
+Jasione/Wahlenbergia-type,Jasione/Wahlenbergia-T
+Boraginaceae,Borae
+Corydalis,Cod
+Valeriana clarkei/himalayana-type,V. clarkei/himalayana-T
+Allium-type,All-T
+Eremurus,Ere
+Poaceae undifferentiated,Poac.ud
+"Spores, monolete",monolete
+"Spores, trilete",trilete spores
+Number (No),No
+Arboreal pollen,AP
+Alnus,Aln
+Quercus cf. Q. semecarpifolia,Que.cf.se
+Quercus subgen. Cyclobalanopsis,Quercus s/g Cyclobalanopsis
+Hamamelis/Parrotiopsis-type,Hamamelis/Parrotiopsis-T
+Symplocos,Symplocos
+Strobilanthes-type,Strobilanthes-T
+Elaeagnus,Ele
+Rhamnus,Rha
+Sambucus,Sam
+Sorbus-type,Sor-T
+Cotoneaster-type,Cos-T
+Potentilla-type,Pti-T
+Sibbaldia,Sibbaldia
+Aster-type,Ast-T
+Gnaphalium-type,Gna-T
+Carduus/Cirsium-type,Car/Cir-T
+Anemone/Clematis-type,Anemone/Clematis-T
+Polygonum polystachyum-type,P. polystachyum-T
+Koenigia islandica/nepalensis-type,K. islandica/nepalensis-T
+Koenigia delicatula,K. delicatula
+Rheum,Rhe
+Arenaria-type,Are-T
+Minuartia-type,Min-T
+Cerastium-type,Cer-T
+Bergenia,Bergenia
+Lamiaceae undifferentiated,Lam.ud
+Dolichos-type,Dolichos-T
+Lathyrus/Vicia-type,Lat/Vici-T
+Impatiens,Imp
+Apiaceae,Apiae
+Anchusa-type,Anc-T
+Ceratostigma,Ceratostigma
+Convolvulus,Con
+Physochlaina-type,Physochlaina-T
+Tribulus,Tus
+Osmunda,Osmu
+Adiantum-type,Adi-T
+Cheilanthes-type,Clt-T
+Cryptogramma-type,Cryptogramma-T
+Pteridium-type,Ptd-T
+Pteris-type,Pte-T
+Histiopteris-type,His-T
+Asplenium-type,Apl-T
+Athyrium filix-femina-type,A. filix-femina-T
+Cystopteris fragilis-type,Cys.f-T
+Dryopteris-type,Drp-T
+Polystichum-type,Pls-T
+Woodsia/Athyrium-type,Woodsia/Athyrium-T
+Pyrrosia-type,Pyrrosia-T
+Section (Sect),Sect
+Sample volume [cm,Sample volume [cm
+Slides counted,Slide count
+Lines counted,Lines
+"Marker, found",Mark found
+Tablets: 1,Tablets: 1
+Marker spores/tablet: 18583,Marker spores/tablet: 18583
+"Marker spores/tablet, standard deviation: 1708","Marker spores/tablet, standard deviation: 1708"
+Huperzia,Hup
+Lycopodium/Diphasiastrum,Lycop/Diph
+"Polypodiopsida, trilete spores undifferentiated",Poles trilete spore undiff
+Cheilanthes,Che
+Plagiogyria-type,Plagiogyria-T
+"Polypodiales, monolete spores undifferentiated",Poles mono spore undiff
+Dryopteris filix-mas-type,Drp.f-mT
+Woodsia/Athyrium crenatum-type,W. crenatum-T
+Cystopteris-type,Cys-T
+Onoclea-type,Onoclea-T
+Thelypteris-type,The-T
+Polypodium-type,Pol-T
+cf. Polypodiaceae,cf. Polypodiaceae
+Pediastrum undifferentiated,Ped.ud
+Pediastrum kawraiskyi,Ped.k
+Pediastrum orientale,Ped.or
+Pediastrum boryanum undifferentiated,P. boryanum undiff
+Pediastrum boryanum var. longicorne,Ped.b.vl
+Tetraedron,Tet
+Debarya,Deb
+Mougeotia-type,Mou-T
+Spirogyra-type,Spy-t
+Zygnema-type,Zyg-T
+cf. Zygnema-type,cf. Zygnema-T
+Scenedesmus,Sce
+Coelastrum reticulatum,Coe.r
+Grass epidermis fragments,Grass epid fragm
+"Grass epidermis fragments, charred",Grass epid fragm char
+Coniferous wood fragment with torus-margin pits,conif wood fragm with torus-margin pits
+Coniferous wood fragment hyaline with torus-margin pits,conif wood fragm hyaline with torus-marg
+"Sordaria, ascospore",Sordaria ascospore
+"Sporomiella, individual spores",Sporomiella indivi spores
+cf. Moss spore,cf.Mos.s
+"Plant hair, star-like",Plant hair star-like
+Indeterminata,Indet
+"Filinia, resting eggs",Filinia resting eggs
+"cf. Anuraeopsis, resting eggs",cf. Anuraeopsis rest egg
+"Chironomidae, larval claws",Chironomidae larv claw
+"Chironomidae, labia/mandibles",Chironomidae labia/mandibles
+"Labia/mandibles, juvenile",Labia/mandibles juv
+Chitinous spines/claws,Chitinous spines/claws
+Chitinous hairs,Chit hairs
+Chitinous comb,Chitinous comb
+"Microfossil, vasiform",Microfos vasiform
+"Microfossil, elliptic",Microfos elliptic
+Arcella-type,Arc-T
+Cyphoderia-type,Cyphoderia-T
+Nebela-type,Nebela-T
+Pinus sylvestris-type (P. sylvestris-T),P. sylvestris-T
+Abies (Abies),Abies
+Ephedra distachya-type (E. distachya-T),E. distachya-T
+Acer (Acer),Acer
+Carpinus viminea-type (C. viminea-T),C. viminea-T
+Carpinus undifferentiated (Carpinus undiff),Carpinus undiff
+Castanea-type (Castanea-T),Castanea-T
+Corylus (Corylus),Corylus
+Quercus subgen. Cyclobalanopsis (Q. subgen. Cyclobalanopsis),Q. subgen. Cyclobalanopsis
+Quercus cf. semecarpifolia (Q. cf. semecarpifolia),Q. cf. semecarpifolia
+Juglans (Juglans),Juglans
+Salix (Salix),Salix
+Elaeagnus (Elaeagnus),Elaeagnus
+Hippophae (Hippophae),Hippophae
+Berberis (Berberis),Berberis
+Lonicera (Lonicera),Lonicera
+Sorbus/Cotoneaster-type (Sorbus/Cotoneaster-T),Sorbus/Cotoneaster-T
+Prunus-type (Prunus-T),Prunus-T
+Potentilla/Chamaerhodos-type (Potentilla/Chamaerhodos-T),Potentilla/Chamaerhodos-T
+Sibbaldia (Sibbaldia),Sibbaldia
+Spiraea-type (Spiraea-T),Spiraea-T
+Aster-type (Ast-T),Ast-T
+Anthemis-type (Anthemis-T),Anthemis-T
+Saussurea-type (Saussurea-T),Saussurea-T
+Xanthium-type (Xanthium-T),Xanthium-T
+Taraxacum-type (Tar-T),Tar-T
+Caryophyllaceae undifferentiated (Caryophyllaceae undiff),Caryophyllaceae undiff
+Minuartia-type (Minuartia-T),Minuartia-T
+Cerastium-type (Cerastium-T),Cerastium-T
+Silene-type (Silene-T),Silene-T
+Gentiana pneumonanthe-type (G. pneumonanthe-T),G. pneumonanthe-T
+Gentianella tenella-type (G. tenella-T),G. tenella-T
+Swertia-type (Swertia-T),Swertia-T
+Ophelia-type (Ophelia-T),Ophelia-T
+Lomatogonium (Lomatogonium),Lomatogonium
+Aconogonon (Aconogonon),Aconogonon
+Knorringia-type (Knorringia-T),Knorringia-T
+Bistorta (Bistorta),Bistorta
+Rumex (Rumex),Rumex
+Saxifraga androsacea/caesia-type (S. androsacea/caesia-T),S. androsacea/caesia-T
+Saxifraga granulata/hirculus-type (S. granulata/hirculus-T),S. granulata/hirculus-T
+Saxifraga cernua-type (S. cernua-T),S. cernua-T
+Astragalus/Oxytropis-type (Astragalus/Oxytropis-T),Astragalus/Oxytropis-T
+Caragana-type (Caragana-T),Caragana-T
+Solanum/Physochlaina-type (Solanum/Physochlaina-T),Solanum/Physochlaina-T
+Physochlaina-type (Physochlaina-T),Physochlaina-T
+Scrophularia-type (Scrophularia-T),Scrophularia-T
+Veronica-type (Veronica-T),Veronica-T
+Rhinanthus-type (Rhinanthus-T),Rhinanthus-T
+Apiaceae (Apiaceae),Apiaceae
+Glaux (Glaux),Glaux
+Plantago lanceolata-type (P. lanceolata-T),P. lanceolata-T
+Galium-type (Galium-T),Galium-T
+Urticaceae (Urticaceae),Urticaceae
+Linum alpinum-type (L. alpinum-T),L. alpinum-T
+Ranunculus-type (Ranunculus-T),Ranunculus-T
+Anemone/Clematis-type (Anemone/Clematis-T),Anemone/Clematis-T
+Cannabis-type (Cannabis-T),Cannabis-T
+Boraginaceae (Boraginaceae),Boraginaceae
+Biebersteinia (Biebersteinia),Biebersteinia
+Allium-type (Allium-T),Allium-T
+Poaceae wildgrass-type (P. wildgrass-T),P. wildgrass-T
+Poaceae cereal-type (P. cereal-T),P. cereal-T
+Hordeum-type (Hordeum-T),Hordeum-T
+Sparganium emersum (S. emersum),S. emersum
+Typha (Typha),Typha
+Potamogeton (Potamogeton),Potamogeton
+Dryopteris filix-mas-type (D. filix-mas-T),D. filix-mas-T
+Polystichum-type (Polystichum-T),Polystichum-T
+Blechnum-type (Blechnum-T),Blechnum-T
+Histiopteris-type (Histiopteris-T),Histiopteris-T
+Polypodium-type (Polypodium-T),Polypodium-T
+Pyrrosia-type (Pyrrosia-T),Pyrrosia-T
+Thelypteris-type (Thelypteris-T),Thelypteris-T
+Cheilanthes (Cheilanthes),Cheilanthes
+Pteridium-type (Pteridium-T),Pteridium-T
+Adiantum-type (Adiantum-T),Adiantum-T
+Plagiogyria-type (Plagiogyria-T),Plagiogyria-T
+Equisetum (Equisetum),Equisetum
+Coniferous wood fragment with torus-margin pits (conif wood fragm with torus-margin pits),conif wood fragm with torus-margin pits
+"Elaeagnaceae, shield hair fragment (Elaeagnacea, shield hair fragm)","Elaeagnacea, shield hair fragm"
+Chitinous spine (Chitinous spine),Chitinous spine
+"Microfossil, elliptic (Microfos elliptic)",Microfos elliptic
+"Chironomidae, labia/mandibles (Chironomidae labia/mandibles)",Chironomidae labia/mandibles
+"Chironomidae, larval claws (Chironomidae larv claw)",Chironomidae larv claw
+Indeterminata (Indet),Indet
+Debarya (Debarya),Debarya
+Grass epidermis fragments (Grass epid fragm),Grass epid fragm
+"Grass epidermis fragments, charred (Grass epid fragm char)",Grass epid fragm char
+"Gelasinospora, spore (Gelasinospora spore)",Gelasinospora spore
+Cysts (Cysts),Cysts
+"Pollen, corroded",Pollen corroded
+"Pollen, broken",Pollen broken
+"Pollen, degraded",Pollen degraded
+"Pollen, concealed",Pollen concealed
+"Pollen, crumpled",Pollen crumpled
+Pinus subgen. Diploxylon,Pinus s/g Diplo
+Pinus subgen. Haploxylon,Pinus s/g Haplo
+Betula,Bet
+Rosa,Ros
+Spiraea,Pir
+Quercus subgen. Cyclobalanopsis-type,Q. s/g Cyclobalanopsis-T
+Fagus,Fag
+Carpinus viminalis-type,C. viminalis-T
+Castanea/Castanopsis,Castanea/Castanopsis
+Tilia,Til
+Rhamnaceae,Rhaae
+Rhus-type,Rhu-T
+Oleaceae,Oleae
+Ericaceae undifferentiated,Eriae.ud
+Cassiope-type,Cassiope-T
+Poaceae wildgrass-type,P. wildgrass-T
+Poaceae cereal-type,P. cereal-T
+Chenopodiaceae/Amaranthaceae undifferentiated,Che/Amau
+cf. Aerva,cf. Aerva
+Cichorioideae undifferentiated,Cichorioideae undiff
+Hieracium-type,Hie-T
+Taraxacum-type,Tar-T
+Polygonum aviculare-type,Pol.i-T
+Polygonum cognatum/molliaeforme-type,P. cognat/molliaef-T
+Polygonum polycnemoides-type,P. polycnemoides-T
+Knorringia,Knorringia
+Ranunculus aquatilis-type,Rau.a-T
+Gentiana verna-type,Gea.v-T
+Chamaerhodos-type,Chamaerhodos-T
+Silene vulgaris-type,Sil.v-T
+Gypsophila,Gyp
+Primula clusiana/hirsuta-type,P. clusiana/hirsuta-T
+Primula/Linaria-type,Primula/Linaria-T
+Scrophulariaceae undifferentiated,Scr.ud
+Veronica/Lamium album-type,V. album-T
+Prunella-type,Pru-T
+Mentha-type,Men-T
+Solanum nigrum-type,Sol.n-T
+Physochlaina,Physochlaina
+Hyoscyamus,Hyo
+Saxifraga granulata-type,Sax.g-T
+Saxifraga hirsuta-type,Sxi.h-T
+Pleurospermum-type,Ple-T
+Stellera,Stl
+Papaver/Meconopsis,Papaver/Meconopsis
+Hypecoum,Hyr
+Verbenaceae,Verbeae
+Hypericum,Hyp
+Cannabis,Can
+Texture (Texture),Texture
+Sample ID (Sample ID),Sample ID
+Lycopodium-type,Lyc-T
+Sample mass [g] (Samp m),Samp m
+Pinus,Pin
+Dacrydium,Dacrydium
+Cupressaceae,Cupae
+Taxodiaceae,Taxae
+Ginkgo,Ginkgo
+Casuarina,Cau
+Moraceae,Morae
+Rutaceae,Rutae
+Castanea,Cas
+Tamarix,Tam
+Eurya,Eurya
+Sapindaceae,Sapiceae
+Platycarya,Ply
+Myrtaceae,Mytae
+Liquidambar,Liq
+Rubiaceae,Rubae
+Euphorbiaceae,Eupae
+Symplocaceae,Sym
+Elaeocarpaceae,Ela
+Hamamelidaceae,Hamameae
+Mimosaceae,Mimosaceae
+Melastomataceae,Melast
+Caprifoliaceae,Capeae
+Proteaceae,Proteaceae
+Sterculiaceae,Steae
+Alchornea,Alchornea
+Thymelaeaceae,Thyae
+Sapotaceae,Sapeae
+Ephedra,Eph
+Umbelliferae,Umb
+Sanguisorba,San
+Echinops-type,Eci-T
+Solanaceae,Solae
+Commelinaceae,Commceae
+Ricinus,Rcn
+Musaceae,Musaceae
+Amaranthaceae,Amaceae
+Cruciferae,Cru
+Valerianaceae,Valae
+Gesneriaceae,Gesneriaceae
+Polygalaceae,Pgaae
+Lobeliaceae,Lobeae
+Geraniaceae,Gerae
+Convolvulaceae,Conae
+Leguminosae,Leg
+Lythraceae,Lytae
+Balsaminaceae,Balsamae
+Typha,Typ
+Myriophyllum,Myo
+Potamogetonaceae,Potaea
+Selaginella,Sel
+Hicriopteris,Hicriopteris
+Bryophytes,Bryo
+Dryopteridaceae,Dryoceae
+Concentricystes,Concys
+Zygnema,Zyn
+Total counts,Total counts
+Total concentration,conc..
+Pinus,Pinus
+Podocarpus,Podocarpus
+Picea,Picea
+Abies,Abies
+Cedrus,Cedrus
+Cupressaceae,Cupressaceae
+Taxodiaceae,Taxodiaceae
+Tsuga,Tsuga
+Casuarina,Casuarina
+Quercus,Quercus
+Corylus,Corylus
+Betula,Betula
+Ulmus,Ulmus
+Alnus,Alnus
+Juglans,Juglans
+Moraceae,Moraceae
+Rutaceae,Rutaceae
+Castanea,Castanea
+Salix,Salix
+Rhamnaceae,Rhamnaceae
+Fagus,Fagus
+Sapindaceae,Sapindaceae
+Tilia,Tilia
+Platycarya,Platycarya
+Myrtaceae,Myrtaceae
+Liquidambar,Liquidambar
+Euphorbiaceae,Euphorbiaceae
+Ericaceae,Ericac
+Hamamelidaceae,Hamamelidaceae
+Nitraria,Nitraria
+Oleaceae,Oleaceae
+Sterculiaceae,Sterculiaceae
+Verbenaceae,Verbenaceae
+Thymelaeaceae,Thymelaeaceae
+Sapotaceae,Sapotaceae
+Chenopodiaceae,Chenopod
+Artemisia,Artemisia
+Liliaceae,Liliaceae
+Polygonum,Polygonum
+Ephedra,Ephedra
+Umbelliferae,Umbellif
+Solanaceae,Solanaceae
+Lamiaceae,Lamiaceae
+Gentianaceae,Gentianaceae
+Commelinaceae,Commelinaceae
+Amaranthaceae,Amaranthaceae
+Cruciferae,Cruciferae
+Valerianaceae,Valerianaceae
+Malvaceae,Malvaceae
+Geraniaceae,Geraniaceae
+Leguminosae,Leguminosae
+Rumex,Rumex
+Lythraceae,Lythraceae
+Balsaminaceae,Balsaminaceae
+Cyperaceae,Cyperac
+Typha,Typha
+Myriophyllum,Myriophyllum
+Potamogetonaceae,Potamogetonaceae
+Selaginella,Selaginella
+Osmunda,Osm
+"Spores, trilete",trilete
+Zygnema,Zygnema
+Date/Time of event (Date/Time),Date/Time
+Abies sibirica,A. sibirica
+Alisma spp.,Alisma spp.
+Alnus spp.,Alnus spp.
+Apiaceae,Apiaceae
+Artemisia spp.,Artemisia spp.
+Asteroideae,Asteroideae
+Betula spp.,Betula spp.
+Brassicaceae,Brassicac
+Calligonum-type,Calligonum-T
+Campanula-type,Campanula-T
+Cannabis spp.,Cannabis spp.
+Carpinus spp.,Carpinus spp.
+Cereal-type,Cereal-T
+Cichorioideae,Cichorioideae
+Convolvulus-type,Convolvulus-T
+Corylus spp.,Corylus spp.
+Dipsacaceae,Dipae
+Ephedra distachya,E. distachya
+Ephedra fragilis,E. fragilis
+Epilobium-type,Epl-T
+Euphorbia spp.,Euphorbia spp.
+Fabaceae,Fabaceae
+Fumariaceae,Fumariaceae
+Gentiana-type,Gentiana-T
+Geranium-type,Geranium-T
+Hedera spp.,Hedera spp.
+Helianthemum-type,Helianthemum-T
+Hypericum perforatum,H. perforatum
+Hippophae spp.,Hippophae spp.
+Juglans spp.,Juglans spp.
+Juniperus spp.,Juniperus spp.
+Larix sibirica,L. sibirica
+Nitraria spp.,Nitraria spp.
+Papaver spp.,Papaver spp.
+Parnassia palustris,P. palustris
+Picea obovata,P. obovata
+Pinus sibirica,P. sibirica
+Pinus sylvestris,P. sylvestris
+Plantago lanceolata,P. lanceolata
+Plantago-type,Plantago-T
+Polygala-type,Poa-T
+Polygonum-type,Polygonum-T
+Populus tremula,P. tremula
+Primula-type,Primula-T
+Quercus deciduous,Q. deciduous
+Ranunculus-type,Ranunculus-T
+Ribes spp.,Ribes spp.
+Rumex-type,Rumex-T
+Salix spp.,Salix spp.
+Sedum-type,Sedum-T
+Spergularia-type,Spergularia-T
+Tamarix spp.,Tamarix spp.
+Thalictrum spp.,Thalictrum spp.
+Tribulus spp.,Tribulus spp.
+Ulmus spp.,Ulmus spp.
+Urtica spp.,Urtica spp.
+Valeriana-type,Valeriana-T
+Veratrum spp.,Veratrum spp.
+Zygophyllum spp.,Zygophyllum spp.
+Core section label (Sec label),Sec label
+Lycopodium spores added,Lyc.added
+"Marker, added",Mark add
+Pinus wallichiana-type,P. wallichiana-T
+Pinus roxburghii-type,P. roxburghii-T
+Taxus,Tax
+Alnus viridis-type,Aln.v-T
+Alnus glutinosa-type,Aln.g-T
+Juglans regia-type,J. regia-T
+Betula alnoides-type,B. alnoides-T
+Swertia sect. Ophelia-type,S. sect. Ophelia-T
+Primula,Pri
+Caltha/Aquilegia-type,Caltha/Aquilegia-T
+Rhinanthus-type,Rhi-T
+Elymus-type,Ely-T
+Cyperaceae undifferentiated,Cypae.ud
+Schoenus-type,Sch-T
+Schoenoplectus-type,Sce-T
+Indeterminable: degraded,Ind.degr
+Indeterminable: crumpled,Ind.crum
+"Pteridophyta, trilete indeterminata",Ptd.t.indet
+"Pteridophyta, monolete indeterminata",Ptd.m.indet
+Desmidiaceae,Deseae
+Chitinous fragments,Chit fragm
+Chitinous claws,Chit claws
+Chitinous extremities,Chit extrem
+Thecamoeba,Thecamoeba
+Artemisia/Chenopodiaceae index,A/C
+sum trees and shrubs,s trees+shrubs
+sum broadleaved trees,s broadl trees
+sum broadleaved shrubs,s broadl shrubs
+"sum dwarf shrubs, herbs and graminoids",s shrubs+herbs+gram
+sum pteridophyta,s pteridophyta
+Sum algae,s algae
+sum non-pollen-palynomorphs,s n-pollen-palyn
+sum indetermined pollen,s indet pollen
+sum basic pollen,s basic pollen
+Pteridophytes,Pteridophytes
+Algae,Alg
+"Palynomorpha, non-pollen",non-pollen
+Elaeagnus,Elaeagnus
+Hippophae,Hipp
+Asteraceae,Asterac
+Polygonaceae,Polygonaceae
+Polypodiaceae,Polypo
+Pteris,Pteris
+"Pollen, conifers",Pollen conif
+"Pollen, broadleaves",Pollen broadl
+"Pollen, shrubs",Pollen shrubs
+"Pollen, herbs",Pollen herbs
+"Pollen, total",Pollen tot

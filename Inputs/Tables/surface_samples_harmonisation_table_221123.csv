@@ -1,0 +1,4971 @@
+taxon_name,eco_group,family_level
+*Concentration,CHAR,delete
+*sum,HERB,delete
+"4-5 colporat 20 mkm, psilat, schmetterlingsporen",NOPO,delete
+A. tubuliflorae,HERB,NA
+ABIES,TRSH,delete
+ACACIA,TRSH,Fabaceae
+ACER,TRSH,Sapindaceae
+AESCULUS,TRSH,Sapindaceae
+AGE [ka BP] (Age),NA,delete
+AILANTHUS,TRSH,Simaroubaceae
+ALCHEMILLA,HERB,Rosaceae
+ALNUS,TRSH,Betulaceae
+ALNUS  incana,TRSH,Betulaceae
+ALNUS indiff.,TRSH,Betulaceae
+ALNUS viridis,TRSH,Betulaceae
+AMBROSIA type,HERB,Asteraceae
+APIACEAE,HERB,Apiaceae
+ARBUTUS,TRSH,Ericaceae
+ARTEMISIA,HERB,Asteraceae
+ASPLENIUM,VACR,delete
+ASTERACEAE aster.,HERB,Asteraceae
+ASTERACEAE cichor.,HERB,Asteraceae
+ASTERACEAE lig.,HERB,Asteraceae
+ASTERACEAE tub.,HERB,Asteraceae
+ASTEROIDEAE,HERB,Asteraceae
+Abies,TRSH,delete
+Abies (Abies),NA,delete
+Abies alba,TRSH,delete
+Abies cilicica,TRSH,delete
+Abies marocana,TRSH,delete
+Abies maroccana,TRSH,delete
+Abies nordmanniana,TRSH,delete
+Abies or Picea,TRSH,delete
+Abies pinsapo,TRSH,delete
+Abies sibirica,TRSH,delete
+Abies: stomata,MACR,delete
+Acacia,TRSH,Fabaceae
+Acanthaceae,NA,Acanthaceae
+Acantholimon,HERB,Plumbaginaceae
+Acanthus,HERB,Acanthaceae
+Acanthus mollis,HERB,Acanthaceae
+Acer,TRSH,Sapindaceae
+Acer (Acer),TRSH,Sapindaceae
+Acer campestre,TRSH,Sapindaceae
+Acer campestre type,TRSH,Sapindaceae
+Acer campestre type clumps,TRSH,Sapindaceae
+Acer campestre type clumps of two,TRSH,Sapindaceae
+Acer campestre-type,TRSH,Sapindaceae
+Acer pseudoplatanus,TRSH,Sapindaceae
+Acer turkestanica,TRSH,Sapindaceae
+Acer-type,TRSH,Sapindaceae
+Achillea,HERB,Asteraceae
+Achillea /Eupatorium tp.,HERB,Asteraceae
+Achillea T,HERB,Asteraceae
+Achillea type,HERB,Asteraceae
+Achillea-type,HERB,Asteraceae
+Achillea/Aster,HERB,Asteraceae
+Achillea/Aster-type,HERB,Asteraceae
+Achillia,HERB,Asteraceae
+Aconitum,HERB,Ranunculaceae
+Aconitum T,HERB,Ranunculaceae
+Aconitum septentrionale,HERB,Ranunculaceae
+Aconitum-group,HERB,Ranunculaceae
+Aconitum-type,HERB,Ranunculaceae
+Aconogonon,HERB,Polygonaceae
+Aconogonon (Aconogonon),NA,Polygonaceae
+Acritarchs,ACRI,delete
+Actinidia,NA,Actinidiaceae
+Actinostemma-Gynostemma,HERB,Cucurbitaceae
+Added exote (grains/ml),NOPO,delete
+Adenostyles-type,HERB,Asteraceae
+Adianthum,INUN,delete
+Adiantum,VACR,delete
+Adiantum-type,NA,delete
+Adiantum-type (Adiantum-T),NA,delete
+Adonis,HERB,Ranunculaceae
+Adonis aestivalis,HERB,Ranunculaceae
+Adonis aestivalis-type,HERB,Ranunculaceae
+Adonis annua-type,HERB,Ranunculaceae
+Adonis vernalis,HERB,Ranunculaceae
+Adonis-type,INUN,Ranunculaceae
+Adoxa,HERB,Adoxaceae
+Adoxa moschatellina,HERB,Adoxaceae
+Adoxaceae,HERB,Adoxaceae
+Aegopodium,HERB,Apiaceae
+Aegopodium podagraria,HERB,Apiaceae
+Aegopodium type,UPHE,Apiaceae
+Aellenia-type,HERB,Amaranthaceae
+Aerva-type,NA,Amaranthaceae
+Aesculus,TRSH,Sapindaceae
+Aesculus hippocastaneum,TRSH,Sapindaceae
+Aesculus hippocastanum,TRSH,Sapindaceae
+Aethusa cynapium-type,HERB,Apiaceae
+Agrimonia,HERB,Rosaceae
+Agrimonia-type,HERB,Rosaceae
+Agrostemma,HERB,Caryophyllaceae
+Agrostemma githago,HERB,Caryophyllaceae
+Ailanthus,TRSH,Simaroubaceae
+Ailanthus altissima,TRSH,Simaroubaceae
+Aizoaceae,NA,Aizoaceae
+Ajuga type,HERB,Lamiaceae
+Alangium,NA,Cornaceae
+Alchemilla,HERB,Rosaceae
+Alchemilla G,HERB,Rosaceae
+Alchemilla pentaphylla-type,HERB,Rosaceae
+Alchemilla pentaphyllea,HERB,Rosaceae
+Alchemilla-type,HERB,Rosaceae
+Alchornea,NA,Euphorbiaceae
+Algae,ALGA,delete
+Alis._pl-go,AQUA,delete
+Alisma,AQUA,delete
+Alisma plantago-aquatica,AQUA,delete
+Alisma spp.,NA,delete
+Alisma t.,AQUA,delete
+Alisma-type,AQUA,delete
+Alismataceae,AQUA,delete
+Alkanna,HERB,Boraginaceae
+Alkanna-type,HERB,Boraginaceae
+Alliaceae,HERB,Amaryllidaceae
+Allium,HERB,Amaryllidaceae
+Allium type,HERB,Amaryllidaceae
+Allium ursinum T,HERB,Amaryllidaceae
+Allium ursinum type,HERB,Amaryllidaceae
+Allium ursinum-type,HERB,Amaryllidaceae
+Allium-type,HERB,Amaryllidaceae
+Allium-type (Allium-T),NA,Amaryllidaceae
+Alnaster,TRSH,Betulaceae
+"Alnaster (Alnus shrub-type: Alnaster fruticosus, Alnus fruticosa, Alnus maximowiczii)",TRSH,Betulaceae
+Alnus,TRSH,Betulaceae
+Alnus cf. A. incana,TRSH,Betulaceae
+Alnus fruticosa,TRSH,Betulaceae
+Alnus fruticosa-type,TRSH,Betulaceae
+Alnus glutinosa,TRSH,Betulaceae
+Alnus glutinosa T,TRSH,Betulaceae
+Alnus glutinosa-type,TRSH,Betulaceae
+Alnus glutinosa/A. incana,TRSH,Betulaceae
+Alnus incana,TRSH,Betulaceae
+Alnus incana subsp. hirsuta,TRSH,Betulaceae
+Alnus incana/A. glutinosa,TRSH,Betulaceae
+Alnus incana/cordata-type,TRSH,Betulaceae
+Alnus non-viridis,TRSH,Betulaceae
+Alnus spp.,NA,Betulaceae
+Alnus undiff.,TRSH,Betulaceae
+Alnus undifferentiated,TRSH,Betulaceae
+Alnus viridis,TRSH,Betulaceae
+Alnus viridis subsp. crispa,TRSH,Betulaceae
+Alnus viridis subsp. crispa-type,TRSH,Betulaceae
+Alnus viridis subsp. fruticosa,TRSH,Betulaceae
+Alnus viridis subsp. fruticosa-type,TRSH,Betulaceae
+Alnus viridis-type,NA,Betulaceae
+Alnus-type,TRSH,Betulaceae
+Alnus5p,TRSH,Betulaceae
+Alternanthera,HERB,Amaranthaceae
+Alternaria,FUNG,delete
+Althaenia,INUN,delete
+Amar.-Chenop.,HERB,Amaranthaceae
+Amaranthaceae,HERB,Amaranthaceae
+Amaranthaceae/Chenopodiaceae,HERB,Amaranthaceae
+Amaranthus,HERB,Amaranthaceae
+Amaryllidaceae,HERB,Amaryllidaceae
+Amblys-eae,MOSS,delete
+Ambrosia,HERB,Asteraceae
+Ambrosia artemisiifolia-type,HERB,Asteraceae
+Ambrosia t.,HERB,Asteraceae
+Ambrosia type,HERB,Asteraceae
+Ambrosia type: Xanthium,HERB,Asteraceae
+Ambrosia-type,HERB,Asteraceae
+Ammi-type,HERB,Apiaceae
+Amorpha fruticosa,TRSH,Fabaceae
+Amphitrema,RHIZ,delete
+Amphitrema flavum,RHIZ,delete
+Anabaena,NOPO,delete
+Anabaena,CYAN,delete
+Anacardiaceae,TRSH,Anacardiaceae
+Anacardiaceae (other),NA,Anacardiaceae
+Anagallis,HERB,Primulaceae
+Anagallis arvensis,HERB,Primulaceae
+Anagallis arvensis type,HERB,Primulaceae
+Anagallis arvensis-type,HERB,Primulaceae
+Anagallis tenella,HERB,Primulaceae
+Anagallis tenella type,HERB,Primulaceae
+Anagallis type,HERB,Primulaceae
+Analysed lines,NOPO,delete
+Analyst (Analyst),NA,delete
+Anchusa,HERB,Boraginaceae
+Anchusa arvensis,HERB,Boraginaceae
+Anchusa officinalis,HERB,Boraginaceae
+Anchusa-type,HERB,Boraginaceae
+Andrachne,DWAR,Phyllanthaceae
+Andrachne telephioides,DWAR,Phyllanthaceae
+Andromeda,DWAR,Ericaceae
+Androsace,HERB,Primulaceae
+Androsace-type,HERB,Primulaceae
+Androsaceae,HERB,Primulaceae
+Anemone,HERB,Ranunculaceae
+Anemone hortensis,HERB,Ranunculaceae
+Anemone nemorosa,HERB,Ranunculaceae
+Anemone nemorosa-type,HERB,Ranunculaceae
+Anemone nemorosa-type/Hepatica nobilis,HERB,Ranunculaceae
+Anemone nemorosa/ranunculoides,HERB,Ranunculaceae
+Anemone typ,HERB,Ranunculaceae
+Anemone type,HERB,Ranunculaceae
+Anemone-type,HERB,Ranunculaceae
+Anemone/Clematis-type,HERB,Ranunculaceae
+Anemone/Clematis-type (Anemone/Clematis-T),NA,Ranunculaceae
+Anemone/Pulsatilla-type,HERB,Ranunculaceae
+Anethum,HERB,Apiaceae
+Anethum graveolens,HERB,Apiaceae
+Anethum-type,HERB,Apiaceae
+Angelica,HERB,Apiaceae
+Angelica tp.,HERB,Apiaceae
+Angelica-type,HERB,Apiaceae
+Anisosciadium-type,HERB,Apiaceae
+Annonaceae,NA,Annonaceae
+Anogramma leptophylla,VACR,delete
+Anphitrema,RHIZ,delete
+Antennaria,HERB,Asteraceae
+Antennaria-type,HERB,Asteraceae
+Anthemidae,HERB,Asteraceae
+Anthemideae,HERB,Asteraceae
+Anthemis,HERB,Asteraceae
+Anthemis  type,HERB,Asteraceae
+Anthemis typ,HERB,Asteraceae
+Anthemis type,HERB,Asteraceae
+Anthemis-type,HERB,Asteraceae
+Anthemis-type (Anthemis-T),NA,Asteraceae
+Anthemis/Achillea-type,HERB,Asteraceae
+Anthericum,HERB,Asparagaceae
+Anthericum-type,HERB,Asparagaceae
+Anthoceros,BRYO,delete
+Anthoceros laevis,BRYO,delete
+Anthoceros punctatus,BRYO,delete
+Anthostomella fuegiana,FUNG,delete
+Anthoxanthum,HERB,Poaceae
+Anthriscus sylvestris,HERB,Apiaceae
+Anthriscus sylvestris-type,HERB,Apiaceae
+Anthriscus-type,HERB,Apiaceae
+Anthyllis,HERB,Fabaceae
+Antirrhinum-type,HERB,Plantaginaceae
+Antirrhinum/Linaria,HERB,Plantaginaceae
+Anuraeopsis fissa,ROTI,delete
+Anus,TRSH,Betulaceae
+Aphanes,HERB,Rosaceae
+Aphanes-type,HERB,Rosaceae
+Apiaceae,HERB,Apiaceae
+Apiaceae (Apiaceae),NA,Apiaceae
+Apiaceae indet.,HERB,Apiaceae
+Apiaceae small,HERB,Apiaceae
+Apiaceae types 2&3,HERB,Apiaceae
+Apiaceae undiff.,HERB,Apiaceae
+Apiaceae undifferentiated,HERB,Apiaceae
+"Apiaceae, Astoma",HERB,Apiaceae
+"Apiaceae, Bupleurum",HERB,Apiaceae
+"Apiaceae, Eryngium",HERB,Apiaceae
+"Apiaceae, Ferula",HERB,Apiaceae
+"Apiaceae, Heracleum",HERB,Apiaceae
+"Apiaceae, Pimpinella",HERB,Apiaceae
+"Apiaceae, Torilis type",HERB,Apiaceae
+Apium inundatum type,HERB,Apiaceae
+Apium inundatum-type,AQUA,Apiaceae
+Apium inundatum-type,HERB,Apiaceae
+Apium-type,HERB,Apiaceae
+Apium/Berula,HERB,Apiaceae
+Apocynaceae (other),NA,Apocynaceae
+Aquatic remains unidentified,INUN,delete
+Aquatics,INUN,delete
+Aquifoliaceae,NA,Aquifoliaceae
+Aquilegia,HERB,Ranunculaceae
+Aquilegia type,HERB,Ranunculaceae
+Aquilegia-type,HERB,Ranunculaceae
+Arabidopsis,HERB,Brassicaceae
+Araceae,HERB,Araceae
+Aralia,TRSH,Araliaceae
+Araliaceae,TRSH,Araliaceae
+Arboreal pollen,NA,delete
+Arbutus,TRSH,Ericaceae
+Arbutus unedo,TRSH,Ericaceae
+Arbutus-type,TRSH,Ericaceae
+Arcella,RHIZ,delete
+Arcella C,RHIZ,delete
+Arcella arenaria,RHIZ,delete
+Arcella artocrea,RHIZ,delete
+Arcella catinus  type,RHIZ,delete
+Arcella discoides,RHIZ,delete
+Arcella discoides C,RHIZ,delete
+Arcella sp.,RHIZ,delete
+Arcella vulgaris,RHIZ,delete
+Arcella-type,NA,delete
+Arceuthobium,TRSH,Santalaceae
+Arceuthobium oxycedri,TRSH,Santalaceae
+Arctium,HERB,Asteraceae
+Arctium-type,HERB,Asteraceae
+Arctium/Jurinea,HERB,Asteraceae
+Arctostaphylos,DWAR,Ericaceae
+Arctostaphylos alpinus,DWAR,Ericaceae
+Arctostaphylos uva-ursi,DWAR,Ericaceae
+Arenaria,HERB,Caryophyllaceae
+Arenaria-type,HERB,Caryophyllaceae
+Argania spinosa,TRSH,Sapotaceae
+Aristolochia,HERB,Aristolochiaceae
+Armeria,HERB,Plumbaginaceae
+Armeria maritima,HERB,Plumbaginaceae
+Armeria maritima subsp. elongata,HERB,Plumbaginaceae
+Armeria-type,HERB,Plumbaginaceae
+Armeria-type A+B,HERB,Plumbaginaceae
+Armeria/Limonium,HERB,Plumbaginaceae
+Armeria/Limonium-type,HERB,Plumbaginaceae
+Arnebia-type,HERB,Boraginaceae
+Arnica montana,HERB,Asteraceae
+Aroos daryaee,INUN,delete
+Artemisia,HERB,Asteraceae
+Artemisia genipii/A. mutellina,HERB,Asteraceae
+Artemisia herba-alba-type,HERB,Asteraceae
+Artemisia norvegica,HERB,Asteraceae
+Artemisia spp.,NA,Asteraceae
+Artemisia type,HERB,Asteraceae
+Artemisia undiff.,HERB,Asteraceae
+Artemisia vulgaris-type,HERB,Asteraceae
+Artemisia-type,HERB,Asteraceae
+Artemisia/Chenopodiaceae index,NA,Asteraceae
+Arthrop. Mandible,INUN,delete
+Artocarpus,NA,Moraceae
+Artropod,INVE,delete
+Aruncus T,HERB,Rosaceae
+Aruncus t.,HERB,Rosaceae
+Aruncus-type,HERB,Rosaceae
+Asclepiadaceae,INUN,Apocynaceae
+Ascodemis type UG 1285,FUNG,delete
+Ascospores undiff.,FUNG,delete
+Asparagus,HERB,Asparagaceae
+Asparagus cf.,INUN,Asparagaceae
+Asparagus t.,HERB,Asparagaceae
+Asparagus-type,HERB,Asparagaceae
+Asperula,HERB,Rubiaceae
+Asperula-type,HERB,Rubiaceae
+Asphodeline,HERB,Asphodelaceae
+Asphodelus,HERB,Asphodelaceae
+Asphodelus albus,HERB,Asphodelaceae
+Asphodelus albus t.,HERB,Asphodelaceae
+Asphodelus albus-type,HERB,Asphodelaceae
+Asphodelus fistulosus-type,HERB,Asphodelaceae
+Asphodelus-type,HERB,Asphodelaceae
+Aspid.-Asple.,VACR,delete
+Asplenium,VACR,delete
+Asplenium ceterach type,VACR,delete
+Asplenium scolopendrium,VACR,delete
+Asplenium trichomanes-ramosum,VACR,delete
+Asplenium type,VACR,delete
+Asplenium viride,VACR,delete
+Asplenium-type,VACR,delete
+Assulina,RHIZ,delete
+Assulina muscorum,RHIZ,delete
+Assulina seminulum,RHIZ,delete
+Ast. liguliflorae,HERB,Asteraceae
+Ast. tubulifl.,HERB,Asteraceae
+Ast. tubuliflorae,HERB,Asteraceae
+Aster,HERB,Asteraceae
+Aster  type,HERB,Asteraceae
+Aster bellidiastrum,HERB,Asteraceae
+Aster type,HERB,Asteraceae
+Aster-type,HERB,Asteraceae
+Aster-type (Ast-T),NA,Asteraceae
+Aster. liguliflorae,HERB,Asteraceae
+Aster. tubuliflorae,HERB,Asteraceae
+Aster/Achillea,HERB,Asteraceae
+Aster/Gnaphalium-type,NA,Asteraceae
+Asteraceae,HERB,Asteraceae
+Asteraceae (Asteroid./Card.),HERB,Asteraceae
+Asteraceae (C/A),HERB,Asteraceae
+Asteraceae (Lactuc.),HERB,Asteraceae
+Asteraceae (Liguliflorae),HERB,Asteraceae
+Asteraceae (Tubuliflorae),HERB,Asteraceae
+Asteraceae (liguliflorae),HERB,Asteraceae
+Asteraceae (non-Artemisia),NA,Asteraceae
+Asteraceae Centaurea cyanus,HERB,Asteraceae
+Asteraceae Centaurea sol.,HERB,Asteraceae
+Asteraceae Cichorioideae,HERB,Asteraceae
+Asteraceae Circium type,HERB,Asteraceae
+Asteraceae Helianthus type,HERB,Asteraceae
+Asteraceae Liguliflorae,HERB,Asteraceae
+Asteraceae Tubuliflorae,HERB,Asteraceae
+Asteraceae anthemis type,HERB,Asteraceae
+Asteraceae aster type,HERB,Asteraceae
+Asteraceae carthamus,HERB,Asteraceae
+Asteraceae cirsium type,HERB,Asteraceae
+Asteraceae clumps,HERB,Asteraceae
+Asteraceae lactuceae type,HERB,Asteraceae
+Asteraceae ligulifl.,HERB,Asteraceae
+Asteraceae liguliflorae,HERB,Asteraceae
+Asteraceae matricaria-type,HERB,Asteraceae
+Asteraceae saussurea type,HERB,Asteraceae
+Asteraceae saussurea-type,HERB,Asteraceae
+Asteraceae senecio-type,HERB,Asteraceae
+Asteraceae subf. Asteroideae,HERB,Asteraceae
+Asteraceae subf. Asteroideae undiff.,HERB,Asteraceae
+Asteraceae subf. Cichorioideae,HERB,Asteraceae
+Asteraceae subf. Cichorioideae undiff.,HERB,Asteraceae
+Asteraceae subfam. Cichorioideae,HERB,Asteraceae
+Asteraceae subfam. Cichorioideae undifferentiated,HERB,Asteraceae
+Asteraceae tubul.,HERB,Asteraceae
+Asteraceae tubuliflorae,HERB,Asteraceae
+Asteraceae undiff.,HERB,Asteraceae
+Asteraceae undiff. type,HERB,Asteraceae
+Asteraceae undifferentiated,HERB,Asteraceae
+Asteraceae(equinulada),HERB,Asteraceae
+"Asteraceae, Carduncellus",HERB,Asteraceae
+"Asteraceae, Carthamus",HERB,Asteraceae
+"Asteraceae, Centaurea ustulata",HERB,Asteraceae
+"Asteraceae, HS",HERB,Asteraceae
+"Asteraceae, Onopordon",HERB,Asteraceae
+"Asteraceae, Ptilostemon",HERB,Asteraceae
+"Asteraceae, Senecio type",HERB,Asteraceae
+"Asteraceae, low spine",HERB,Asteraceae
+Asteraceae. Echinops,HERB,Asteraceae
+Asteraceae/Asteroideae,HERB,Asteraceae
+Asteraceae/Cichorioideae,HERB,Asteraceae
+AsteraceaeAste,HERB,Asteraceae
+AsteraceaeCich,HERB,Asteraceae
+Asteroideae,HERB,Asteraceae
+Asteroideae pro parte,HERB,Asteraceae
+Asteroideae undiff.,HERB,Asteraceae
+Asterosporium,FUNG,delete
+Asterosporium asterospermum,FUNG,delete
+Astoma,HERB,Apiaceae
+Astragalus,HERB,Fabaceae
+Astragalus T,HERB,Fabaceae
+Astragalus alpinus,HERB,Fabaceae
+Astragalus alpinus-type,HERB,Fabaceae
+Astragalus type,HERB,Fabaceae
+Astragalus undiff.,HERB,Fabaceae
+Astragalus-type,HERB,Fabaceae
+Astragalus/Oxytropis-type,HERB,Fabaceae
+Astragalus/Oxytropis-type (Astragalus/Oxytropis-T),NA,Fabaceae
+Astrantia,HERB,Apiaceae
+Astrantia type,HERB,Apiaceae
+Astrantia-type,HERB,Apiaceae
+Ath._f.-f.,VACR,delete
+Athamanta cretensis,HERB,Apiaceae
+Athyrium,VACR,delete
+Athyrium alpestre-type,VACR,delete
+Athyrium distentifolium,VACR,delete
+Athyrium distentifolium-type,VACR,delete
+Athyrium filix femina,VACR,delete
+Athyrium filix-femina,VACR,delete
+Athyrium filix-femina-type,NA,delete
+Atraphaxis,HERB,Polygonaceae
+Atrichum spores,BRYO,delete
+Atriplex nudicaulis,HERB,Amaranthaceae
+Avena,HERB,Poaceae
+Avena T,HERB,Poaceae
+Avena Triticum group,HERB,Poaceae
+Avena sativa,HERB,Poaceae
+Avena t.,HERB,Poaceae
+Avena type,HERB,Poaceae
+Avena-Triticum,HERB,Poaceae
+Avena-Triticum group,HERB,Poaceae
+Avena-type,HERB,Poaceae
+Avena/Triticum,HERB,Poaceae
+Avena/Triticum group,HERB,Poaceae
+Avena/Triticum-group,HERB,Poaceae
+Avena/Triticum-type,HERB,Poaceae
+Azolla,VACR,delete
+Azolla-Salvinia massula,AQPT,delete
+Azolla-Salvinia microspore,AQPT,delete
+Azolla/Salvinia spore(s),AQPT,delete
+Azolla: massulae,AQPT,delete
+BERBERIS,TRSH,Berberidaceae
+BETULA,TRSH,Betulaceae
+BETULA NANA,DWAR,Betulaceae
+BORAGINACEAE,HERB,Boraginaceae
+BOTRYCHIUM,VACR,delete
+BOTRYOCOCCACEAE,NOPO,delete
+BRASSICACEAE,HERB,Brassicaceae
+BRYOPHYTA,BRYO,delete
+BUPLEURUM,HERB,Apiaceae
+BUXUS,TRSH,Buxaceae
+Ballota,HERB,Lamiaceae
+Ballota-group,HERB,Lamiaceae
+Ballota-type,HERB,Lamiaceae
+Balsaminaceae,HERB,Balsaminaceae
+Barbarea-type,HERB,Brassicaceae
+Bartsia-type,HERB,Orobanchaceae
+Batrachium,HERB,delete
+Batrachium,AQUA,delete
+Batrachium t.,AQUA,delete
+Batrachium-type,AQUA,delete
+Bellis,HERB,Asteraceae
+Bellis-type,HERB,Asteraceae
+Berberidaceae,NA,Berberidaceae
+Berberis,TRSH,Berberidaceae
+Berberis (Berberis),NA,Berberidaceae
+Berberis vulgaris,TRSH,Berberidaceae
+Bergenia,NA,Saxifragaceae
+Bergenia crassifolia,HERB,Saxifragaceae
+Bergenia-type,NA,Saxifragaceae
+Berula erecta,HELO,Apiaceae
+Berula erecta-group,HERB,Apiaceae
+Bet._nana,DWAR,Betulaceae
+Beta type,HERB,Betulaceae
+Beta-type,HERB,Betulaceae
+Betula,TRSH,Betulaceae
+Betula (excl. B. nana),TRSH,Betulaceae
+Betula alba,TRSH,Betulaceae
+Betula alba-type,TRSH,Betulaceae
+Betula alnoides-type,NA,Betulaceae
+Betula exilis,DWAR,Betulaceae
+Betula fruticosa,DWAR,Betulaceae
+Betula fruticosa,TRSH,Betulaceae
+Betula glandulosa,TRSH,Betulaceae
+Betula humilis,DWAR,Betulaceae
+Betula nana,DWAR,Betulaceae
+Betula nana-type,DWAR,Betulaceae
+Betula nana-type,TRSH,Betulaceae
+Betula nana=Betula sect. Nanae,DWAR,Betulaceae
+Betula or Bet.s.Albae,TRSH,Betulaceae
+Betula pendula,TRSH,Betulaceae
+Betula pendula/pubescens,TRSH,Betulaceae
+Betula pubescens,TRSH,Betulaceae
+Betula pubescens-type,TRSH,Betulaceae
+Betula sect. Albae,TRSH,Betulaceae
+Betula sect. Albae-type,TRSH,Betulaceae
+Betula sect. Betula,TRSH,Betulaceae
+Betula sect. Costatae,TRSH,Betulaceae
+Betula sect. Fruticosae,DWAR,Betulaceae
+Betula sect. Fruticosae,TRSH,Betulaceae
+Betula sect. Nanae,DWAR,Betulaceae
+Betula sect. Nanae-type,DWAR,Betulaceae
+Betula sect. Nanae/Fruticosa,DWAR,Betulaceae
+Betula sect. Nanae/Fruticosae-type,DWAR,Betulaceae
+Betula spp.,NA,Betulaceae
+Betula tortuosa,TRSH,Betulaceae
+Betula tree,TRSH,Betulaceae
+Betula undiff.,TRSH,Betulaceae
+Betula undifferentiated,TRSH,Betulaceae
+Betula utilis-type,NA,Betulaceae
+Betula-Tetrade,MACR,Betulaceae
+Betula-type,TRSH,Betulaceae
+Betula/Carpinus,TRSH,Betulaceae
+Betula/Corylus,TRSH,Betulaceae
+Betula/Corylus/Myrica,TRSH,Betulaceae
+Betulaceae,TRSH,Betulaceae
+Bidens,HERB,Asteraceae
+Bidens-type,HERB,Asteraceae
+Biebersteinia,UPHE,Biebersteiniaceae
+Biebersteinia (Biebersteinia),NA,Biebersteiniaceae
+Bifaria type,INUN,Santalaceae
+Bignoniaceae,NA,Bignoniaceae
+Bilderdykia convolvulus,HERB,Polygonaceae
+Bilderdykia convolvulus-type,HERB,Polygonaceae
+Bilderdykia convolvulus/B. dumetorum,HERB,Polygonaceae
+Bistorta,HERB,Polygonaceae
+Bistorta (Bistorta),NA,Polygonaceae
+Bistorta t.,HERB,Polygonaceae
+Bistorta vivipara,HERB,Polygonaceae
+Bistorta-type,HERB,Polygonaceae
+Bitectatodinium tepikiense,DINO,delete
+Blechnum,VACR,delete
+Blechnum spicant,VACR,delete
+Blechnum-type (Blechnum-T),NA,delete
+Bombacaceae,NA,Malvaceae
+Boraginaceae,HERB,Boraginaceae
+Boraginaceae (Boraginaceae),NA,Boraginaceae
+Boraginaceae indet.,HERB,Boraginaceae
+Boraginaceae undiff.,HERB,Boraginaceae
+Borrag-eae,HERB,Boraginaceae
+Botrychium,VACR,delete
+Botrychium boreale,VACR,delete
+Botrychium lunaria,VACR,delete
+Botrychium lunaria-type,VACR,delete
+Botrychium multifidum,VACR,delete
+Botrychium-type,VACR,delete
+Botryoccocus,ALGA,delete
+Botryococcaceae,NOPO,delete
+Botryococcus,ALGA,delete
+Botryococcus braunii,ALGA,delete
+Botryococcus pila,ALGA,delete
+Brass-eae,HERB,Brassicaceae
+Brassica,HERB,Brassicaceae
+Brassica type,HERB,Brassicaceae
+Brassica-type,HERB,Brassicaceae
+Brassicacaeae,HERB,Brassicaceae
+Brassicaceae,HERB,Brassicaceae
+Brassicaceae Hornungia & Sinapis t.,HERB,Brassicaceae
+Brassicaceae cf. Cardamine,HERB,Brassicaceae
+Brassicaceae clumps,HERB,Brassicaceae
+Brassicaceae undiff.,HERB,Brassicaceae
+Brassicaeae,HERB,Brassicaceae
+Brigantedinium,DINO,delete
+Brigantedinium,ALGA,delete
+Briophyte 340-type,BRYO,delete
+Broussonetia,NA,Moraceae
+Bruckenthalia,DWAR,Ericaceae
+Bryales,BRYO,delete
+Bryales undiff.,BRYO,delete
+Bryales/Botrychium,VACR,delete
+Bryidae,BRYO,delete
+Bryideae,BRYO,delete
+Bryonia,HERB,Cucurbitaceae
+Bryophyta,BRYO,delete
+Bryophyte spores,BRYO,delete
+Bryophytes,BRYO,delete
+Buddleia,TRSH,Scrophulariaceae
+Bunium-type,HERB,Apiaceae
+Bupleurum,HERB,Apiaceae
+Bupleurum t.,HERB,Apiaceae
+Bupleurum-type,HERB,Apiaceae
+Burn tissues,CHAR,delete
+Butomaceae,AQUA,delete
+Butomus,HELO,delete
+Butomus,AQUA,delete
+Butomus umbellatus,AQUA,delete
+Buxaceae,NA,Buxaceae
+Buxus,TRSH,Buxaceae
+Buxus clumps,TRSH,Buxaceae
+Buxus clumps of two,TRSH,Buxaceae
+Buxus sempervirens,TRSH,Buxaceae
+Byssothecium circinans,FUNG,delete
+C. Asteraceae,HERB,Asteraceae
+C. Cichoriaceae,HERB,Asteraceae
+C. Orientalis/Ostrya,TRSH,Betulaceae
+C. orientalis,TRSH,Betulaceae
+CALLUNA,TRSH,Ericaceae
+CALLUNA VULGARIS,TRSH,Ericaceae
+CALYSTEGIA,HERB,Convolvulaceae
+CAMPANULACEAE,HERB,Campanulaceae
+CANNABACEAE,HERB,Cannabaceae
+CARDAMINE TYPE,HERB,Brassicaceae
+CARDUUS type,HERB,Asteraceae
+CAREX type,HELO,delete
+CARPINUS,TRSH,Betulaceae
+CARPINUS BETULUS,TRSH,Betulaceae
+CARYOPHYLLACEAE,HERB,Caryophyllaceae
+CASTANEA,TRSH,Fagaceae
+CEDRUS,TRSH,delete
+CELTIS,TRSH,Cannabaceae
+CENTAUREA,HERB,Asteraceae
+CEREALIA t.,HERB,Poaceae
+CHAEROPHYLLUM HIRSUTUM,HERB,Apiaceae
+CHENOPODIACEAE,HERB,Amaranthaceae
+CHENOPODIACEAE/AMARANTHACEAE,HERB,Amaranthaceae
+CICHORIOIDEAE,HERB,Asteraceae
+CIRSIUM,HERB,Asteraceae
+COMP. LIGULIFLORAE,HERB,Asteraceae
+CONVOLVULACEAE,HERB,Convolvulaceae
+CORNUS,TRSH,Cornaceae
+CORRODED POLLEN undeterminable,INUN,delete
+CORYLUS,TRSH,Betulaceae
+CRATAEGUS,TRSH,Rosaceae
+CRUCIFERAE,HERB,Brassicaceae
+CUPRESSACEAE,TRSH,delete
+CUPRESSUS,TRSH,delete
+CYCLAMEN,HERB,Primulaceae
+CYPERACEAE,HERB,Cyperaceae
+CYPERACEAE/JUNCACEAE,HERB,Cyperaceae
+CYSTOPTERIS,VACR,delete
+Cactaceae,NA,Cactaceae
+Calendula,HERB,Asteraceae
+Calendula-type,HERB,Asteraceae
+Callidina,ROTI,delete
+Callidina angusticollis,ROTI,delete
+Calligonum,TRSH,Polygonaceae
+Calligonum-type,NA,Polygonaceae
+Callitriche,HERB,delete
+Callitriche,AQUA,delete
+Callitriche obtusangula,AQUA,delete
+Calluna,TRSH,Ericaceae
+Calluna,DWAR,Ericaceae
+Calluna vulgaris,TRSH,Ericaceae
+Calluna vulgaris,DWAR,Ericaceae
+Calluna vulgaris-type,TRSH,Ericaceae
+Calluna-type,DWAR,Ericaceae
+Caltha,AQUA,delete
+Caltha,HERB,delete
+Caltha T,HELO,delete
+Caltha palustris,AQUA,delete
+Caltha palustris type,HELO,delete
+Caltha palustris-type,AQUA,delete
+Caltha palustris-type,HELO,delete
+Caltha typ,HELO,delete
+Caltha type,HELO,delete
+Caltha-type,HELO,delete
+Caltha-type,HERB,delete
+Caltha/Aquilegia-type,NA,delete
+Caltha/Isopyrum-type,NA,delete
+Calycotome,TRSH,Fabaceae
+Calystegia,HERB,Convolvulaceae
+Calystegia sepium,HERB,Convolvulaceae
+Camelia sinensis?,TRSH,Theaceae
+Camellia,TRSH,Theaceae
+Campanula,HERB,Campanulaceae
+Campanula gieseckiana,HERB,Campanulaceae
+Campanula trachelium T,HERB,Campanulaceae
+Campanula trachelium-type,HERB,Campanulaceae
+Campanula type,HERB,Campanulaceae
+Campanula-type,HERB,Campanulaceae
+Campanulaceae,HERB,Campanulaceae
+Campanulaceae indet.,HERB,Campanulaceae
+Canarium,NA,Burseraceae
+Cannabaceae,TRSH,Cannabaceae
+Cannabaceae,HERB,Cannabaceae
+Cannabaceae-type,HERB,Cannabaceae
+Cannabiaceae,TRSH,Cannabaceae
+Cannabis,HERB,Cannabaceae
+Cannabis sativa,HERB,Cannabaceae
+Cannabis spp.,NA,Cannabaceae
+Cannabis t.,HERB,Cannabaceae
+Cannabis type,HERB,Cannabaceae
+Cannabis-type,HERB,Cannabaceae
+Cannabis-type (Cannabis-T),NA,Cannabaceae
+Cannabis/Humulus,HERB,Cannabaceae
+Cannabis/Humulus-type,HERB,Cannabaceae
+Capparidaceae,TRSH,Capparaceae
+Capparis,TRSH,Capparaceae
+Capparis spinosa,TRSH,Capparaceae
+Caprifoliaceae,TRSH,Caprifoliaceae
+Capsella,HERB,Brassicaceae
+Capsella bursa-pastoris-type,HERB,Brassicaceae
+Capsella-type,HERB,Brassicaceae
+Capsicum-type,HERB,Solanaceae
+Caragana,TRSH,Fabaceae
+Caragana-type (Caragana-T),NA,Fabaceae
+Carboni grandi contati,CHAR,delete
+Carboni piccoli contati,CHAR,delete
+Cardamine,HERB,Brassicaceae
+Cardamine parviflora,HERB,Brassicaceae
+Cardamine pratensis-type,HERB,Brassicaceae
+Cardamine type,HERB,Brassicaceae
+Cardamine-type,HERB,Brassicaceae
+Cardiaceae,NOPO,delete
+Carduaceae,HERB,Asteraceae
+Cardueae,HERB,Asteraceae
+Cardueae/Asteroideae,HERB,Asteraceae
+Carduoideae,HERB,Asteraceae
+Carduus,HERB,Asteraceae
+Carduus t.,HERB,Asteraceae
+Carduus type,HERB,Asteraceae
+Carduus-type,HERB,Asteraceae
+Carduus/Cirsium-type,NA,Asteraceae
+Carex,AQUA,delete
+Carex,HELO,delete
+Carex hirta-type,AQUA,delete
+Carex simbiotic fungi (carex indicator),FUNG,delete
+Carex tp.,HELO,delete
+Carex typ,HELO,delete
+Carex-type,AQUA,delete
+Carex-type,HELO,delete
+Cariophyllaceae,HERB,Caryophyllaceae
+Carlina,HERB,Asteraceae
+Carlina-type,HERB,Asteraceae
+Carpinus,TRSH,Betulaceae
+Carpinus bet.,TRSH,Betulaceae
+Carpinus betulus,TRSH,Betulaceae
+Carpinus betulus-type,TRSH,Betulaceae
+Carpinus clumps,TRSH,Betulaceae
+Carpinus orientalis,TRSH,Betulaceae
+Carpinus orientalis /Ostrya type,TRSH,Betulaceae
+Carpinus orientalis-type,TRSH,Betulaceae
+Carpinus orientalis/Ostrya,TRSH,Betulaceae
+Carpinus orientalis/Ostrya carpinifolia,TRSH,Betulaceae
+Carpinus orientalis/Ostrya carpinifolia-type,TRSH,Betulaceae
+Carpinus spp.,NA,Betulaceae
+Carpinus type,TRSH,Betulaceae
+Carpinus undifferentiated,NA,Betulaceae
+Carpinus undifferentiated (Carpinus undiff),NA,Betulaceae
+Carpinus viminalis-type,TRSH,Betulaceae
+Carpinus viminea-type,NA,Betulaceae
+Carpinus viminea-type (C. viminea-T),NA,Betulaceae
+Carpinus-Ostrya,TRSH,Betulaceae
+Carpinus-type,TRSH,Betulaceae
+Carpinus/Ostrya-type,TRSH,Betulaceae
+Carpobrotus,HERB,Aizoaceae
+Carthamus,HERB,Asteraceae
+Carum carvi,HERB,Apiaceae
+Carya,TRSH,Juglandaceae
+Carya remaniés,INUN,Juglandaceae
+Caryo. Trizoncolpate indet.,TRSH,Caryophyllaceae
+Caryop-eae,HERB,Caryophyllaceae
+Caryophillaceae,HERB,Caryophyllaceae
+Caryophylaceae,HERB,Caryophyllaceae
+Caryophyllaceae,HERB,Caryophyllaceae
+Caryophyllaceae cf lepyrodialis,HERB,Caryophyllaceae
+Caryophyllaceae herniaria type,HERB,Caryophyllaceae
+Caryophyllaceae pro parte,HERB,Caryophyllaceae
+Caryophyllaceae stellaria holostea-type,HERB,Caryophyllaceae
+Caryophyllaceae subf. Silenoideae-type,HERB,Caryophyllaceae
+Caryophyllaceae undiff.,HERB,Caryophyllaceae
+Caryophyllaceae undiff. type,HERB,Caryophyllaceae
+Caryophyllaceae undifferentiated,NA,Caryophyllaceae
+Caryophyllaceae undifferentiated (Caryophyllaceae undiff),NA,Caryophyllaceae
+Cassiope,DWAR,Ericaceae
+Cassiope-type,DWAR,Ericaceae
+Castanea,TRSH,Fagaceae
+Castanea clumps,TRSH,Fagaceae
+Castanea sativa,TRSH,Fagaceae
+Castanea-Castanopsis,TRSH,Fagaceae
+Castanea-type,TRSH,Fagaceae
+Castanea-type (Castanea-T),NA,Fagaceae
+Castanea/Castanopsis,TRSH,Fagaceae
+Castanopsis,NA,Fagaceae
+Castanopsis-Castanea,TRSH,Fagaceae
+Castanopsis-Pasania,TRSH,Fagaceae
+Castenea,TRSH,Fagaceae
+Casuarina,TRSH,Casuarinaceae
+Cathaya,NA,delete
+Cedrus,TRSH,delete
+Cedrus atlantica,TRSH,delete
+Cedrus cf. C. atlantica,TRSH,delete
+Cedrus libani,TRSH,delete
+Celastraceae,TRSH,Celastraceae
+Celtis,TRSH,Cannabaceae
+Celtis-Aphananthe,TRSH,Cannabaceae
+Cent._cy-s,HERB,delete
+Centaurea,HERB,Asteraceae
+Centaurea alpina-type,HERB,Asteraceae
+Centaurea collina,HERB,Asteraceae
+Centaurea collina-type,HERB,Asteraceae
+Centaurea cyanus,HERB,Asteraceae
+Centaurea cyanus  type,HERB,Asteraceae
+Centaurea cyanus t.,HERB,Asteraceae
+Centaurea cyanus type,HERB,Asteraceae
+Centaurea cyanus-type,HERB,Asteraceae
+Centaurea depressa-type,HERB,Asteraceae
+Centaurea jacea,HERB,Asteraceae
+Centaurea jacea T,HERB,Asteraceae
+Centaurea jacea type,HERB,Asteraceae
+Centaurea jacea-type,HERB,Asteraceae
+Centaurea montana,HERB,Asteraceae
+Centaurea montana t.,HERB,Asteraceae
+Centaurea montana-type,HERB,Asteraceae
+Centaurea nigra,HERB,Asteraceae
+Centaurea nigra  type,HERB,Asteraceae
+Centaurea nigra t.,HERB,Asteraceae
+Centaurea nigra type,HERB,Asteraceae
+Centaurea nigra-type,HERB,Asteraceae
+Centaurea pro parte,HERB,Asteraceae
+Centaurea rhenana-type,HERB,Asteraceae
+Centaurea rovinata,HERB,Asteraceae
+Centaurea scabiosa,HERB,Asteraceae
+Centaurea scabiosa t.,HERB,Asteraceae
+Centaurea scabiosa-type,HERB,Asteraceae
+Centaurea solstitialis,HERB,Asteraceae
+Centaurea solstitialis-type,HERB,Asteraceae
+Centaurea sp.,HERB,Asteraceae
+Centaurea undiff.,HERB,Asteraceae
+Centaurea undiff. type,HERB,Asteraceae
+Centaurea undifferentiated,HERB,Asteraceae
+Centaurea-type,HERB,Asteraceae
+Centaureanigra,HERB,Asteraceae
+Centaurium,HERB,Gentianaceae
+Centaurium maritimum,HERB,Gentianaceae
+Centaurium pulchellum T,HERB,Gentianaceae
+Centaurium pulchellum-type,HERB,Gentianaceae
+Centaurium-type,HERB,Gentianaceae
+Centranthus,HERB,Caprifoliaceae
+Centropyxis,NOPO,delete
+Centropyxis,ALGA,delete
+Centropyxis aculeata,ALGA,delete
+Centropyxis platystoma,TEAM,delete
+Centropyxis sp.,ALGA,delete
+Cephalanthus,TRSH,Rubiaceae
+Cerastium,HERB,Caryophyllaceae
+Cerastium alpinum-type,HERB,Caryophyllaceae
+Cerastium arvense-type,HERB,Caryophyllaceae
+Cerastium cerastioides-type,HERB,Caryophyllaceae
+Cerastium fontanum T,HERB,Caryophyllaceae
+Cerastium fontanum type,HERB,Caryophyllaceae
+Cerastium fontanum-type,HERB,Caryophyllaceae
+Cerastium group,HERB,Caryophyllaceae
+Cerastium typ,HERB,Caryophyllaceae
+Cerastium-type,HERB,Caryophyllaceae
+Cerastium-type (Cerastium-T),NA,Caryophyllaceae
+Cerastium/Stellaria-type,HERB,Caryophyllaceae
+Ceratonia,TRSH,Fabaceae
+Ceratonia siliqua,TRSH,Fabaceae
+Ceratophyllum,MACR,delete
+Ceratophyllum,AQUA,delete
+Ceratophyllum hair,MACR,delete
+Ceratophyllum hair,VEMI,delete
+Ceratophyllum kolce,VEMI,delete
+Ceratophyllum leaf spines,VEMI,delete
+Ceratophyllum spines,VEMI,delete
+Ceratophyllum spines,MACR,delete
+Ceratophyllum: spines,MACR,delete
+Ceratophyllum: spines,VEMI,delete
+Ceratostigma,NA,Plumbaginaceae
+Cercis,TRSH,Fabaceae
+Cercis siliquastrum,TRSH,Fabaceae
+Cercophora,FUNG,delete
+Cercophora sp. (Type HdV-112A),FUNG,delete
+Cercophora-type,FUNG,delete
+Cereal  type,HERB,Poaceae
+Cereal type,HERB,Poaceae
+Cereal-type,NA,Poaceae
+Cereale,HERB,Poaceae
+Cereales,HERB,Poaceae
+Cerealia,HERB,Poaceae
+Cerealia (excl. Secale),HERB,Poaceae
+Cerealia 40-50µm,HERB,Poaceae
+Cerealia >50µm,HERB,Poaceae
+Cerealia T,HERB,Poaceae
+Cerealia indiff.,HERB,Poaceae
+Cerealia p.p.,HERB,Poaceae
+Cerealia pro parte,HERB,Poaceae
+Cerealia undiff.,HERB,Poaceae
+Cerealia undiff. type,HERB,Poaceae
+Cerealia undifferentiated,HERB,Poaceae
+Cerealia+large Poaceae,NA,Poaceae
+Cerealia-t.,HERB,Poaceae
+Cerealia-type,HERB,Poaceae
+Cerealia-type (excl. Secale),HERB,Poaceae
+Cerealia-type/Secale,HERB,Poaceae
+Cerealia-type/Triticum,HERB,Poaceae
+Cerealia/Hordeum-type,HERB,Poaceae
+Cerealia/Secale,HERB,Poaceae
+Cerealia/Triticum-type,HERB,Poaceae
+Cerealtype40-60,HERB,Poaceae
+Cerinthe,HERB,Boraginaceae
+Cerinthe minor,HERB,Boraginaceae
+Cerinthe-type,HERB,Boraginaceae
+Cfr Chaerophyllum,HERB,delete
+Cfr Ligustrum,INUN,delete
+Cfr Utricularia,INUN,delete
+Chaerophyllum,HERB,Apiaceae
+Chaerophyllum hirsutum T,HERB,Apiaceae
+Chaerophyllum hirsutum-type,HERB,Apiaceae
+Chaerophyllum-type,HERB,Apiaceae
+Chaetomium,FUNG,delete
+Chamaedaphne,DWAR,Ericaceae
+Chamaenerion,HERB,Onagraceae
+Chamaenerion angustifolium,HERB,Onagraceae
+Chamaerhodos-type,HERB,Rosaceae
+Chamaerops,TRSH,Arecaceae
+Chamaerops humilis,TRSH,Arecaceae
+Chamenerion,HERB,Onagraceae
+Chamerion angustifolium subsp. Angustifolium,HERB,Onagraceae
+Charcoal,CHAR,delete
+Charcoal,MACR,delete
+Charcoal 10-20 _m,CHAR,delete
+Charcoal 10-50,CHAR,delete
+Charcoal 20-30 _m,CHAR,delete
+Charcoal 3-10 _m,CHAR,delete
+Charcoal 30-40 _m,CHAR,delete
+Charcoal 50-125 _m,CHAR,delete
+Charcoal 50-125µm,CHAR,delete
+Charcoal <40µm,CHAR,delete
+Charcoal <50 -_m,CHAR,delete
+Charcoal <50µm,CHAR,delete
+Charcoal <50µm concentration,CHAR,delete
+Charcoal >0.1mm,CHAR,delete
+Charcoal >100 _m,CHAR,delete
+Charcoal >100µm,CHAR,delete
+Charcoal >10µm,CHAR,delete
+Charcoal >125 _m,CHAR,delete
+Charcoal >40 _m,CHAR,delete
+Charcoal >40µm,CHAR,delete
+Charcoal >45µm,CHAR,delete
+Charcoal >50,CHAR,delete
+Charcoal >50µm,CHAR,delete
+Charcoal >50µm concentration,CHAR,delete
+Charcoal concentration,CHAR,delete
+Charcoal/1000,CHAR,delete
+Charred particles >100 µm,NOPO,delete
+Cheilanthes,VACR,delete
+Cheilanthes (Cheilanthes),NA,delete
+Cheilanthes-type,VACR,delete
+Chelidonium majus,HERB,Papaveraceae
+Chen-eae,HERB,Amaranthaceae
+Chenopo.,HERB,Amaranthaceae
+Chenopodiaceae,HERB,Amaranthaceae
+Chenopodiaceae Sueda/Atriplex type,HERB,Amaranthaceae
+Chenopodiaceae and Amaran.,HERB,Amaranthaceae
+Chenopodiaceae and Amaranthaceae,HERB,Amaranthaceae
+Chenopodiaceae pro parte,HERB,Amaranthaceae
+Chenopodiaceae sensu lato,HERB,Amaranthaceae
+Chenopodiaceae undiff.,HERB,Amaranthaceae
+"Chenopodiaceae, Noaea type",HERB,Amaranthaceae
+"Chenopodiaceae, Salsola type",HERB,Amaranthaceae
+Chenopodiaceae-Amaranthaceae,HERB,Amaranthaceae
+Chenopodiaceae-type,HERB,Amaranthaceae
+Chenopodiaceae/Amaranthaceae,HERB,Amaranthaceae
+Chenopodiaceae/Amaranthaceae undifferentiated,HERB,Amaranthaceae
+Chenopodium,HERB,Amaranthaceae
+Chenopodium album,HERB,Amaranthaceae
+Chenopodium type,HERB,Amaranthaceae
+Chimaphila umbellata,HERB,Ericaceae
+Chironomid,NOPO,delete
+Chironomidae,INVE,delete
+"Chironomidae, labia/mandibles",NA,delete
+"Chironomidae, labia/mandibles (Chironomidae labia/mandibles)",NA,delete
+"Chironomidae, larval claws",NA,delete
+"Chironomidae, larval claws (Chironomidae larv claw)",NA,delete
+Chitinous claws,NA,delete
+Chitinous comb,NA,delete
+Chitinous extremities,NA,delete
+Chitinous fragments,NA,delete
+Chitinous hairs,NA,delete
+Chitinous spine (Chitinous spine),NA,delete
+Chitinous spines/claws,NA,delete
+Chloranthus,NA,delete
+Chlorococcales,ALGA,delete
+Chosenia,TRSH,Salicaceae
+Chrysanthemum alpinum,HERB,Asteraceae
+Chrysosplenium,HERB,Saxifragaceae
+Chrysosplenium-type,HERB,Saxifragaceae
+Cichor-eae,HERB,Asteraceae
+Cichoreaceae,HERB,Asteraceae
+Cichoriaceae,HERB,Asteraceae
+Cichorieae,HERB,Asteraceae
+Cichorieae undiff.,HERB,Asteraceae
+Cichorioidae,HERB,Asteraceae
+Cichorioideae,HERB,Asteraceae
+Cichorioideae undiff.,HERB,Asteraceae
+Cichorioideae undifferentiated,NA,Asteraceae
+Cichorium,HERB,Asteraceae
+Cichorium intybus type,HERB,Asteraceae
+Cichorium intybus-type,HERB,Asteraceae
+Cichorium-type,HERB,Asteraceae
+Cichoroideae,HERB,Asteraceae
+Cicuta virosa,HERB,Apiaceae
+Cimicifuga,HERB,Ranunculaceae
+Cimicifuga foetida,HERB,Ranunculaceae
+Circaea,HERB,Onagraceae
+Circaea alpina,HERB,Onagraceae
+Cirsium,HERB,Asteraceae
+Cirsium t.,HERB,Asteraceae
+Cirsium typ,HERB,Asteraceae
+Cirsium type,HERB,Asteraceae
+Cirsium-type,HERB,Asteraceae
+Cirsium/Carduus,HERB,Asteraceae
+Cirsium/Carduus-type,HERB,Asteraceae
+Cirsium/Gundelia,HERB,Asteraceae
+Cistaceae,HERB,Cistaceae
+Cistaceae undiff.,HERB,Cistaceae
+Cistus,HERB,Cistaceae
+Cistus,TRSH,Cistaceae
+Cistus albidus-type,TRSH,Cistaceae
+Cistus albidus-type,HERB,Cistaceae
+Cistus crispus-type,TRSH,Cistaceae
+Cistus incanus type,TRSH,Cistaceae
+Cistus incanus-type,HERB,Cistaceae
+Cistus ladanifer,TRSH,Cistaceae
+Cistus ladanifer,HERB,Cistaceae
+Cistus ladanifer-type,HERB,Cistaceae
+Cistus ladanifer-type,TRSH,Cistaceae
+Cistus ladanifer/populifolius types,TRSH,Cistaceae
+Cistus monspeliensis,TRSH,Cistaceae
+Cistus monspeliensis,HERB,Cistaceae
+Cistus monspeliensis t.,TRSH,Cistaceae
+Cistus monspeliensis type,TRSH,Cistaceae
+Cistus monspeliensis-type,HERB,Cistaceae
+Cistus p.p.,TRSH,Cistaceae
+Cistus populifolius-type,HERB,Cistaceae
+Cistus pro parte,TRSH,Cistaceae
+Cistus salvifolius,TRSH,Cistaceae
+Cistus salvifolius,HERB,Cistaceae
+Cistus salviifolius-type,TRSH,Cistaceae
+Cistus t. undiff.,TRSH,Cistaceae
+Cistus type,TRSH,Cistaceae
+Cistus undiff.,HERB,Cistaceae
+Cistus villosus-type,HERB,Cistaceae
+Cistus-type,TRSH,Cistaceae
+Cistus-type,HERB,Cistaceae
+Cistus-type undiff.,TRSH,Cistaceae
+Citrus,TRSH,Rutaceae
+Citrus cf.,INUN,Rutaceae
+Cladium,AQUA,delete
+Cladium cf,AQUA,delete
+Cladium mariscus,AQUA,delete
+Cladocera,MICR,delete
+Clathrulina elegans,RHIZ,delete
+Claytonia,HERB,Montiaceae
+Claytonia acutifolia,HERB,Montiaceae
+Claytonia undiff.,HERB,Montiaceae
+Clematis,TRSH,Ranunculaceae
+Clematis vitalba-group,TRSH,Ranunculaceae
+Clematis-group,TRSH,Ranunculaceae
+Clematis-type,TRSH,Ranunculaceae
+Clematis/Anemone-type,NA,Ranunculaceae
+Clethra,TRSH,Clethraceae
+Clethra-type,NA,Clethraceae
+Closterium,NOPO,delete
+Coelastrum,ALGA,delete
+Coelastrum reticulatum,CHLO,delete
+Coelastrum reticulatum,ALGA,delete
+Colchicum,HERB,Colchicaceae
+Colchicum autumnale-type,HERB,Colchicaceae
+Colchicum-type,HERB,Colchicaceae
+Colchicum/Merendera,HERB,Colchicaceae
+Colutea,TRSH,Fabaceae
+Colutea arborescens,TRSH,Fabaceae
+Comandra elegans,HERB,Santalaceae
+Comar._pal.,HERB,delete
+Comarum palustre,AQUA,delete
+Comarum palustre,HERB,delete
+Combretaceae,NA,Combretaceae
+Commelinaceae,NA,Commelinaceae
+Compo.,HERB,Asteraceae
+Compositae,HERB,Asteraceae
+Compositae (echinate),HERB,Asteraceae
+Compositae (fenestrate),HERB,Asteraceae
+Compositae Liguliflorae,HERB,Asteraceae
+Compositae Subfam. Asteroideae,HERB,Asteraceae
+Compositae Subfam. Cichorioideae,HERB,Asteraceae
+Compositae subf. Asteroideae,HERB,Asteraceae
+Compositae subf. Asteroideae undiff.,HERB,Asteraceae
+Compositae subf. Cichorioideae,HERB,Asteraceae
+Compositae subf. Cichorioideae undiff.,HERB,Asteraceae
+Compositae tubuliflorae,HERB,Asteraceae
+Compositae undif.,HERB,Asteraceae
+Compositae undiff.,HERB,Asteraceae
+Conc charcoal 10-50,CHAR,delete
+Conc charcoal 50-250,CHAR,delete
+Concentration,NOPO,delete
+Concentration charcoal,CHAR,delete
+Concentration of Lycopodium,NOPO,delete
+Concentration of spike,NOPO,delete
+Concentration pollen,NOPO,delete
+Concentration spikes,NOPO,delete
+Concentrazione carbone G (Part/cm3),CHAR,delete
+Concentrazione carbone P (Part/cm3),CHAR,delete
+Concentrazione carbone tot (Part/cm3),CHAR,delete
+Concentrazione pollinica (gran/cm3),NOPO,delete
+Concentricystes,NOPO,delete
+Coniferous wood fragment hyaline with torus-margin pits,NA,delete
+Coniferous wood fragment with torus-margin pits,NA,delete
+Coniferous wood fragment with torus-margin pits (conif wood fragm with torus-margin pits),NA,delete
+Coniochaeta cf. C. ligniairia,FUNG,delete
+Coniochaeta cf. C. ligniaria,FUNG,delete
+Coniochaeta lignaria,FUNG,delete
+Conium maculatum,HERB,Apiaceae
+Conium t.,HERB,Apiaceae
+Conium-type,HERB,Apiaceae
+Conopodium,HERB,Apiaceae
+Conopodium majus,HERB,Apiaceae
+Conopodium-type,HERB,Apiaceae
+Consolida ambigua-type,HERB,Ranunculaceae
+Consolida-type,HERB,Ranunculaceae
+Conv._ar-s,HERB,delete
+Convallaria-type,HERB,Asparagaceae
+Convol-eae,HERB,Convolvulaceae
+Convolvulaceae,HERB,Convolvulaceae
+Convolvulaceae undiff.,HERB,Convolvulaceae
+Convolvulus,HERB,Convolvulaceae
+Convolvulus arvensis,HERB,Convolvulaceae
+Convolvulus arvensis-type,HERB,Convolvulaceae
+Convolvulus sepium,HERB,Convolvulaceae
+Convolvulus sepium-type,HERB,Convolvulaceae
+Convolvulus sp.,HERB,Convolvulaceae
+Convolvulus-type,NA,Convolvulaceae
+Copepoda,MICR,delete
+Core section label (Sec label),NA,delete
+Corema album-type,HERB,Ericaceae
+Coriaria,TRSH,Coriariaceae
+Coriaria myrtifolia,TRSH,Coriariaceae
+Cornaceae,TRSH,Cornaceae
+Cornus,TRSH,Cornaceae
+Cornus mas,TRSH,Cornaceae
+Cornus mas/C. suecica,TRSH,Cornaceae
+Cornus sanguinea,TRSH,Cornaceae
+Cornus sanguinea cf.,INUN,Cornaceae
+Cornus sanquinea,TRSH,Cornaceae
+Cornus sericea subsp. sericea,TRSH,Cornaceae
+Cornus suecica,TRSH,Cornaceae
+Cornus suecica type,TRSH,Cornaceae
+Cornus suecica/C. mas,TRSH,Cornaceae
+Cornus-type,TRSH,Cornaceae
+Coronilla,HERB,Fabaceae
+Corrigiola,HERB,Caryophyllaceae
+Corroded,INUN,delete
+Corydalis,HERB,Papaveraceae
+Corydalis bracteata,HERB,Papaveraceae
+Coryloid,TRSH,Euphorbiaceae
+Coryloid-type,TRSH,Euphorbiaceae
+Corylopsis,TRSH,Hamamelidaceae
+Corylus,TRSH,Betulaceae
+Corylus (Corylus),NA,Betulaceae
+Corylus avellana,TRSH,Betulaceae
+Corylus avellana-type,TRSH,Betulaceae
+Corylus maxima,TRSH,Betulaceae
+Corylus spp.,NA,Betulaceae
+Corylus type,TRSH,Betulaceae
+Corylus-type,TRSH,Betulaceae
+Corylus/Myrica,TRSH,Betulaceae
+Coryophyllaceae,HERB,Coryophyllaceae
+Cosmarium,ALGA,NA
+Cotinus,TRSH,delete
+Cotinus coggyria,TRSH,Anacardiaceae
+Cotinus-type,TRSH,Anacardiaceae
+Cotoneaster,TRSH,Rosaceae
+Cotoneaster-type,TRSH,Rosaceae
+Cotynus coggyria,TRSH,Anacardiaceae
+Counted exote,NOPO,delete
+Cousinia,HERB,Asteraceae
+Cousinia t.,HERB,Asteraceae
+Crassula,HERB,Crassulaceae
+Crassulaceae,HERB,Crassulaceae
+Crassulaceae undiff.,HERB,Crassulaceae
+Crataegus,TRSH,Rosaceae
+Crataegus t.,TRSH,Rosaceae
+Crataegus-type,TRSH,Rosaceae
+Crategus,TRSH,Rosaceae
+Crepis,HERB,Asteraceae
+Crepis aurea,HERB,Asteraceae
+Crepis-type,HERB,Asteraceae
+Crocus,HERB,Iridaceae
+Crozophora,HERB,Euphorbiaceae
+Cruciferae,HERB,Brassicaceae
+Cruciferae undiff.,HERB,Brassicaceae
+Cruciferae-type,HERB,Brassicaceae
+Crypteronia,NA,Crypteroniaceae
+Cryptogramma,VACR,delete
+Cryptogramma crispa,VACR,delete
+Cryptogramma-type,NA,delete
+Cryptomeria,TRSH,delete
+Cryptomeria japonica,TRSH,delete
+Cryptomeria-type,TRSH,delete
+Cucumis,HERB,Cucurbitaceae
+Cucumis,LIAN,Cucurbitaceae
+Cucurbitaceae,HERB,Cucurbitaceae
+Cupressaceae,TRSH,delete
+Cupressaceae (other),NA,delete
+Cupressaceae type,TRSH,delete
+Cupressus,TRSH,delete
+Cupressus type,TRSH,delete
+Cupressus-type,TRSH,delete
+Curved parasite,INUN,delete
+Cuscuta,LIAN,Convolvulaceae
+Cuscuta,HERB,Convolvulaceae
+Cuscuta europaea T,HERB,Convolvulaceae
+Cuscuta europaea-type,HERB,Convolvulaceae
+Cuscuta europaea-type,LIAN,Convolvulaceae
+Cycas,NA,delete
+Cyclamen,HERB,Primulaceae
+Cyclamen hederifolium,HERB,Primulaceae
+Cyclobalanopsis,TRSH,Fagaceae
+Cyclocarya,NA,Juglandaceae
+Cyclopyxis sp.,NOPO,delete
+Cymatiosphaera globulosa,ACRI,delete
+Cynoglossum creticum,HERB,Boraginaceae
+Cynoglossum tp.,HERB,Boraginaceae
+Cynomorium,HERB,Cynomoriaceae
+Cyperaceae,HERB,Cyperaceae
+Cyperaceae,AQUA,Cyperaceae
+Cyperaceae class 1,HERB,Cyperaceae
+Cyperaceae class 2,HERB,Cyperaceae
+Cyperaceae class 3,HERB,Cyperaceae
+Cyperaceae class 4,HERB,Cyperaceae
+Cyperaceae undiff,HERB,Cyperaceae
+Cyperaceae undiff.,HERB,Cyperaceae
+Cyperaceae undiff.,AQUA,Cyperaceae
+Cyperaceae undifferentiated,NA,Cyperaceae
+Cyperus,HELO,delete
+Cyperus,AQUA,delete
+Cyperus longus-type,AQUA,delete
+Cyperus-type,AQUA,delete
+Cyphoderia-type,NA,delete
+Cysto._f-s,VACR,delete
+Cystopteris,VACR,delete
+Cystopteris fragilis,VACR,delete
+Cystopteris fragilis-type,NA,delete
+Cystopteris-type,VACR,delete
+Cysts (Cysts),NA,delete
+Cytinus hypocistis-type,HERB,Cytinaceae
+Cytisus,TRSH,Fabaceae
+Cytisus type,TRSH,Fabaceae
+Cytisus-type,TRSH,Fabaceae
+Cytisus/Genista-type,HERB,Fabaceae
+Cytisus/Genista-type,TRSH,Fabaceae
+"DEPTH, sediment/rock [m] (Depth)",NA,delete
+DIPSACACEAE,HERB,Caprifoliaceae
+DRYOPTERIS,VACR,delete
+Dacrydium,NA,delete
+Damaged/indeterminable,INUN,delete
+Daphne,TRSH,Thymelaeaceae
+Daphne,DWAR,Thymelaeaceae
+Daphne gnidium,HERB,Thymelaeaceae
+Daphne gnidium t.,TRSH,Thymelaeaceae
+Daphne gnidium-type,DWAR,Thymelaeaceae
+Daphne type,TRSH,Thymelaeaceae
+Daphniphyllum,NA,Daphniphyllaceae
+Date/Time of event (Date/Time),NA,delete
+Datisca,HERB,Datiscaceae
+Datura,HERB,Solanaceae
+Daucaceae,HERB,Apiaceae
+Daucus,HERB,Apiaceae
+Daucus carota,HERB,Apiaceae
+Daucus carota-type,HERB,Apiaceae
+Daucus t.,HERB,Apiaceae
+Daucus type,HERB,Apiaceae
+Daucus-type,HERB,Apiaceae
+Davallia,VACR,delete
+Debarya,FUNG,delete
+Debarya (Debarya),NA,delete
+Deciduous tree: seed,MACR,delete
+Degraded,INUN,delete
+Delitschia,FUNG,delete
+Delphinium,HERB,Ranunculaceae
+Delphinium-type,HERB,Ranunculaceae
+Delphiunium elatum,HERB,Ranunculaceae
+Deposition time (yr/cm),NOPO,delete
+"Depth, bottom/max [m] (Depth bot)",NA,delete
+"Depth, composite [mcd] (Depth comp)",NA,delete
+"Depth, top/min [m] (Depth top)",NA,delete
+Deschampsia,HERB,Poaceae
+Descurainia,HERB,Brassicaceae
+Desmidiaceae,ALGA,delete
+Dianthus,HERB,Caryophyllaceae
+Dianthus superbus-type,HERB,Caryophyllaceae
+Dianthus-type,HERB,Caryophyllaceae
+Diatoms,ALGA,delete
+Dicranum,BRYO,delete
+Difflugia pyriformis,RHIZ,delete
+Digitalis,HERB,Plantaginaceae
+Digitalis purpurea-type,HERB,Plantaginaceae
+Digitalis-type,HERB,Plantaginaceae
+Dinoflagellate (theca),DINO,delete
+Dinoflagellates,DINO,delete
+Diospyros,TRSH,Ebenaceae
+Diospyros clumps,TRSH,Ebenaceae
+Diphasiastrum,VACR,delete
+Diphasiastrum alpinum,VACR,delete
+Diphasiastrum complanatum,VACR,delete
+Diphasium,VACR,delete
+Diphasium alpinum,VACR,delete
+Diphasium alpinum T,VACR,delete
+Diphasium alpinum-type,VACR,delete
+Diphasium complanatum,VACR,delete
+Diphasium sp.,VACR,delete
+Diphasium tristachyum,VACR,delete
+Diphasium-type,VACR,delete
+Diporotheca,FUNG,delete
+Dipsacaceae,HERB,Caprifoliaceae
+Dipsacaceae indet.,HERB,Caprifoliaceae
+Dipsacaceae undiff.,HERB,Caprifoliaceae
+Dipsacus,HERB,Caprifoliaceae
+Dipsacus fullonum-type,HERB,Caprifoliaceae
+Dipsacus-type,HERB,Caprifoliaceae
+Dipterocarpaceae,NA,Dipterocarpaceae
+Ditrema,RHIZ,delete
+Dolichos-type,NA,Fabaceae
+Doronicum,HERB,Asteraceae
+Doronicum-type,HERB,Asteraceae
+Draba,HERB,Brassicaceae
+Drosera,AQUA,delete
+Drosera,HERB,delete
+Drosera cf. D. rotundifolia,HERB,delete
+Drosera intermedia,HELO,delete
+Drosera rotundifolia,HERB,delete
+Drosera rotundifolia,HELO,delete
+Drosera rotundifolia-type,HERB,delete
+Drosera rotundifolia-type,HELO,delete
+Drosera rotundifolia/D. anglica,HERB,delete
+Drosera undif.,AQUA,delete
+Droseraceae,AQUA,delete
+Dry-s,VACR,delete
+Dry-s_c-a,VACR,delete
+Dry-s_f.-m,VACR,delete
+Dry-s_ph-s,VACR,delete
+Dry-s_sp-a,VACR,delete
+Dry-s_th-s,VACR,delete
+Dryas,HERB,Rosaceae
+Dryas octopetala,HERB,Rosaceae
+Dryopteridaceae,NA,delete
+Dryopteris,VACR,delete
+Dryopteris carthusiana,VACR,delete
+Dryopteris carthusiana-type,VACR,delete
+Dryopteris cristata,VACR,delete
+Dryopteris cristata type,VACR,delete
+Dryopteris dilatata,VACR,delete
+Dryopteris dilatata-type,VACR,delete
+Dryopteris dilatata/cristata t.,VACR,delete
+Dryopteris dilitata,VACR,delete
+Dryopteris expansa,VACR,delete
+Dryopteris f.-m.,VACR,delete
+Dryopteris filix mas t.,VACR,delete
+Dryopteris filix-mas,VACR,delete
+Dryopteris filix-mas type,VACR,delete
+Dryopteris filix-mas type clumps of two,VACR,delete
+Dryopteris filix-mas-type,VACR,delete
+Dryopteris filix-mas-type (D. filix-mas-T),NA,delete
+Dryopteris fragrans,VACR,delete
+Dryopteris t.,VACR,delete
+Dryopteris type,VACR,delete
+Dryopteris undiff.,VACR,delete
+Dryopteris-type,VACR,delete
+Dryopteris/Thelypteris,VACR,delete
+DryopterisT,VACR,delete
+Dryópteris,VACR,delete
+Duschekia,TRSH,Betulaceae
+Duschekia fruticosa= Alnus fruticosa-type,TRSH,Betulaceae
+E. alata-type,TRSH,delete
+E. fragilis-t.,TRSH,delete
+EMA 6,INUN,delete
+EMA 9,INUN,delete
+EMA-104: Neurospora,FUNG,delete
+EMA6,INUN,delete
+EMPETRUM NIGRUM,DWAR,Ericaceae
+EPHEDRA DISTACHYA type,TRSH,delete
+EPHEDRA FRAGILIS type,TRSH,delete
+EPILOBIUM angustif.,HERB,Onagraceae
+EQUISETUM,VACR,delete
+ERICA arborea,TRSH,Ericaceae
+ERICA carnea,TRSH,Ericaceae
+ERICA indiff.,TRSH,Ericaceae
+ERICACEAE,DWAR,Ericaceae
+ERICACEAE indiff.,DWAR,Ericaceae
+ERICALES,DWAR,Ericaceae
+EUPHORBIA,HERB,Euphorbiaceae
+Echinocaulon-Persicaria,INUN,Polygonaceae
+Echinophora,HERB,Apiaceae
+Echinophora-type,HERB,Apiaceae
+Echinops,HERB,Asteraceae
+Echinops-type,NA,Asteraceae
+Echium,HERB,Boraginaceae
+Echium vulgare,HERB,Boraginaceae
+Echium vulgare-type,HERB,Boraginaceae
+Echium-type,HERB,Boraginaceae
+Eggs,INUN,delete
+Elaeagnaceae,TRSH,Elaeagnaceae
+Elaeagnaceae (other),NA,Elaeagnaceae
+"Elaeagnaceae, shield hair fragment (Elaeagnacea, shield hair fragm)",NA,delete
+Elaeagnus,TRSH,Elaeagnaceae
+Elaeagnus (Elaeagnus),NA,Elaeagnaceae
+Elaeagnus angustifolia,TRSH,Elaeagnaceae
+Elaeagnus t.,TRSH,Elaeagnaceae
+Elaeocarpaceae,NA,Elaeocarpaceae
+Elater,MACR,delete
+Elatine,AQUA,delete
+Eleaegnaceae,TRSH,Elaeagnaceae
+Eleocharis palustris,AQUA,delete
+Elevation of event [m] (Elevation),NA,delete
+Elodea,AQUA,delete
+Elymus,HERB,Poaceae
+Elymus-type,NA,Poaceae
+Emex spinosa,HERB,Polygonaceae
+Empetrum,DWAR,Ericaceae
+Empetrum cf. E. nigrum,DWAR,Ericaceae
+Empetrum nigrum,DWAR,Ericaceae
+Empetrum nigrum-type,DWAR,Ericaceae
+Empetrum-group,DWAR,Ericaceae
+Empetrum-type,DWAR,Ericaceae
+Empetrum/Ledum,DWAR,Ericaceae
+Emphetrum nigrum,DWAR,Ericaceae
+Encalypta,BRYO,delete
+Encalyptus,TRSH,Myrtaceae
+Engelhardtia,NA,Juglandaceae
+Ephedra,TRSH,delete
+Ephedra alata-type,TRSH,delete
+Ephedra distachya,TRSH,delete
+Ephedra distachya t.,TRSH,delete
+Ephedra distachya type,TRSH,delete
+Ephedra distachya-t.,TRSH,delete
+Ephedra distachya-type,TRSH,delete
+Ephedra distachya-type (E. distachya-T),NA,delete
+Ephedra distahia,TRSH,delete
+Ephedra dystachia type,TRSH,delete
+Ephedra fragilis,TRSH,delete
+Ephedra fragilis  type,TRSH,delete
+Ephedra fragilis subsp. campylopoda,TRSH,delete
+Ephedra fragilis t.,TRSH,delete
+Ephedra fragilis type,TRSH,delete
+Ephedra fragilis-type,TRSH,delete
+Ephedra fragilisse,TRSH,delete
+Ephedra major,TRSH,delete
+Ephedra major-type,TRSH,delete
+Ephedra-type,HERB,delete
+Epilobium,HERB,Onagraceae
+Epilobium type,HERB,Onagraceae
+Epilobium undiff.,HERB,Onagraceae
+Epilobium-Ludwigia,HERB,Onagraceae
+Epilobium-type,HERB,Onagraceae
+Epipactis palustris,HERB,Orchidaceae
+Equesetum,VACR,delete
+Equisetaceae,VACR,delete
+Equisetum,VACR,delete
+Equisetum (Equisetum),NA,delete
+Equisitum,VACR,delete
+Eremurus,HERB,Asphodelaceae
+Erica,TRSH,Ericaceae
+Erica,DWAR,Ericaceae
+Erica arborea,TRSH,Ericaceae
+Erica arborea,DWAR,Ericaceae
+Erica arborea-type,DWAR,Ericaceae
+Erica arborea-type,TRSH,Ericaceae
+Erica australis,DWAR,Ericaceae
+Erica australis-type,DWAR,Ericaceae
+Erica cinerea,DWAR,Ericaceae
+Erica cinerea-type,TRSH,Ericaceae
+Erica cinerea/E. tetralix,TRSH,Ericaceae
+Erica erigena-type,TRSH,Ericaceae
+Erica lusitanica,DWAR,Ericaceae
+Erica lusitanica-type,TRSH,Ericaceae
+Erica scoparia t.,TRSH,Ericaceae
+Erica scoparia-type,DWAR,Ericaceae
+Erica tetralix,DWAR,Ericaceae
+Erica tetralix type,DWAR,Ericaceae
+Erica tetralix-type,DWAR,Ericaceae
+Erica type,TRSH,Ericaceae
+Erica umbellata,DWAR,Ericaceae
+Erica umbellata-type,DWAR,Ericaceae
+Erica undiff.,DWAR,Ericaceae
+Erica-type,TRSH,Ericaceae
+Erica: seed,MACR,Ericaceae
+Ericaceae,DWAR,Ericaceae
+Ericaceae B,TRSH,Ericaceae
+Ericaceae cf. Ledum,TRSH,Ericaceae
+Ericaceae empetrum-type,DWAR,Ericaceae
+Ericaceae remaniés,INUN,Ericaceae
+Ericaceae sensu lato,DWAR,Ericaceae
+Ericaceae undiff.,DWAR,Ericaceae
+Ericaceae undifferentiated,DWAR,Ericaceae
+Ericaceae vaccinium-type,TRSH,Ericaceae
+Ericaceae-type,DWAR,Ericaceae
+Ericaceae__1,DWAR,Ericaceae
+Ericales,DWAR,Ericaceae
+Ericales (tetrad),DWAR,Ericaceae
+Ericales undiff.,DWAR,Ericaceae
+Erigeron,HERB,Asteraceae
+Eriophorum angustifolium/E. vaginatum,AQUA,delete
+Eriophorum-type,HELO,delete
+Eriophorum-type,AQUA,delete
+Erodium,HERB,Geraniaceae
+Eryngium,HERB,Apiaceae
+Eryngium campestre-type,HERB,Apiaceae
+Eryngium ilicifolium,HERB,Apiaceae
+Eryngium t.,HERB,Apiaceae
+Eryngium-type,HERB,Apiaceae
+Eucalyptus,TRSH,delete
+Eucalyptus,NOPO,delete
+Eucalyptus (grains/g of tablet),NOPO,delete
+Eucalyptus (spike),NOPO,delete
+Eucalyptus count,NOPO,delete
+Eucalyptus spike (added),NOPO,delete
+Eucalyptus spike (counted),NOPO,delete
+Eucalyptus tablets,NOPO,delete
+Eucommiaceae,NA,Eucommiaceae
+Euglypha,RHIZ,delete
+Euonymus,TRSH,Celastraceae
+Eupatorium,HERB,Asteraceae
+Eupatorium cannabinum T,HERB,Asteraceae
+Eupatorium cannabinum-type,HERB,Asteraceae
+Eupatorium-type,HERB,Asteraceae
+Euphor-eae,HERB,Euphorbiaceae
+Euphorbia,HERB,Euphorbiaceae
+Euphorbia spp.,NA,Euphorbiaceae
+Euphorbia type,HERB,Euphorbiaceae
+Euphorbia/Mercurialis,HERB,Euphorbiaceae
+Euphorbiaceae,HERB,Euphorbiaceae
+Euphorbiaceae (tropical),NA,Euphorbiaceae
+Euphorbiaceae (unclear),NA,Euphorbiaceae
+Euphorbiaceae undiff.,HERB,Euphorbiaceae
+Euphrasia,HERB,Orobanchaceae
+Euphrasia-type,HERB,Orobanchaceae
+Euptelea,HERB,Eupteleaceae
+Eurumex,HERB,delete
+Eurya,NA,Pentaphylacaceae
+Evax,HERB,Asteraceae
+Event label (Event),NA,delete
+Exot (Lycopodium) added,NOPO,delete
+Exot added,NOPO,delete
+Exotic,NOPO,delete
+Exotic concentration,NOPO,delete
+Exotic counted,NOPO,delete
+Exotic grains,NOPO,delete
+Exotic marker (Lycopodium) counted,NOPO,delete
+Exotics (counted),NOPO,delete
+F. excelsior,TRSH,Oleaceae
+F. ornus,TRSH,Oleaceae
+FABACEAE,HERB,Fabaceae
+FAGUS,TRSH,Fagaceae
+FILICALES,VACR,delete
+FILICALES monol.,VACR,delete
+FILICALES tril.,VACR,delete
+FILIPENDULA,HERB,Rosaceae
+FRAXINUS,TRSH,Oleaceae
+FRAXINUS ORNUS t.,TRSH,Oleaceae
+FRAXINUS ORNUS type,TRSH,Oleaceae
+Fabaceaa,HERB,Fabaceae
+Fabaceae,INUN,Fabaceae
+Fabaceae,HERB,Fabaceae
+Fabaceae (herb),NA,Fabaceae
+Fabaceae (shrub),NA,Fabaceae
+Fabaceae (tree),NA,Fabaceae
+Fabaceae (unclear),NA,Fabaceae
+Fabaceae astragalus type,HERB,Fabaceae
+Fabaceae cf. Oxitropis,HERB,Fabaceae
+Fabaceae coronilla type,HERB,Fabaceae
+Fabaceae genista type,TRSH,Fabaceae
+Fabaceae indet.,HERB,Fabaceae
+Fabaceae lathyrus type,HERB,Fabaceae
+Fabaceae lotus type,HERB,Fabaceae
+Fabaceae onobrychis type,HERB,Fabaceae
+Fabaceae p.p.,HERB,Fabaceae
+Fabaceae pro parte,INUN,Fabaceae
+Fabaceae subf. Faboideae,HERB,Fabaceae
+Fabaceae tribe Psoraleae,HERB,Fabaceae
+Fabaceae undif.,HERB,Fabaceae
+Fabaceae undiff.,HERB,Fabaceae
+Fabaceae undiff.,INUN,Fabaceae
+Fabaceae undiff. type,HERB,Fabaceae
+Fabaceaeundiff.,HERB,Fabaceae
+Fagopirum,HERB,Polygonaceae
+Fagopyrum,HERB,Polygonaceae
+Fagopyrum esculentum,HERB,Polygonaceae
+Fagopyrum esculentum-type,HERB,Polygonaceae
+Fagopyrum tataricum,HERB,Polygonaceae
+Fagus,TRSH,Fagaceae
+Fagus clumps,TRSH,Fagaceae
+Fagus clumps of two,TRSH,Fagaceae
+Fagus crenata type,TRSH,Fagaceae
+Fagus japonica type,TRSH,Fagaceae
+Fagus orientalis,TRSH,Fagaceae
+Fagus syl,TRSH,Fagaceae
+Fagus sylvatica,TRSH,Fagaceae
+Falcaria,HERB,Apiaceae
+Falcaria vulgaris-type,HERB,Apiaceae
+Falcaria-type,HERB,Apiaceae
+Fallopia,HERB,Polygonaceae
+Fallopia convolvulus,HERB,Polygonaceae
+Fallopia convolvulus-type,HERB,Polygonaceae
+Farn-Sporangium Bruchstück,VEMI,delete
+Fenestrate undifferentiated,HERB,delete
+Fenestrate undifferentiated,INUN,delete
+Fern sporangia,VEMI,delete
+Ferula-type,HERB,Apiaceae
+Ficus,TRSH,Moraceae
+Ficus carica,TRSH,Moraceae
+Filago-type,HERB,Asteraceae
+Fili-dula,HERB,Rosaceae
+Filicales,VACR,delete
+Filicales monoles undiff.,VACR,delete
+Filicales monoletae,VACR,delete
+Filicales monoletae sporangia,VACR,delete
+Filicales monolete,VACR,delete
+Filicales monoletes,VACR,delete
+Filicales monoletes undiff.,VACR,delete
+Filicales trilete,VACR,delete
+Filicales triletes,VACR,delete
+Filicales triletes undiff.,VACR,delete
+Filicales undiff.,VACR,delete
+Filicinae,VACR,delete
+Filicinae undiff.,VACR,delete
+Filicopsida,VACR,delete
+Filicopsida monolete undiff.,VACR,delete
+Filicopsida trilete undiff.,VACR,delete
+Filicopsida undiff.,VACR,delete
+Filinia,NOPO,delete
+Filinia,ROTI,delete
+"Filinia, resting eggs",NA,delete
+Filipendula,HERB,Rosaceae
+Filipendula ulmaria,HERB,Rosaceae
+Filipendula vulgaris,HERB,Rosaceae
+Filipendula-type,HERB,Rosaceae
+Flacourtiaceae,NA,Salicaceae
+Flamula-type,HERB,delete
+Fontanesia,TRSH,Oleaceae
+Fontanesia/Phillyrea,TRSH,Oleaceae
+Foram,INVE,delete
+Foraminifera,INVE,delete
+Foraminifera,NOPO,delete
+Forsythia europea type,TRSH,Oleaceae
+Fothergilla major,HERB,Hamamelidaceae
+Fragaria,HERB,Rosaceae
+Frangula,TRSH,Rhamnaceae
+Frangula alnus,TRSH,Rhamnaceae
+Frankenia,HERB,Frankeniaceae
+Frankenia hirsuta-type,HERB,Frankeniaceae
+Fraxinus,TRSH,Oleaceae
+Fraxinus angustifolia,TRSH,Oleaceae
+Fraxinus angustifolia subsp. oxycarpa,TRSH,Oleaceae
+Fraxinus angustifolia-type,TRSH,Oleaceae
+Fraxinus cf. F. ornus,TRSH,Oleaceae
+Fraxinus cf. F. oxycarpa,TRSH,Oleaceae
+Fraxinus exc. type,TRSH,Oleaceae
+Fraxinus excelsior,TRSH,Oleaceae
+Fraxinus excelsior  type,TRSH,Oleaceae
+Fraxinus excelsior type,TRSH,Oleaceae
+Fraxinus excelsior-t.,TRSH,Oleaceae
+Fraxinus excelsior-type,TRSH,Oleaceae
+Fraxinus ornus,TRSH,Oleaceae
+Fraxinus ornus type,TRSH,Oleaceae
+Fraxinus ornus-type,TRSH,Oleaceae
+Fraxinus sogdiana,TRSH,Oleaceae
+Fraxinus undiff.,TRSH,Oleaceae
+Fraxinusornus,TRSH,Oleaceae
+Fritillaria,HERB,Liliaceae
+Fritillaria lusitanica,HERB,Liliaceae
+Fumana,TRSH,Cistaceae
+Fumaria,HERB,Papaveraceae
+Fumaria officinalis-type,HERB,Papaveraceae
+Fumariaceae,HERB,Papaveraceae
+Fungal Hyphae,FUNG,delete
+Fungal spore undet.,FUNG,delete
+Fungal spores,FUNG,delete
+Fungal spores,VACR,delete
+Fungi,FUNG,delete
+GALIUM,HERB,Rubiaceae
+GERANIUM,HERB,Geraniaceae
+GEUM,HERB,Rosaceae
+GLOMUS,FUNG,delete
+GYMNOCARPIUM DRYOPTERIS,VACR,delete
+Gaeumannomyces cf. G. caricis,FUNG,delete
+Gaeumannomyces cf. caricis,FUNG,delete
+Gal._ul-um,HERB,Rubiaceae
+Galega-type,HERB,Fabaceae
+Galeopsis,HERB,Lamiaceae
+Galeopsis t.,HERB,Lamiaceae
+Galeopsis-type,HERB,Lamiaceae
+Galeopsis/Ballota-type,HERB,Lamiaceae
+Galium,HERB,Rubiaceae
+Galium typ,HERB,Rubiaceae
+Galium type,HERB,Rubiaceae
+Galium- type,HERB,Rubiaceae
+Galium-type,HERB,Rubiaceae
+Galium-type (Galium-T),NA,Rubiaceae
+Gallium,HERB,Rubiaceae
+Gallium type,HERB,Rubiaceae
+Garcinia,NA,Clusiaceae
+Gastrop. Mandible,INUN,delete
+Gelasinospora,FUNG,delete
+"Gelasinospora, spore (Gelasinospora spore)",NA,delete
+Genista,TRSH,Fabaceae
+Genista t.,TRSH,Fabaceae
+Genista-type,TRSH,Fabaceae
+Genista/Cytisus,HERB,Fabaceae
+Genista/Cytisus-type,TRSH,Fabaceae
+Genista/Ulex,TRSH,Fabaceae
+Genista/Ulex-type,TRSH,Fabaceae
+Genisteae,TRSH,Fabaceae
+Gentiana,HERB,Gentianaceae
+Gentiana indet.,HERB,Gentianaceae
+Gentiana lutea/G. pneumonanthe,HERB,Gentianaceae
+Gentiana nivalis-type,HERB,Gentianaceae
+Gentiana pneumonanthe,HERB,Gentianaceae
+Gentiana pneumonanthe t.,HERB,Gentianaceae
+Gentiana pneumonanthe type,HERB,Gentianaceae
+Gentiana pneumonanthe-type,HERB,Gentianaceae
+Gentiana pneumonanthe-type (G. pneumonanthe-T),NA,Gentianaceae
+Gentiana purpurea,HERB,Gentianaceae
+Gentiana purpurea-type,HERB,Gentianaceae
+Gentiana verna-type,HERB,Gentianaceae
+Gentiana-type,NA,Gentianaceae
+Gentianaceae,HERB,Gentianaceae
+Gentianella,HERB,Gentianaceae
+Gentianella campestris-type,HERB,Gentianaceae
+Gentianella germanica typt,HERB,Gentianaceae
+Gentianella germanica-type,HERB,Gentianaceae
+Gentianella tenella-type,HERB,Gentianaceae
+Gentianella tenella-type (G. tenella-T),NA,Gentianaceae
+Gentinaceae,HERB,Gentianaceae
+Geran-eae,HERB,Geraniaceae
+Geraniaceae,HERB,Geraniaceae
+Geraniaceae undiff.,HERB,Geraniaceae
+Geranium,HERB,Geraniaceae
+Geranium sylvaticum-type,HERB,Geraniaceae
+Geranium t.,HERB,Geraniaceae
+Geranium-type,HERB,Geraniaceae
+Gerianiaceae,HERB,Geraniaceae
+Gesneriaceae,NA,Gesneriaceae
+Geum,HERB,Rosaceae
+Geum T,HERB,Rosaceae
+Geum cf. G. rivale,HERB,Rosaceae
+Geum typ,HERB,Rosaceae
+Geum type,HERB,Rosaceae
+Geum-type,HERB,Rosaceae
+Geum/Potentilla-type,NA,Rosaceae
+Geumannomyces,FUNG,delete
+Ginkgo,NA,delete
+Gipsofilla,HERB,Caryophyllaceae
+Gladiolus,HERB,Iridaceae
+Glaucium,HERB,Papaveraceae
+Glaucium type,HERB,Papaveraceae
+Glaucium-type,HERB,Papaveraceae
+Glaux,HERB,Primulaceae
+Glaux (Glaux),NA,Primulaceae
+Globose,INUN,delete
+Globularia,HERB,Plantaginaceae
+Gloeotrichia,CYAN,delete
+Glomus,FUNG,delete
+Glomus cf. G. fasciculatum,FUNG,delete
+Glomus cf. fasciculatum,FUNG,delete
+Glyceria maxima,HERB,Poaceae
+Glyceria-type,HERB,Poaceae
+Gnaphalium,HERB,Asteraceae
+Gnaphalium-type,HERB,Asteraceae
+Goniolimon,HERB,Plumbaginaceae
+Grains indéterm,INUN,delete
+Graminae,HERB,Poaceae
+Gramine.,HERB,Poaceae
+Gramineae,HERB,Poaceae
+Gramineae 40-49 _m,HERB,Poaceae
+Gramineae 40-50 _m,HERB,Poaceae
+Gramineae 50-60 _m,HERB,Poaceae
+Gramineae <40 _m,HERB,Poaceae
+Gramineae >42µm,HERB,Poaceae
+Gramineae >50 _m,HERB,Poaceae
+Gramineae >60 _m,HERB,Poaceae
+Gramineae G,HERB,Poaceae
+Gramineae P,HERB,Poaceae
+Gramineae undiff.,HERB,Poaceae
+Gramineae wild grass-group,HERB,Poaceae
+Gramineae wild-grass-group,HERB,Poaceae
+Gramineae(<40),HERB,Poaceae
+Gramineae(>40),HERB,Poaceae
+Grammitis,VACR,delete
+Granuli nd,INUN,delete
+Grass epidermis fragments,NA,delete
+Grass epidermis fragments (Grass epid fragm),NA,delete
+"Grass epidermis fragments, charred",NA,delete
+"Grass epidermis fragments, charred (Grass epid fragm char)",NA,delete
+Gratiola officinalis,HERB,Plantaginaceae
+Grewia,NA,Malvaceae
+Guttiferae,TRSH,Clusiaceae
+Guttiferae,HERB,Clusiaceae
+Gymnocarpium,VACR,delete
+Gymnocarpium dryopteris,VACR,delete
+Gymnocarpium dryopteris type,VACR,delete
+Gymnocarpium/Dryopteris,VACR,delete
+Gypsophila,HERB,Caryophyllaceae
+Gypsophila fastigiata,HERB,Caryophyllaceae
+Gypsophila repens-type,HERB,Caryophyllaceae
+Gypsophila-type,HERB,Caryophyllaceae
+Gypsophilla repens,HERB,Caryophyllaceae
+Gyratrix hermaphroditus,PLAT,delete
+Gyratrix hermaphroditus 1A,PLAT,delete
+HEDERA,TRSH,Araliaceae
+HYMENOPHYLLUM,VACR,delete
+Habrotrocha,ROTI,delete
+Hainania,NA,Malvaceae
+Halimium,DWAR,Cistaceae
+Halimium-type,DWAR,Cistaceae
+Halimium/Tuberaria,HERB,Cistaceae
+Halophytes,INUN,delete
+Haloragaceae,UPHE,Haloragaceae
+Haloragaceae,AQUA,Haloragaceae
+Haloragidaceae,NA,Haloragaceae
+Hamamelidaceae,NA,Hamamelidaceae
+Hamamelis/Parrotiopsis-type,NA,Hamamelidaceae
+Haplophyllum,HERB,Rutaceae
+Haplophyllum,TRSH,Rutaceae
+HdV 112,INUN,delete
+HdV 114,INUN,delete
+HdV 126 G,INUN,delete
+HdV 126 Gaeumannomyces,FUNG,delete
+HdV 126 Gaeumannomyces sp.,FUNG,delete
+HdV 128,INUN,delete
+HdV 128A,INUN,delete
+HdV 128B,INUN,delete
+HdV 130 G,INUN,delete
+HdV 130 Spirogyra smooth,ALGA,delete
+HdV 142,INUN,delete
+HdV 146 Gloeotrichia,INUN,delete
+HdV 170 Rivularia,ALGA,delete
+HdV 179,INUN,delete
+HdV 200,FUNG,delete
+HdV 207 Glomus cf. fasciculatum,INUN,delete
+HdV 229,INUN,delete
+HdV 28,FUNG,delete
+HdV 30 Helicoon pluriseptatum,FUNG,delete
+HdV 313D Mougeotia concave,INUN,delete
+HdV 359,INUN,delete
+HdV 361,INUN,delete
+HdV 361 clumps,INUN,delete
+"HdV 369 ""Lemna""",INUN,delete
+HdV 37,FUNG,delete
+HdV 44 Ustulina deusta,INUN,delete
+HdV 569,INUN,delete
+HdV 569 clumps,INUN,delete
+HdV 8,FUNG,delete
+HdV 8B,INUN,delete
+HdV 8B,FUNG,delete
+HdV 8b,INUN,delete
+Hedera,LIAN,Araliaceae
+Hedera,TRSH,Araliaceae
+Hedera helix,LIAN,Araliaceae
+Hedera helix,TRSH,Araliaceae
+Hedera helix type,TRSH,Araliaceae
+Hedera spp.,NA,Araliaceae
+Hedera-type,LIAN,Araliaceae
+Hedera-type,TRSH,Araliaceae
+Hederahelix,TRSH,Araliaceae
+Hedwigia,BRYO,delete
+Hedysarum,HERB,Fabaceae
+Hedysarum hedysaroides,HERB,Fabaceae
+Hedysarum-type,HERB,Fabaceae
+Hedysarum/Ebenus,HERB,Fabaceae
+Helianthemum,TRSH,Cistaceae
+Helianthemum,HERB,Cistaceae
+Helianthemum croceum type,HERB,Cistaceae
+Helianthemum croceum-type,HERB,Cistaceae
+Helianthemum nummularium group,HERB,Cistaceae
+Helianthemum nummularium-type,HERB,Cistaceae
+Helianthemum salicifolium-type,HERB,Cistaceae
+Helianthemum t.,HERB,Cistaceae
+Helianthemum type,HERB,Cistaceae
+Helianthemum undiff.,HERB,Cistaceae
+Helianthemum-type,HERB,Cistaceae
+Helianthetum,HERB,Cistaceae
+Helianthus,HERB,Asteraceae
+Helianthus-type,HERB,Asteraceae
+Helicoma,FUNG,delete
+Helicoon klein,FUNG,delete
+Helicoon pluriseptatum,FUNG,delete
+Heliotropium,HERB,Boraginaceae
+Heliotropium-type,HERB,Boraginaceae
+Helleborus,HERB,Ranunculaceae
+Helleborus foetidus,HERB,Ranunculaceae
+Helleborus niger,HERB,Ranunculaceae
+Helleborus undiff.,HERB,Ranunculaceae
+Helleborus viridis,HERB,Ranunculaceae
+Helleborus viridis-type,HERB,Ranunculaceae
+Helleborus viriolist,HERB,Ranunculaceae
+Helleborus-type,HERB,Ranunculaceae
+Hepatica,HERB,Ranunculaceae
+Hepaticae,BRYO,delete
+Hepaticae undiff.,BRYO,delete
+Hepaticeae,BRYO,delete
+Heracleum,HERB,Apiaceae
+Heracleum sphondyleum,HERB,Apiaceae
+Heracleum sphondylium,HERB,Apiaceae
+Heracleum type,HERB,Apiaceae
+Heracleum-type,HERB,Apiaceae
+Herbs,UPHE,delete
+Herbs,INUN,delete
+Herbs undiff.,INUN,delete
+Herniaria,HERB,Caryophyllaceae
+Herniaria glabra,HERB,Caryophyllaceae
+Herniaria-type,HERB,Caryophyllaceae
+Herniaria/Paronychia,HERB,Caryophyllaceae
+Hexarthra,ROTI,delete
+Hibiscus,TRSH,Malvaceae
+Hicriopteris,NA,delete
+Hieracium,HERB,Asteraceae
+Hieracium-type,HERB,Asteraceae
+Hipericum type,HERB,Asteraceae
+Hiphae,FUNG,delete
+Hipp._v.,AQUA,delete
+Hippocrepis comosa,HERB,Fabaceae
+Hippocrepis-type,HERB,Fabaceae
+Hippophae,TRSH,Elaeagnaceae
+Hippophae (Hippophae),NA,Elaeagnaceae
+Hippophae rhamn.,TRSH,Elaeagnaceae
+Hippophae rhamnoides,TRSH,Elaeagnaceae
+Hippophae spp.,NA,Elaeagnaceae
+Hippophaë rhamnoides,TRSH,Elaeagnaceae
+Hippuris vulgaris,AQUA,delete
+Histiopteris-type,NA,delete
+Histiopteris-type (Histiopteris-T),NA,delete
+Holzkohlepartikel,CHAR,delete
+Homogyne,HERB,Asteraceae
+Homogyne alpina,HERB,Asteraceae
+Hordeum,HERB,Poaceae
+Hordeum T,HERB,Poaceae
+Hordeum group,HERB,Poaceae
+Hordeum typ,HERB,Poaceae
+Hordeum type,HERB,Poaceae
+Hordeum-group,HERB,Poaceae
+Hordeum-type,HERB,Poaceae
+Hordeum-type (Hordeum-T),NA,Poaceae
+Hornungia,HERB,Brassicaceae
+Hornungia type,HERB,Brassicaceae
+Hornungia-type,HERB,Brassicaceae
+Hot._pal.,HERB,delete
+Hottonia,HERB,delete
+Hottonia palustris,AQUA,delete
+Hottonia palustris-type,AQUA,delete
+Hottonia-type,HERB,delete
+Humulus,HERB,Cannabaceae
+Humulus lupulus,HERB,Cannabaceae
+Humulus lupulus cf.,HERB,Cannabaceae
+Humulus lupulus type,HERB,Cannabaceae
+Humulus lupulus-type,HERB,Cannabaceae
+Humulus lupulus/Cannabis,HERB,Cannabaceae
+Humulus typ,HERB,Cannabaceae
+Humulus-type,HERB,Cannabaceae
+Humulus/Cannabis,HERB,Cannabaceae
+Humulus/Cannabis sativa,UPHE,Cannabaceae
+Humulus/Cannabis-type,HERB,Cannabaceae
+Hupertia,VACR,delete
+Huperzia,VACR,delete
+Huperzia appressum,VACR,delete
+Huperzia selago,VACR,delete
+Huperzia selago-type,VACR,delete
+Hyalosphenia sp.,RHIZ,delete
+Hyalosphenia subflava,RHIZ,delete
+Hyd-eae,AQUA,delete
+Hyd._m.-r.,AQUA,delete
+Hydrangea,TRSH,Hydrangeaceae
+Hydrocharis,AQUA,delete
+Hydrocharis morsus-ranae,AQUA,delete
+Hydrocharitaceae,AQUA,delete
+Hydrocotyle,HERB,Araliaceae
+Hydrocotyle vulgaris,HERB,Araliaceae
+Hymenophyllum,VACR,delete
+Hymenophyllum tunbrigense,VACR,delete
+Hymenophyllum wilsonii,VACR,delete
+Hyoscyamus,HERB,Solanaceae
+Hyoscyamus t.,HERB,Solanaceae
+Hypecoum,HERB,Papaveraceae
+Hypericaceae,HERB,Hypericaceae
+Hypericum,HERB,Hypericaceae
+Hypericum perforatum,NA,Hypericaceae
+Hypericum perforatum T,HERB,Hypericaceae
+Hypericum perforatum type,HERB,Hypericaceae
+Hypericum perforatum-type,HERB,Hypericaceae
+Hypericum perforatume-type,HERB,Hypericaceae
+Hypericum pulchrum-type,HERB,Hypericaceae
+Hypericum type,HERB,Hypericaceae
+Hypericum undifferentiated,HERB,Hypericaceae
+Hypericum-type,HERB,Hypericaceae
+Hyphopodium,FUNG,delete
+Hystrix,HERB,Poaceae
+ILEX aquifolium,TRSH,Aquifoliaceae
+ISOETES,AQPT,delete
+Icacinaceae,NA,Icacinaceae
+Ideterminable grains,INUN,delete
+Ilex,TRSH,Aquifoliaceae
+Ilex aquifolium,TRSH,Aquifoliaceae
+Ilex type,TRSH,Aquifoliaceae
+Ilex-type,TRSH,Aquifoliaceae
+Illecebrum,HERB,Caryophyllaceae
+Illecebrum verticillatum,HERB,Caryophyllaceae
+Impagidinium,DINO,delete
+Impatiens,HERB,Balsaminaceae
+Impatiens t.,HERB,Balsaminaceae
+"Inaperturate,echinate grain",INUN,delete
+Incertae sedis 5b,INUN,delete
+Incertae sedis 5d,INUN,delete
+Indet.,INUN,delete
+Indet. clumps,INUN,delete
+Indet: broken,INUN,delete
+Indet: concealed,INUN,delete
+Indeterm,INUN,delete
+Indetermin,INUN,delete
+Indeterminable,INUN,delete
+Indeterminable grains,INUN,delete
+Indeterminable: broken,INUN,delete
+Indeterminable: concealed,INUN,delete
+Indeterminable: corroded,INUN,delete
+Indeterminable: crumpled,INUN,delete
+Indeterminable: degraded,INUN,delete
+Indeterminable: deteriorated,INUN,delete
+Indeterminable: hidden,INUN,delete
+Indeterminable: undiff.,INUN,delete
+Indeterminable: unidentified,INUN,delete
+Indeterminable: unknown,INUN,delete
+Indeterminata,INUN,delete
+Indeterminata (Indet),NA,delete
+Indeterminate,INUN,delete
+Indeterminated,INUN,delete
+Indetermines,INUN,delete
+Indiff.,INUN,delete
+Indéterminables,INUN,delete
+Indéterminés,INUN,delete
+Inula,HERB,Asteraceae
+Inula-type,HERB,Asteraceae
+Iridaceae,HERB,Iridaceae
+Iridaceae/Amaryllidaceae,HERB,Iridaceae
+Iris,HERB,Iridaceae
+Iris humilis,HERB,Iridaceae
+Iris pseudacorus,HERB,Iridaceae
+Iris pseudacorus-type,HERB,Iridaceae
+Iris-type,HERB,Iridaceae
+Isoete spore(s),AQPT,delete
+Isoetes,AQPT,delete
+Isoetes cf.,INUN,delete
+Isoetes echinospora,AQPT,delete
+Isoetes histrix,AQUA,delete
+Isoetes lacustris,AQPT,delete
+Isoetes setacea,AQPT,delete
+Isoetes undiff.,AQPT,delete
+Isoëtes,AQVP,delete
+JUGLANS,TRSH,Juglandaceae
+JUNIPERUS,TRSH,delete
+Jasione,HERB,Campanulaceae
+Jasione montana,HERB,Campanulaceae
+Jasione typ,HERB,Campanulaceae
+Jasione-type,HERB,Campanulaceae
+Jasione/Wahlenbergia-type,NA,Campanulaceae
+Jasminum,TRSH,Oleaceae
+Jasminum fruticans,HERB,Oleaceae
+Jasminum t.,TRSH,Oleaceae
+Jasminum-type,TRSH,Oleaceae
+Juglandaceae,TRSH,Juglandaceae
+Juglans,TRSH,Juglandaceae
+Juglans (Juglans),NA,Juglandaceae
+Juglans nigra,TRSH,Juglandaceae
+Juglans regia,TRSH,Juglandaceae
+Juglans regia type,TRSH,Juglandaceae
+Juglans regia-type,NA,Juglandaceae
+Juglans spp.,NA,Juglandaceae
+Juglans-Pterocarya,TRSH,Juglandaceae
+Juglans-type,TRSH,Juglandaceae
+Juncaceae,HERB,Juncaceae
+Juncus,HERB,Juncaceae
+Juncus Samenfragment,MACR,delete
+Juniperus,TRSH,delete
+Juniperus Stomata,VEMI,delete
+Juniperus communis,TRSH,delete
+Juniperus communis-type,TRSH,delete
+Juniperus excelsa/J. oxycedrus,TRSH,delete
+Juniperus oxycedrus-type,TRSH,delete
+Juniperus sabina,TRSH,delete
+Juniperus spp.,NA,delete
+Juniperus t.,TRSH,delete
+Juniperus type,TRSH,delete
+Juniperus-type,TRSH,delete
+Juniperus/Cupressaceae,TRSH,delete
+Juniperus: stomata,VEMI,delete
+Juniperus: stomata,MACR,delete
+Jurinea-type,HERB,Asteraceae
+KETEELERIA,TRSH,delete
+Keteleeria,NA,delete
+Kiwi,TRSH,delete
+Knautia,HERB,Caprifoliaceae
+Knautia arvensis,HERB,Caprifoliaceae
+Knautia arvensis type,HERB,Caprifoliaceae
+Knautia-type,HERB,Caprifoliaceae
+Knorringia,HERB,Polygonaceae
+Knorringia-type,NA,Polygonaceae
+Knorringia-type (Knorringia-T),NA,Polygonaceae
+Koenigia,NA,Polygonaceae
+Koenigia delicatula,NA,Polygonaceae
+Koenigia islandica,HERB,Polygonaceae
+Koenigia islandica/nepalensis-type,NA,Polygonaceae
+Koenigia-type,NA,Polygonaceae
+Kretzschamria deusta (fungi),FUNG,delete
+LABIATAE,HERB,Lamiaceae
+LAMIACEAE,HERB,Lamiaceae
+LARIX,TRSH,delete
+LEGUMINOSAE,HERB,Fabaceae
+LIGUSTRUM,TRSH,Oleaceae
+LILIACEAE,HERB,Liliaceae
+LINUM,HERB,Linaceae
+LUZULA,HERB,Juncaceae
+LYCOPODIUM ANNOTINUM,VACR,delete
+"Labia/mandibles, juvenile",NA,delete
+Labiata,HERB,Lamiaceae
+Labiatae,HERB,Lamiaceae
+Labiatae (3),HERB,Lamiaceae
+Labiatae (6),HERB,Lamiaceae
+Labiatae cf. Lamium,HERB,Lamiaceae
+Labiatae undiff.,HERB,Lamiaceae
+Laburnum,TRSH,Fabaceae
+Laburnum anagyroides,TRSH,Fabaceae
+Lactuca,HERB,Asteraceae
+Lactuca sativa-type,HERB,Asteraceae
+Lactuca-type,HERB,Asteraceae
+Lactucae,HERB,Asteraceae
+Lactuceae,HERB,Asteraceae
+Lactuceae undiff.,HERB,Asteraceae
+Lactuceae undiff.  type,HERB,Asteraceae
+Lactucoideae,HERB,Asteraceae
+Lamiaceae,HERB,Lamiaceae
+Lamiaceae (6-colpate),HERB,Lamiaceae
+Lamiaceae (hexacolpate),HERB,Lamiaceae
+Lamiaceae 6-colpate,HERB,Lamiaceae
+Lamiaceae indet.,HERB,Lamiaceae
+Lamiaceae undiff.,HERB,Lamiaceae
+Lamiaceae undifferentiated,NA,Lamiaceae
+Lamium,HERB,Lamiaceae
+Lamium album-Typ,HERB,Lamiaceae
+Lamium album-type,HERB,Lamiaceae
+Lamium-type,HERB,Lamiaceae
+Lardizabalaceae,NA,Lardizabalaceae
+Larix,TRSH,delete
+Larix  decidua T,TRSH,delete
+Larix  decidua-type,TRSH,delete
+Larix dahurica,TRSH,delete
+Larix decidua,TRSH,delete
+Larix decidua T,TRSH,delete
+Larix decidua-type,TRSH,delete
+Larix sibirica,TRSH,delete
+Larix type,TRSH,delete
+Larix/Pseudotsuga,TRSH,delete
+Larix: stomata,MACR,delete
+Larix: stomata,VEMI,delete
+Laserpitium,HERB,Apiaceae
+Laserpitium latifolium-type,HERB,Apiaceae
+Laserpitium prutenicum,HERB,Apiaceae
+Lasiosphaeria sp. (Type HdV-63C),FUNG,delete
+Lathyrus,HERB,Fabaceae
+Lathyrus japonicus,HERB,Fabaceae
+Lathyrus t.,HERB,Fabaceae
+Lathyrus tp.,HERB,Fabaceae
+Lathyrus undiff.,HERB,Fabaceae
+Lathyrus-type,HERB,Fabaceae
+Lathyrus/Vicia,HERB,Fabaceae
+Lathyrus/Vicia-type,HERB,Fabaceae
+Latitude of event (Latitude),NA,delete
+Lauraceae,NA,Lauraceae
+Laurus,TRSH,Lauraceae
+Lavandula stoechas-type,TRSH,Lamiaceae
+Lavandula stoechas-type,HERB,Lamiaceae
+Ledum,DWAR,Ericaceae
+Ledum palustre,DWAR,Ericaceae
+Ledum-type,DWAR,Ericaceae
+Leg.,INUN,delete
+Legousia,HERB,Campanulaceae
+Leguminosae,HERB,Fabaceae
+Leguminosae undiff.,HERB,Fabaceae
+Lemna,AQUA,delete
+Lemna minor,AQUA,delete
+Lemna-type,AQUA,delete
+Lemnaceae,AQUA,delete
+Lentibulariaceae,HELO,delete
+Leontice leontopetalum,HERB,Berberidaceae
+Leontodon helveticus,HERB,Asteraceae
+Lepidotis inundata,VACR,delete
+Leptosporangiatae,VACR,delete
+Leucojum,HERB,Brassicaceae
+Libanotis,HERB,Apiaceae
+Liguliflorae,HERB,Asteraceae
+Liguliflorae clumps,HERB,Asteraceae
+Ligusticum mutellina,HERB,Apiaceae
+Ligusticum t.,TRSH,Apiaceae
+Ligustrum,TRSH,Oleaceae
+Ligustrum vulgare,TRSH,Oleaceae
+Ligustrum vulgare-type,TRSH,Oleaceae
+Ligustrum„ÄÄtype,TRSH,Oleaceae
+Liliaceae,HERB,Liliaceae
+Liliaceae indet.,HERB,Liliaceae
+"Liliaceae undiff,",HERB,Liliaceae
+Liliaceae undiff.,HERB,Liliaceae
+Liliaceae-type,HERB,Liliaceae
+Liliales,HERB,Liliaceae
+Lilium,HERB,Liliaceae
+Lilium martagon,HERB,Liliaceae
+Lilium martagon-type,HERB,Liliaceae
+Limoniacea,HERB,Plumbaginaceae
+Limoniaceae=Plumbaginaceae,HERB,Plumbaginaceae
+Limonium,HERB,Plumbaginaceae
+Limonium vulgare,HERB,Plumbaginaceae
+Limonium-type,HERB,Plumbaginaceae
+Linaceae,HERB,Linaceae
+Linaria,HERB,Plantaginaceae
+Linaria type,HERB,Plantaginaceae
+Linaria-type,HERB,Plantaginaceae
+Lines counted,NA,delete
+Lingulodinium,DINO,delete
+Lingulodinium machaerophorum,DINO,delete
+Lingulodinium machaerophorum var. clavatum,DINO,delete
+Linnaea,DWAR,Caprifoliaceae
+Linnaea,HERB,Caprifoliaceae
+Linnaea borealis,HERB,Caprifoliaceae
+Linum,HERB,Linaceae
+Linum alpinum-type (L. alpinum-T),NA,Linaceae
+Linum austriacum-type,HERB,Linaceae
+Linum catharticum,HERB,Linaceae
+Linum catharticum-type,HERB,Linaceae
+Linum t.,HERB,Linaceae
+Linum usitatissimum,HERB,Linaceae
+Liquidambar,TRSH,Altingiaceae
+Liriodendron,PREQ,Magnoliaceae
+Lithocarpus,NA,Fagaceae
+Lithospermum,HERB,Boraginaceae
+Lithospermum arvense,HERB,Boraginaceae
+Lithospermum arvense-type,HERB,Boraginaceae
+Lithospermum officinale-type,HERB,Boraginaceae
+Litorella-type,AQUA,delete
+Littorella,AQUA,delete
+Littorella uniflora,AQUA,delete
+Lloydia,HERB,Liliaceae
+Lloydia serotina,HERB,Liliaceae
+Lobelia,HELO,Campanulaceae
+Lobelia,HERB,Campanulaceae
+Lobelia dortmanna,HERB,Campanulaceae
+Lobelia dortmanna,HELO,Campanulaceae
+Lobelia-type,HERB,Campanulaceae
+Lobeliaceae,NA,Campanulaceae
+Loeflingia,HERB,Caryophyllaceae
+Loiseleuria,DWAR,Ericaceae
+Loiseleuria procumbens,DWAR,Ericaceae
+Loiseleuria procumbens,HERB,Ericaceae
+Loiseleuria procumbens t.,DWAR,Ericaceae
+Loiseleuria procumbens-type,DWAR,Ericaceae
+Lomatogonium,HERB,Gentianaceae
+Lomatogonium (Lomatogonium),NA,Gentianaceae
+Lomatogonium rotatum,HERB,Gentianaceae
+Longitude of event (Longitude),NA,delete
+Lonicera,TRSH,Caprifoliaceae
+Lonicera,LIAN,Caprifoliaceae
+Lonicera (Lonicera),NA,Caprifoliaceae
+Lonicera implexa,HERB,Caprifoliaceae
+Lonicera periclymenum,TRSH,Caprifoliaceae
+Lonicera periclymenum-type,TRSH,Caprifoliaceae
+Lonicera t.,TRSH,Caprifoliaceae
+Lonicera xylosteum-type,TRSH,Caprifoliaceae
+Lonicera-type,TRSH,Caprifoliaceae
+Loranthaceae,NA,Loranthaceae
+Loranthus,TRSH,Loranthaceae
+Loranthus,HEMI,Loranthaceae
+Loranthus europaeus,TRSH,Loranthaceae
+Lotus,HERB,Fabaceae
+Lotus alpinus-type,HERB,Fabaceae
+Lotus cf. L. corniculatus,HERB,Fabaceae
+Lotus t.,HERB,Fabaceae
+Lotus type,HERB,Fabaceae
+Lotus uliginosus,HERB,Fabaceae
+Lotus-type,HERB,Fabaceae
+Luzula,HERB,Juncaceae
+Lyc.,VACR,delete
+Lyc._ annotinum,VACR,delete
+Lyc._alpinum,VACR,delete
+Lyc._appressum,VACR,delete
+Lyc._clavaum,VACR,delete
+Lyc._dubium,VACR,delete
+Lyc._inundatum,VACR,delete
+Lyc._selago,VACR,delete
+LycSpores counted,NOPO,delete
+Lychnis,HERB,Caryophyllaceae
+Lychnis flos-cuculi,HERB,Caryophyllaceae
+Lychnis type,HERB,Caryophyllaceae
+Lychnis viscaria-type,HERB,Caryophyllaceae
+Lychnis-type,HERB,Caryophyllaceae
+Lycium,TRSH,Solanaceae
+Lycop.sp./Lycopodium sp.,VACR,delete
+Lycopodiaceae,VACR,delete
+Lycopodiaceae undiff.,VACR,delete
+Lycopodiella inundata,VACR,delete
+Lycopodium,VACR,delete
+Lycopodium,NOPO,delete
+Lycopodium (added),NOPO,delete
+Lycopodium (concentration),NOPO,delete
+Lycopodium (count),NOPO,delete
+Lycopodium (counted),NOPO,delete
+Lycopodium (counted) for Pediastrum,NOPO,delete
+Lycopodium (counted) for charcoal,NOPO,delete
+Lycopodium (grains/tablet),NOPO,delete
+Lycopodium (grains/tablets),NOPO,delete
+Lycopodium (spores/tablet),NOPO,delete
+Lycopodium alpinum,VACR,delete
+Lycopodium annium,VACR,delete
+Lycopodium annotinum,VACR,delete
+Lycopodium annotinum subsp. alpestre,VACR,delete
+Lycopodium annotinum subsp. annotinum,VACR,delete
+Lycopodium annotinum-type,VACR,delete
+Lycopodium appressum,VACR,delete
+Lycopodium cf. L. annotinum,VACR,delete
+Lycopodium clavat,VACR,delete
+Lycopodium clavatum,VACR,delete
+Lycopodium clavatum T,VACR,delete
+Lycopodium clavatum-type,VACR,delete
+Lycopodium complanatum,VACR,delete
+Lycopodium cont,NOPO,delete
+Lycopodium dubium,VACR,delete
+Lycopodium inundatum,VACR,delete
+Lycopodium juniperoides,VACR,delete
+Lycopodium marker,NOPO,delete
+Lycopodium pungens,VACR,delete
+Lycopodium selago,VACR,delete
+Lycopodium sp.,VACR,delete
+Lycopodium spike,NOPO,delete
+Lycopodium spike (added),NOPO,delete
+Lycopodium spike (counted),NOPO,delete
+Lycopodium spores added,NA,delete
+Lycopodium spores counted,NOPO,delete
+Lycopodium spores/tablet,NOPO,delete
+Lycopodium tablets,NOPO,delete
+Lycopodium tablets (number),NOPO,delete
+Lycopodium tristachyum,VACR,delete
+Lycopodium undiff,VACR,delete
+Lycopodium undiff.,VACR,delete
+Lycopodium-type,VACR,delete
+Lycopodium/Diphasiastrum,NA,delete
+Lycopodiums counted,NOPO,delete
+Lycopus,HERB,Lamiaceae
+Lycopus-type,HERB,Lamiaceae
+Lycopus/Mentha,HERB,Lamiaceae
+Lycpodium counted,NOPO,delete
+Lygeum,HERB,Poaceae
+Lygeum spartum,HERB,Poaceae
+Lygeum spartum-type,HERB,Poaceae
+Lygustrum vulgare type,TRSH,Oleaceae
+Lysimachia,HERB,Primulaceae
+Lysimachia nemorum,HERB,Primulaceae
+Lysimachia thyrsiflora,HERB,Primulaceae
+Lysimachia vulgaris,HERB,Primulaceae
+Lysimachia vulgaris T,HERB,Primulaceae
+Lysimachia vulgaris type,HERB,Primulaceae
+Lysimachia vulgaris-type,HERB,Primulaceae
+Lysimachia-type,HERB,Primulaceae
+Lythraceae,HERB,Lythraceae
+Lythrum,HERB,Lythraceae
+Lythrum salicaria,HERB,Lythraceae
+Lythrum salicaria-type,HERB,Lythraceae
+Lythrum salicaria/L. hyssopifolia,HERB,Lythraceae
+M. non psilate,VACR,delete
+M. verticillatum,AQUA,delete
+MAGNOLIA,TRSH,Magnoliaceae
+MALVACEAE,HERB,Malvaceae
+MERCURIALIS type,HERB,Euphorbiaceae
+MONOLATE-TYPE-SPORE,VACR,delete
+MORACEAE,TRSH,Moraceae
+MORUS,TRSH,Moraceae
+MYCOPHYTA,HERB,delete
+MYRIOPHYLLUM SPICATUM,AQUA,delete
+MYRTUS,TRSH,Myrtaceae
+Macrobiotus,INVE,delete
+Macrobiotus areolatus/M. richtersi-type,INVE,delete
+Macrobiotus coronifer-islandicus,INVE,delete
+Macrobiotus harmsworthi-echinogenitus,INVE,delete
+Macrobiotus hufelandi,NOPO,delete
+Macrobiotus hufelandii,INVE,delete
+Macrocharcoal,CHAR,delete
+Magnolia,TRSH,Magnoliaceae
+Magnoliaceae,NA,Magnoliaceae
+Magnoliaceae undiff.,TRSH,Magnoliaceae
+Maianthemum,HERB,Asparagaceae
+Maianthemum-type,HERB,Asparagaceae
+Malabaila,HERB,Apiaceae
+Mallotus,TRSH,Euphorbiaceae
+Malus,TRSH,Rosaceae
+Malus-type,TRSH,Rosaceae
+Malva,HERB,Malvaceae
+Malva sylvestris-type,HERB,Malvaceae
+Malva-type,HERB,Malvaceae
+Malvaceae,HERB,Malvaceae
+Marchantiophyta,UPBR,delete
+Markasit,NOPO,delete
+Marker,NOPO,delete
+Marker (added),NOPO,delete
+Marker (counted),NOPO,delete
+"Marker spores/tablet, standard deviation: 1708",NA,delete
+Marker spores/tablet: 18583,NA,delete
+"Marker, added",NA,delete
+"Marker, found",NOPO,delete
+Marron 3 branches zopfiella?,INUN,delete
+Marrubium,HERB,Lamiaceae
+Marsil-eae,VACR,delete
+Matricaria,HERB,Asteraceae
+Matricaria t.,HERB,Asteraceae
+Matricaria type,HERB,Asteraceae
+Matricaria-type,HERB,Asteraceae
+Matteuccea strutiopt.,VACR,delete
+Matteuccia,VACR,delete
+Matteuccia struthiopteris,VACR,delete
+Matthiola,HERB,Brassicaceae
+Matthiola sp,HERB,Brassicaceae
+Meconopsis,NA,Papaveraceae
+Medicago,HERB,Fabaceae
+Medicago cf.,INUN,Fabaceae
+Medicago littoralis-type,HERB,Fabaceae
+Medicago sativa,HERB,Fabaceae
+Medicago-type,HERB,Fabaceae
+Meesia,VACR,delete
+Melampyrum,HERB,Orobanchaceae
+Melastomataceae,NA,Melastomataceae
+Melia,TRSH,Meliaceae
+Meliaceae,TRSH,Meliaceae
+Melilotus,HERB,Fabaceae
+Meliola niessleana,FUNG,delete
+Men._tr-ta,AQUA,delete
+Menianthes trifoliata,AQUA,delete
+Menispermaceae,NA,Menispermaceae
+Menta type,HERB,Lamiaceae
+Mentha,HERB,Lamiaceae
+Mentha  type,HERB,Lamiaceae
+Mentha T,HERB,Lamiaceae
+Mentha t.,HERB,Lamiaceae
+Mentha type,HERB,Lamiaceae
+Mentha-type,HERB,Lamiaceae
+Mentha/Elsholtzia-type,NA,Lamiaceae
+Mentha/Salvia-type,HERB,Lamiaceae
+Menyanthaceae,HELO,delete
+Menyanthes,AQUA,delete
+Menyanthes trifoliata,AQUA,delete
+Menyanthes trifoliata-type,AQUA,delete
+Mercurialis,HERB,Euphorbiaceae
+Mercurialis  type,HERB,Euphorbiaceae
+Mercurialis annua,HERB,Euphorbiaceae
+Mercurialis annua-type,HERB,Euphorbiaceae
+Mercurialis cf.,INUN,Euphorbiaceae
+Mercurialis perennis,HERB,Euphorbiaceae
+Mercurialis perennis T,HERB,Euphorbiaceae
+Mercurialis perennis-type,HERB,Euphorbiaceae
+Merendera filifolia-type,HERB,Colchicaceae
+Meum,HERB,Apiaceae
+Meum athamanticum,HERB,Apiaceae
+Micodalyella armigera Type 1A,FUNG,delete
+Micodalyellia armigera,FUNG,delete
+Micrhystridium ariakense,DINO,delete
+Microcharcoal,CHAR,delete
+Microcos,NA,delete
+"Microfossil, elliptic",NA,delete
+"Microfossil, elliptic (Microfos elliptic)",NA,delete
+"Microfossil, vasiform",NA,delete
+Microfossils,INUN,delete
+Microspheres (counted),NOPO,delete
+Microspheres suspension (added),NOPO,delete
+Microthyriaceae fruitbody,FUNG,delete
+Microthyrium,FUNG,delete
+Microthyrium undiff.,FUNG,delete
+Mimosaceae,NA,Fabaceae
+Mineral particles > 20 -_m,NOPO,delete
+Minuartia,HERB,Caryophyllaceae
+Minuartia rubra-type,HERB,Caryophyllaceae
+Minuartia verna-type,HERB,Caryophyllaceae
+Minuartia-type,HERB,Caryophyllaceae
+Minuartia-type (Minuartia-T),NA,Caryophyllaceae
+Moehringia-type,HERB,Caryophyllaceae
+Moltkia,HERB,Boraginaceae
+Monocolpate verrucate,VACR,delete
+Monocot.,INUN,delete
+Monocot. monocolp.,HERB,delete
+Monocotyledones,INUN,delete
+Monodictys E,FUNG,delete
+Monolete,VACR,delete
+Monolete fern spores,VACR,delete
+Monolete fern spores (psilate),VACR,delete
+Monolete fern spores undiff.,VACR,delete
+Monolete non-psilate,VACR,delete
+Monolete not psilate,VACR,delete
+Monolete psil.,VACR,delete
+Monolete psilate,VACR,delete
+Monolete spore sculptured,VACR,delete
+Monolete spore with perine,VACR,delete
+Monolete spore without perine,VACR,delete
+Monolete spore without perine cl.,VACR,delete
+Monolete spore(s),VACR,delete
+Monolete spore(s) undiff.,VACR,delete
+Monolete spores,VACR,delete
+Monolete spores (psilate),VACR,delete
+Monoletes  lisses,VACR,delete
+Monoletes non psilate,VACR,delete
+Monoletes psilate,VACR,delete
+Monotropa,NA,delete
+Montia,HERB,Montiaceae
+Montia fontana,HERB,Montiaceae
+Moraceae,TRSH,Moraceae
+Moraceae-Urticaceae,HERB,Moraceae
+Morus,TRSH,Moraceae
+Morus alba,TRSH,Moraceae
+Morus alba t.,TRSH,Moraceae
+Morus nigra,TRSH,Moraceae
+Moss leaf,MACR,delete
+Moss: leaf,MACR,delete
+Mougeotia,CHLO,delete
+Mougeotia,ALGA,delete
+Mougeotia laetevirens,ALGA,delete
+Mougeotia-type,NA,delete
+Mounted volume (0.001 ml),NOPO,delete
+Multi-septate fungal remain,FUNG,delete
+Multiseptate conidia undet.,FUNG,delete
+Musaceae,NA,Musaceae
+Muscari,HERB,Asparagaceae
+Muscari-type,HERB,Asparagaceae
+Muscari/Veratrum,HERB,Asparagaceae
+Myosotis,HERB,Boraginaceae
+Myosotis arvensis-type,HERB,Boraginaceae
+Myosotis-type,HERB,Boraginaceae
+Myosoton aquaticum,AQUA,delete
+Myr-lum,AQUA,delete
+Myrica,TRSH,Myricaceae
+Myrica gale,TRSH,Myricaceae
+Myrica gale-type,HERB,Myricaceae
+Myrica gale-type,TRSH,Myricaceae
+Myrica tomentosa,TRSH,Myricaceae
+Myrica type,TRSH,Myricaceae
+Myrica-type,TRSH,Myricaceae
+Myricaceae,TRSH,Myricaceae
+Myricaria,TRSH,Tamaricaceae
+Myricaria,HERB,Tamaricaceae
+Myricaria-type,NA,Tamaricaceae
+Myriophyllum,AQUA,delete
+Myriophyllum alterniflorum,AQUA,delete
+Myriophyllum alterniflorum type,AQUA,delete
+Myriophyllum alterniflorum-type,AQUA,delete
+Myriophyllum spicatum,AQUA,delete
+Myriophyllum spicatum type,AQUA,delete
+Myriophyllum spicatum-type,AQUA,delete
+Myriophyllum spicatum/M. verticillatum,AQUA,delete
+Myriophyllum undiff.,AQUA,delete
+Myriophyllum verticilatum,AQUA,delete
+Myriophyllum verticillatum,AQUA,delete
+Myriophylum spicatum,AQUA,delete
+Myristicaceae,NA,Myristicaceae
+Myrsinaceae,NA,Primulaceae
+Myrtaceae,TRSH,Myrtaceae
+Myrtus,TRSH,Myrtaceae
+Myrtus communis,TRSH,Myrtaceae
+NPP undiff.,UNPP,delete
+NPPlongfin,INUN,delete
+Narcissus,HERB,Amaryllidaceae
+Narcissus pseudonarcissus-type,HERB,Amaryllidaceae
+Nardus,HERB,Poaceae
+Narthecium,HERB,Nartheciaceae
+Narthecium ossifragum,HERB,Nartheciaceae
+Narthecium-type,HERB,Nartheciaceae
+Naumburgia,HERB,Primulaceae
+Nb lignes,NOPO,delete
+Nebela collaris,RHIZ,delete
+Nebela-type,NA,delete
+Nelumbo,AQVP,delete
+Nematodes,NEMA,delete
+Neobardocoela oocytes,PLAT,delete
+Neorhabdocoela,PLAT,delete
+Neorhabdocoela Oocytes Teile,PLAT,delete
+Nepeta,HERB,Lamiaceae
+Nerium,TRSH,Apocynaceae
+Nerium oleander,TRSH,Apocynaceae
+Neurospora,FUNG,delete
+Nicotiana tabacum,HERB,Solanaceae
+Nigella,HERB,Ranunculaceae
+Nitraria,TRSH,Nitrariaceae
+Nitraria spp.,NA,Nitrariaceae
+Noaea-type,HERB,Amaranthaceae
+Non-operculate Rosaceae,TRSH,Rosaceae
+Non-septate filamentous algae undet.,ALGA,delete
+Nonea,HERB,Boraginaceae
+Not determined,INUN,delete
+Number (No),NA,delete
+Number of LycSpores pr tablet,NOPO,delete
+Number of LycTab,NOPO,delete
+Number of counted lines,NOPO,delete
+Number of exotics per tablet,NOPO,delete
+Number of spike added,NOPO,delete
+Nuphar,AQUA,delete
+Nyctaginaceae,NA,delete
+Nymhpea,AQUA,delete
+Nymphaceae,AQUA,delete
+Nymphaceae basall cell,VEMI,delete
+Nymphaceae sclereid,VEMI,delete
+Nymphaea,AQUA,delete
+Nymphaea alba,AQUA,delete
+Nymphaea alba-type,AQUA,delete
+Nymphaea basal cells,VEMI,delete
+Nymphaea candida,AQUA,delete
+Nymphaea cf. alba,AQUA,delete
+Nymphaeaceae,AQUA,delete
+Nymphaeaceae: base cells,VEMI,delete
+Nymphaeaceae: hair,NOPO,delete
+Nymphaeaceae: leaf hair base,NOPO,delete
+Nymphaeaceae: star cell,NOPO,delete
+Nymphaeaceae: trichoblasts,VEMI,delete
+Nymphaeae,AQUA,delete
+Nymphar,AQUA,delete
+Nyphar,AQUA,delete
+Nyssa,NA,Nyssaceae
+OLEA,TRSH,Oleaceae
+OLEACEAE indiff.,TRSH,Oleaceae
+OSTRYA,TRSH,Betulaceae
+OSTRYA/CARPINUS ORIENTALIS,TRSH,Betulaceae
+Odontites,HERB,Orobanchaceae
+Odontites t.,HERB,Orobanchaceae
+Odontites-type,HERB,Orobanchaceae
+Oedogonium,ALGA,delete
+Oenanthe,HERB,delete
+Oenanthe,AQUA,delete
+Oenanthe fistulosa type,HERB,delete
+Oenanthe-type,HERB,delete
+Oenothera,HERB,Onagraceae
+Oenotheraceae,HERB,Onagraceae
+Olacaceae,NA,Olacaceae
+Olea,TRSH,Oleaceae
+Olea eur,TRSH,Oleaceae
+Olea europaea,TRSH,Oleaceae
+Olea europea,TRSH,Oleaceae
+Olea-type,TRSH,Oleaceae
+Olea/Ligustrum,TRSH,Oleaceae
+Olea/Phillyrea,TRSH,Oleaceae
+Oleaceae,TRSH,Oleaceae
+Oleaceae (temperate),NA,Oleaceae
+Oleaceae (tropical/subtropical),NA,Oleaceae
+Oleaceae (unclear),NA,Oleaceae
+Oleaceae pro parte,TRSH,Oleaceae
+Oleaceae undiff.,TRSH,Oleaceae
+Omphalodes-type,HERB,Boraginaceae
+Onagraceae,HERB,Onagraceae
+Onagraceae undiff.,HERB,Onagraceae
+Onobrychis,HERB,Fabaceae
+Onobrychis-type,HERB,Fabaceae
+Onoclea-type,NA,delete
+Ononis,HERB,Fabaceae
+Ononis-type,HERB,Fabaceae
+Onopordum-type,HERB,Asteraceae
+Onosma-type,HERB,Boraginaceae
+Oociti di Neorabdocoehla,PLAT,delete
+Operculodinium,DINO,delete
+Operculodinium centrocarpum,DINO,delete
+Ophelia-type,HERB,Gentianaceae
+Ophelia-type (Ophelia-T),NA,Gentianaceae
+Ophioglossaceae,VACR,delete
+Ophioglossum,VACR,delete
+Ophioglossum vulgatum,VACR,delete
+Ophioglossum vulgatum type B,VACR,delete
+Ophyoglossaceae,VACR,delete
+Ophyoglossum,VACR,delete
+Orchidaceae,HERB,Orchidaceae
+Origanum type,HERB,Lamiaceae
+Origanum vulgare,HERB,Lamiaceae
+Orlaya,HERB,Apiaceae
+Orlaya grandiflora,HERB,Apiaceae
+Ornithopus,HERB,Fabaceae
+Orobanche,NA,Orobanchaceae
+Oscillatoria,CYAN,delete
+Osmun-eae,VACR,delete
+Osmunda,VACR,delete
+Osmunda regalis,VACR,delete
+Osmunda regalis-type,VACR,delete
+Osmunda tp.,VACR,delete
+Osmunda-type,VACR,delete
+Osmundaceae,VACR,delete
+Ostrac. Mandible,INUN,delete
+Ostracoda: mandible,NOPO,delete
+Ostrya,TRSH,Betulaceae
+Ostrya carpinifolia,TRSH,Betulaceae
+Ostrya carpinifolia/Carpinus orientalis,TRSH,Betulaceae
+Ostrya-type,TRSH,Betulaceae
+Ostrya/Carpinus,TRSH,Betulaceae
+Ostrya/Carpinus orientalis,TRSH,Betulaceae
+Ostrya/Carpinus orientalis type,TRSH,Betulaceae
+Ostrya/Carpinus orientalis-type,TRSH,Betulaceae
+Ostryopsis,TRSH,Betulaceae
+Osyris alba,TRSH,Santalaceae
+Osyris alba-type,HERB,Santalaceae
+Other herbs,INUN,delete
+Other trees,INUN,delete
+Other trees and shrubs,INUN,delete
+Oxalidaceae,HERB,Oxalidaceae
+Oxalis,HERB,Oxalidaceae
+Oxalis acetosella,HERB,Oxalidaceae
+Oxalis pes-caprae,HERB,Oxalidaceae
+Oxalis stricta,HERB,Oxalidaceae
+Oxalis type,HERB,Oxalidaceae
+Oxiria type,HERB,Polygonaceae
+Oxycoccus,TRSH,Ericaceae
+Oxycoccus quadripetalus,TRSH,Ericaceae
+Oxyria,HERB,Polygonaceae
+Oxyria digyna,HERB,Polygonaceae
+Oxyria-type,HERB,Polygonaceae
+Oxyria/Rumex,HERB,Polygonaceae
+P. atrata,HERB,Polygonaceae
+P. avic.-bistorta,HERB,Polygonaceae
+P. avic.-bistorta-t.,HERB,Polygonaceae
+P. bistorta,HERB,Polygonaceae
+P. coronopus,HERB,Plantaginaceae
+P. lanceolata,HERB,Plantaginaceae
+P. lanceolata-t.,HERB,Plantaginaceae
+P. major,HERB,Plantaginaceae
+P. major type,HERB,Plantaginaceae
+P. simplex,ALGA,delete
+PAPAVERACEAE,HERB,Papaveraceae
+PARIETARIA,HERB,Urticaceae
+PARNASSIA PALUSTRIS,HERB,Celastraceae
+PHILLYREA,TRSH,Oleaceae
+PICEA,TRSH,delete
+PINUS,TRSH,delete
+PINUS CEMBRA,TRSH,delete
+PINUS indiff.,TRSH,delete
+PINUS indiff..,TRSH,delete
+PINUS sylv.,TRSH,delete
+PINUS t.nigra,TRSH,delete
+PINUS t.pinaster,TRSH,delete
+PINUS t.sylvestris,TRSH,delete
+PISTACIA,TRSH,Anacardiaceae
+PLANTAGO,HERB,Plantaginaceae
+PLANTAGO MARITIMA,HERB,Plantaginaceae
+PLANTAGO indet.,HERB,Plantaginaceae
+PLANTAGO lanceol.,HERB,Plantaginaceae
+PLANTAGO major,HERB,Plantaginaceae
+PLATANUS,TRSH,Platanaceae
+POACEAE,HERB,Poaceae
+POACEAE > 45 µm,HERB,Poaceae
+POLYGALA,HERB,Polygalaceae
+POLYGONACEAE,HERB,Polygonaceae
+POLYGONUM BISTORTA type,HERB,Polygonaceae
+POLYGONUM VIVIPARUM,HERB,Polygonaceae
+POLYGONUM bistorta,HERB,Polygonaceae
+POLYPODIUM,VACR,delete
+POPULUS,TRSH,Salicaceae
+POTENTILLA,HERB,Rosaceae
+POTERIUM,HERB,Rosaceae
+PRUNUS,TRSH,Rosaceae
+PSEUDOSCHIZAEA,ALGA,delete
+Padus avium,TRSH,Rosaceae
+Paeonia,HERB,Paeoniaceae
+Paliurus,TRSH,Rhamnaceae
+Paliurus spina-christi,TRSH,Rhamnaceae
+Paliurus spina-christi/Rhamnus,TRSH,Rhamnaceae
+Paliurus/Rhamnus,TRSH,Rhamnaceae
+Palmae,TRSH,Arecaceae
+"Palynomorpha, non-pollen",NA,delete
+Pandanaceae,NA,Pandanaceae
+Papav-eae,HERB,Papaveraceae
+Papaver,HERB,Papaveraceae
+Papaver argemone,HERB,Papaveraceae
+Papaver argemone-type,NA,Papaveraceae
+Papaver cf.,INUN,Papaveraceae
+Papaver rhoeas,HERB,Papaveraceae
+Papaver rhoeas t.,HERB,Papaveraceae
+Papaver rhoeas-group,HERB,Papaveraceae
+Papaver rhoeas-type,HERB,Papaveraceae
+Papaver spp.,NA,Papaveraceae
+Papaver-type,NA,Papaveraceae
+Papaver/Meconopsis,HERB,Papaveraceae
+Papaveraceae,HERB,Papaveraceae
+Papaveraceae cf. Corydalis,HERB,Papaveraceae
+Papaveraceae undiff.,HERB,Papaveraceae
+Papilionaceae,HERB,Fabaceae
+Paplionaceae,HERB,Fabaceae
+Parietaria,HERB,Urticaceae
+Parnassia,HERB,Celastraceae
+Parnassia palustris,HERB,Celastraceae
+Parnassia type,HERB,Celastraceae
+Parnassia-type,HERB,Celastraceae
+Paronychia,HERB,Caryophyllaceae
+Paronychia t.,HERB,Caryophyllaceae
+Paronychia-type,HERB,Caryophyllaceae
+Parrotia cf. P. persica,TRSH,Hamamelidaceae
+Parrotia persica,TRSH,Hamamelidaceae
+Parrotia persica clumps of two,TRSH,Hamamelidaceae
+Parthenocissus,TRSH,Vitaceae
+Parthenocissus,LIAN,Vitaceae
+Pastinaca,HERB,Apiaceae
+Patrinia,HERB,Caprifoliaceae
+Paulownia,TRSH,Paulowniaceae
+Ped. angulosum,ALGA,delete
+Ped. bor.brev.,ALGA,delete
+Pediastrum,ALGA,delete
+Pediastrum angulosum,ALGA,delete
+Pediastrum angulosum var. angulosum,ALGA,delete
+Pediastrum angulosum var. laevigatum,ALGA,delete
+Pediastrum bor.,ALGA,delete
+Pediastrum boryanum,ALGA,delete
+Pediastrum boryanum subsp. granulosum,ALGA,delete
+Pediastrum boryanum subsp. longicorne,ALGA,delete
+Pediastrum boryanum undifferentiated,NA,delete
+Pediastrum boryanum v.cornutum,ALGA,delete
+Pediastrum boryanum var. boryanum,HERB,delete
+Pediastrum boryanum var. boryanum,ALGA,delete
+Pediastrum boryanum var. boryanum (type 1),ALGA,delete
+Pediastrum boryanum var. boryanum (type 2),ALGA,delete
+Pediastrum boryanum var. boryanum sensu lato,ALGA,delete
+Pediastrum boryanum var. brevicorne,ALGA,delete
+Pediastrum boryanum var. cornutum,ALGA,delete
+Pediastrum boryanum var. longicorne,ALGA,delete
+Pediastrum boryanum var. perforatum,ALGA,delete
+Pediastrum boryanum-type,ALGA,delete
+Pediastrum clathratum,ALGA,delete
+Pediastrum companulatum,ALGA,delete
+Pediastrum duplex,ALGA,delete
+Pediastrum duplex var. rugulosum,ALGA,delete
+Pediastrum forcipatum,ALGA,delete
+Pediastrum integrum,ALGA,delete
+Pediastrum kawraiskyi,ALGA,delete
+Pediastrum kawraiskyi-integrum,ALGA,delete
+Pediastrum kawrayskyi,ALGA,delete
+Pediastrum marvilense,ALGA,delete
+Pediastrum orientale,NA,delete
+Pediastrum orientale (type 1),ALGA,delete
+Pediastrum simplex,ALGA,delete
+Pediastrum sp,ALGA,delete
+Pediastrum spec.,ALGA,delete
+Pediastrum undifferentiated,NA,delete
+Pedicularis,HERB,Orobanchaceae
+Pedicularis oederi-type,HERB,Orobanchaceae
+Pedicularis palustris T,HERB,Orobanchaceae
+Pedicularis palustris-type,HERB,Orobanchaceae
+Pedicularis sylvatica-type,HERB,Orobanchaceae
+Pedicularis t.,HERB,Orobanchaceae
+Pedicularis verticillata-type,HERB,Orobanchaceae
+Peganum,HERB,Nitrariaceae
+Peganum harmala,HERB,Nitrariaceae
+Penium,CHLO,delete
+Penium,ALGA,delete
+Pennales,ALGA,delete
+Pentaphylacaceae,NA,Pentaphylacaceae
+Peplis,HERB,Lythraceae
+Pericolpat 42 mkm,INUN,delete
+Peridinium ponticum,DINO,delete
+Periploca,INUN,delete
+Persicaria,HERB,Polygonaceae
+Persicaria amphibia,AQUA,Polygonaceae
+Persicaria maculosa,HERB,Polygonaceae
+Petasites,HERB,Asteraceae
+Petasites-type,HERB,Asteraceae
+Peucedanum,HERB,Apiaceae
+Peucedanum ostruthium,HERB,Apiaceae
+Peucedanum palustre T,HERB,Apiaceae
+Peucedanum palustre type,HERB,Apiaceae
+Peucedanum type,HERB,Apiaceae
+Peucedanum-type,HERB,Apiaceae
+Phacelia,HERB,Boraginaceae
+Phacelia tanacetifolia,HERB,Boraginaceae
+Phacelia-typeanacetifolia,HERB,Boraginaceae
+Phaeoceros laevis,BRYO,delete
+Phaseolus-type,HERB,Fabaceae
+Phegopteris connectilis,VACR,delete
+Phellodendron,TRSH,Rutaceae
+Phillyrea,TRSH,Oleaceae
+Phillyrea angustifolia,TRSH,Oleaceae
+Phillyrea angustifolia-type,TRSH,Oleaceae
+Phillyrea latifolia,TRSH,Oleaceae
+Phillyrea media,TRSH,Oleaceae
+Phillyrea-type,TRSH,Oleaceae
+Phlomis,HERB,Lamiaceae
+Phlox sibirica,HERB,Polemoniaceae
+Phoenix,TRSH,Arecaceae
+Phragmites,HERB,delete
+Phragmites,AQUA,delete
+Phragmites australis,AQUA,delete
+Phragmites australis cf.,HERB,delete
+Phragmites australis-type,AQUA,delete
+Phragmites-type,AQUA,delete
+Phragmites-type,HERB,delete
+Phragmospore undet.,INUN,delete
+Physochlaina,HERB,Solanaceae
+Physochlaina-type,NA,Solanaceae
+Physochlaina-type (Physochlaina-T),NA,Solanaceae
+Phyteuma,HERB,Campanulaceae
+Phyteuma T,HERB,Campanulaceae
+Phyteuma-type,HERB,Campanulaceae
+Phytolith,NOPO,delete
+Picea,TRSH,delete
+Picea (half),TRSH,delete
+Picea (whole),TRSH,delete
+Picea Stomata,VEMI,delete
+Picea abies,TRSH,delete
+Picea abies subsp. abies,TRSH,delete
+Picea abies subsp. obovata,TRSH,delete
+Picea obovata,TRSH,delete
+Picea omorica,TRSH,delete
+Picea orientalis,TRSH,delete
+Picea schrenkiana,TRSH,delete
+Picea sect. Eupicea,TRSH,delete
+Picea stomata,VEMI,delete
+Picea: stomata,MACR,delete
+Picea: stomata,VEMI,delete
+Piceaabies,TRSH,delete
+Pimpinella,HERB,Apiaceae
+Pimpinella anisum,HERB,Apiaceae
+Pimpinella major T,HERB,Apiaceae
+Pimpinella major type,HERB,Apiaceae
+Pimpinella major-type,HERB,Apiaceae
+Pimpinella-type,HERB,Apiaceae
+Pin._sibirica,TRSH,delete
+Pin._sylv.,TRSH,delete
+Pinaceae,TRSH,delete
+Pinaceae remaniés,INUN,delete
+Pinaceae undifferentiated,NA,delete
+Pinaceae: stomata,VEMI,delete
+Pinguicula,HERB,delete
+Pinus,TRSH,delete
+Pinus (Diploxylon),TRSH,delete
+Pinus (Haploxylon),TRSH,delete
+Pinus (diploxylon),TRSH,delete
+Pinus (half),TRSH,delete
+Pinus (whole),TRSH,delete
+Pinus cembra,TRSH,delete
+Pinus cembra subsp. sibirica,TRSH,delete
+Pinus cembra-type,TRSH,delete
+Pinus cf. nigra,TRSH,delete
+Pinus clumps,TRSH,delete
+Pinus dip,TRSH,delete
+Pinus diplost.,TRSH,delete
+Pinus diploxylon,TRSH,delete
+Pinus diploxylon-type,TRSH,delete
+Pinus halepensis,TRSH,delete
+Pinus halepensis type,TRSH,delete
+Pinus halepensis-type,TRSH,delete
+Pinus halepensis/P. pinea-type,TRSH,delete
+Pinus hap,TRSH,delete
+Pinus haploxylon,TRSH,delete
+Pinus haploxylon-type,TRSH,delete
+Pinus haploxylon/cembra,TRSH,delete
+Pinus non-cembra,TRSH,delete
+Pinus peuce,TRSH,delete
+Pinus pinaster,TRSH,delete
+Pinus pinaster-type,TRSH,delete
+Pinus pinea,TRSH,delete
+Pinus pinea-type,TRSH,delete
+Pinus pinea/P. halepensis,TRSH,delete
+Pinus pinea/halepensis t.,TRSH,delete
+Pinus pinea/halepensis-type,TRSH,delete
+Pinus pumila,TRSH,delete
+Pinus pumila-type,TRSH,delete
+Pinus roxburghii-type,NA,delete
+Pinus s/g Diploxylon,TRSH,delete
+Pinus s/g Haploxylon,TRSH,delete
+Pinus sect. Diploxylon,TRSH,delete
+Pinus sect. Haploxylon,TRSH,delete
+Pinus sf. Podocarpus,TRSH,delete
+Pinus sgen. Diploxylon,TRSH,delete
+Pinus sgen. Haploxylon,TRSH,delete
+Pinus sibirica,TRSH,delete
+Pinus sibirica-type,TRSH,delete
+Pinus sibirica=Pinus s/g Haploxylon,TRSH,delete
+Pinus sp,TRSH,delete
+Pinus sp.,TRSH,delete
+Pinus stomata,VEMI,delete
+Pinus subg. Diploxylon,TRSH,delete
+Pinus subg. Diploxylon-type,TRSH,delete
+Pinus subg. Haploxylon-type,TRSH,delete
+Pinus subg. Pinus,TRSH,delete
+Pinus subg. Strobus,TRSH,delete
+Pinus subgen. Diploxylon,TRSH,delete
+Pinus subgen. Diploxylon-type,NA,delete
+Pinus subgen. Haploxylon,TRSH,delete
+Pinus subgen. Haploxylon-type,NA,delete
+Pinus sylvestris,TRSH,delete
+Pinus sylvestris T,TRSH,delete
+Pinus sylvestris t.,TRSH,delete
+Pinus sylvestris type,TRSH,delete
+Pinus sylvestris-type,TRSH,delete
+Pinus sylvestris-type (P. sylvestris-T),NA,delete
+Pinus sylvestris/P. nigra-type,TRSH,delete
+Pinus sylvestris/mugo,TRSH,delete
+Pinus sylvestris/mugo type,TRSH,delete
+Pinus sylvestris/nigra type,TRSH,delete
+Pinus sylvestris/nigra-type,TRSH,delete
+Pinus sylvestris/nigra/uncinata t.,TRSH,delete
+Pinus sylvestris=Pinus s/g Diploxylon,TRSH,delete
+Pinus t. haplostellate,TRSH,delete
+Pinus undiff.,TRSH,delete
+Pinus undifferentiated,TRSH,delete
+Pinus wallichiana-type,NA,delete
+Pinus-D,TRSH,delete
+Pinus-H,TRSH,delete
+Pinus-type,TRSH,delete
+Pinus-undiff.,TRSH,delete
+Pinus: fragment,TRSH,delete
+Pinus: stomata,MACR,delete
+Pinus: stomata,VEMI,delete
+PinusDiplo.,TRSH,delete
+PinusHaplo.,TRSH,delete
+Piperaceae,NA,Piperaceae
+Pirolaceae,DWAR,Ericaceae
+Pirus-type,INUN,delete
+Pistacia,TRSH,Anacardiaceae
+Pistacia cf. P. lentiscus,TRSH,Anacardiaceae
+Pistacia cf. P. terebinthus,TRSH,Anacardiaceae
+Pistacia lentiscus,TRSH,Anacardiaceae
+Pistacia terebinthus,TRSH,Anacardiaceae
+Pistacia terebinthus type,TRSH,Anacardiaceae
+Pistacia-type,TRSH,Anacardiaceae
+Pisum sativum,HERB,Fabaceae
+Pl.acva,INUN,delete
+Plagiogyria-type,NA,delete
+Plagiogyria-type (Plagiogyria-T),NA,delete
+Plan-eae,HERB,delete
+Plan._m-or,HERB,delete
+Plan._max.,HERB,delete
+Plan._med.,HERB,delete
+"Plant hair, star-like",NA,delete
+Plant. major type,HERB,Plantaginaceae
+Plantaginaceae,HERB,Plantaginaceae
+Plantaginaceae undiff.,HERB,Plantaginaceae
+Plantago,HERB,Plantaginaceae
+Plantago albicans,HERB,Plantaginaceae
+Plantago albicans type,HERB,Plantaginaceae
+Plantago alpina,HERB,Plantaginaceae
+Plantago alpina type,HERB,Plantaginaceae
+Plantago alpina-type,HERB,Plantaginaceae
+Plantago alpinum,HERB,Plantaginaceae
+Plantago carinata type,HERB,Plantaginaceae
+Plantago cf. P. afra,HERB,Plantaginaceae
+Plantago cf. P. lanceolata,HERB,Plantaginaceae
+Plantago coronopus,HERB,Plantaginaceae
+Plantago coronopus t.,HERB,Plantaginaceae
+Plantago coronopus type,HERB,Plantaginaceae
+Plantago coronopus-type,HERB,Plantaginaceae
+Plantago cylindrica-type,HERB,Plantaginaceae
+Plantago indet.,HERB,Plantaginaceae
+Plantago l,HERB,Plantaginaceae
+Plantago lagopus type,HERB,Plantaginaceae
+Plantago lagopus-type,HERB,Plantaginaceae
+Plantago lanc.,HERB,Plantaginaceae
+Plantago lanceolata,HERB,Plantaginaceae
+Plantago lanceolata t.,HERB,Plantaginaceae
+Plantago lanceolata type,HERB,Plantaginaceae
+Plantago lanceolata-type,HERB,Plantaginaceae
+Plantago lanceolata-type (P. lanceolata-T),NA,Plantaginaceae
+Plantago lanceolata-type/P. major-type,HERB,Plantaginaceae
+Plantago lusitanica,HERB,Plantaginaceae
+Plantago maior,HERB,Plantaginaceae
+Plantago maior/media,HERB,Plantaginaceae
+Plantago major,HERB,Plantaginaceae
+Plantago major type,HERB,Plantaginaceae
+Plantago major-media,HERB,Plantaginaceae
+Plantago major-type,HERB,Plantaginaceae
+Plantago major/P. media,HERB,Plantaginaceae
+Plantago major/P. media-type,HERB,Plantaginaceae
+Plantago major/Plantago media,HERB,Plantaginaceae
+Plantago major/Plantago media type,HERB,Plantaginaceae
+Plantago major/media,HERB,Plantaginaceae
+Plantago major/media t.,HERB,Plantaginaceae
+Plantago major/media-type,HERB,Plantaginaceae
+Plantago maritima,HERB,Plantaginaceae
+Plantago maritima type,HERB,Plantaginaceae
+Plantago maritima-type,HERB,Plantaginaceae
+Plantago maritima/alpina-type,HERB,Plantaginaceae
+Plantago med,HERB,Plantaginaceae
+Plantago media,HERB,Plantaginaceae
+Plantago media-type,HERB,Plantaginaceae
+Plantago media/P. montana,HERB,Plantaginaceae
+Plantago media/major,HERB,Plantaginaceae
+Plantago media/major-type,HERB,Plantaginaceae
+Plantago montana-type,HERB,Plantaginaceae
+Plantago ovata,HERB,Plantaginaceae
+Plantago ovata-type,HERB,Plantaginaceae
+Plantago pro parte,HERB,Plantaginaceae
+Plantago psyllium-type,HERB,Plantaginaceae
+Plantago sp.,HERB,Plantaginaceae
+Plantago sp./major,HERB,Plantaginaceae
+Plantago tenuiflora t.,HERB,Plantaginaceae
+Plantago tenuiflora type,HERB,Plantaginaceae
+Plantago tenuiflora-type,HERB,Plantaginaceae
+Plantago undiff,HERB,Plantaginaceae
+Plantago undiff.,HERB,Plantaginaceae
+Plantago undiff. type,HERB,Plantaginaceae
+Plantago undifferentiated,HERB,Plantaginaceae
+Plantago-type,HERB,Plantaginaceae
+Platango lanceolata-type,HERB,Plantaginaceae
+Platanus,TRSH,Platanaceae
+Platanus orientalis,TRSH,Platanaceae
+Platea,NA,Icacinaceae
+Platycarya,NA,Juglandaceae
+Pleospora sp.,FUNG,delete
+Pleurospermum austriacum,HERB,Apiaceae
+Pleurospermum-type,HERB,Apiaceae
+Plumbaginaceae,HERB,Plumbaginaceae
+Plumbaginaceae indet.,HERB,Plumbaginaceae
+Plumbaginaceae undiff.,HERB,Plumbaginaceae
+Poa/Festuca-type,HERB,Poaceae
+Poaceae,HERB,Poaceae
+Poaceae (37 um),HERB,Poaceae
+Poaceae (<37 um),HERB,Poaceae
+Poaceae (> 40 um),HERB,Poaceae
+Poaceae (annulus 8-10 um),HERB,Poaceae
+Poaceae (annulus <8 um),HERB,Poaceae
+Poaceae (annulus >10 um),HERB,Poaceae
+Poaceae (annulus >8 um),HERB,Poaceae
+Poaceae (wildgrass),NA,Poaceae
+Poaceae <37µm,HERB,Poaceae
+Poaceae >40micron (Cereals),HERB,Poaceae
+Poaceae >40µm,HERB,Poaceae
+Poaceae Cerealia,HERB,Poaceae
+Poaceae Pore>8,HERB,Poaceae
+Poaceae annulus 8-10µm,HERB,Poaceae
+Poaceae annulus <8µm,HERB,Poaceae
+Poaceae annulus >10µm,HERB,Poaceae
+Poaceae annulus >8µm,HERB,Poaceae
+Poaceae cereal-type,HERB,Poaceae
+Poaceae cereal-type (P. cereal-T),NA,Poaceae
+Poaceae cf. Phragmites australis,HERB,Poaceae
+Poaceae class 1,HERB,Poaceae
+Poaceae class 2,HERB,Poaceae
+Poaceae class 3,HERB,Poaceae
+Poaceae class 4,HERB,Poaceae
+Poaceae large,HERB,Poaceae
+Poaceae mag 47 anulus min 11,HERB,Poaceae
+Poaceae pro parte,HERB,Poaceae
+Poaceae undif.<40√¶m,HERB,Poaceae
+Poaceae undif.>40√¶m,HERB,Poaceae
+Poaceae undiff,HERB,Poaceae
+Poaceae undiff.,HERB,Poaceae
+Poaceae undiff. <40 -_m,HERB,Poaceae
+Poaceae undiff. >40 -_m,HERB,Poaceae
+Poaceae undiff. type,HERB,Poaceae
+Poaceae undifferentiated,HERB,Poaceae
+Poaceae wild grass group,HERB,Poaceae
+Poaceae wild grass-group,HERB,Poaceae
+Poaceae wild grass-type,HERB,Poaceae
+Poaceae wildgrass-type,HERB,Poaceae
+Poaceae wildgrass-type (P. wildgrass-T),NA,Poaceae
+Poaceae<40,HERB,Poaceae
+Poaceae<40micron,HERB,Poaceae
+Poaceae>40,HERB,Poaceae
+Poaceae_37-47,HERB,Poaceae
+Poaceae_min 37,HERB,Poaceae
+Poacee,HERB,Poaceae
+Podocarpaceae,NA,delete
+Podocarpus,TRSH,delete
+Podosoma,INVE,delete
+Podospora,FUNG,delete
+Podospora (HdV-368),FUNG,delete
+Podospora-type,FUNG,delete
+Polem-eae,HERB,Polemoniaceae
+Polemoniaceae,HERB,Polemoniaceae
+Polemonium,HERB,Polemoniaceae
+Polemonium acutiflorum,UPHE,Polemoniaceae
+Polemonium caeruleum,HERB,Polemoniaceae
+Polemonium t.,HERB,Polemoniaceae
+Pollen Sum,NOPO,delete
+Pollen concentration,NOPO,delete
+Pollen gen. indet.,INUN,delete
+Pollen indeterminata,INUN,delete
+Pollen per unit sediment mass,NOPO,delete
+Pollen per unit sediment mass (/g),NOPO,delete
+Pollen per unit sediment mass [#/g] (Pollen/sed),NA,delete
+Pollen sums,NOPO,delete
+Pollen total,INUN,delete
+Pollen undiff.,INUN,delete
+"Pollen, broadleaves",NA,delete
+"Pollen, broken",INUN,delete
+"Pollen, cf. upland herbs",INUN,delete
+"Pollen, concealed",INUN,delete
+"Pollen, conifers",NA,delete
+"Pollen, corroded",INUN,delete
+"Pollen, crumpled",INUN,delete
+"Pollen, degraded",INUN,delete
+"Pollen, herbs",NA,delete
+"Pollen, shrubs",NA,delete
+"Pollen, terrestrial",INUN,delete
+"Pollen, total",NA,delete
+"Pollen, total concentration [#/cm",NA,delete
+Polycarpon,HERB,Caryophyllaceae
+Polyg-eae,HERB,Polygonaceae
+Polyg._am.,AQUA,delete
+Polyg._av.,HERB,Polygonaceae
+Polyg._bi.,HERB,Polygonaceae
+Polyg._p-a,HERB,Polygonaceae
+Polygala,HERB,Polygalaceae
+Polygala comosa-type,HERB,Polygalaceae
+Polygala vulgaris-type,HERB,Polygalaceae
+Polygala-type,HERB,Polygalaceae
+Polygalaceae,HERB,Polygalaceae
+Polyginum,HERB,Polygalaceae
+Polygonaceae,HERB,Polygalaceae
+Polygonaceae (?),INUN,Polygalaceae
+Polygonaceae (other),NA,Polygalaceae
+Polygonaceae undiff.,HERB,Polygalaceae
+Polygonatum,HERB,Asparagaceae
+Polygonum,HERB,Polygalaceae
+Polygonum Persicaria,HERB,Polygalaceae
+Polygonum alpinum,HERB,Polygalaceae
+Polygonum amphibium,AQUA,delete
+Polygonum amphibium-type,AQUA,delete
+Polygonum aviculare,HERB,Polygalaceae
+Polygonum aviculare T,HERB,Polygalaceae
+Polygonum aviculare t.,HERB,Polygalaceae
+Polygonum aviculare type,HERB,Polygalaceae
+Polygonum aviculare-group,HERB,Polygalaceae
+Polygonum aviculare-type,HERB,Polygalaceae
+Polygonum aviculare/bistorta-type,HERB,Polygalaceae
+Polygonum avicularia,HERB,Polygalaceae
+Polygonum bistorta,HERB,Polygalaceae
+Polygonum bistorta type,HERB,Polygalaceae
+Polygonum bistorta-type,HERB,Polygalaceae
+Polygonum bistorta/P. viviparum,HERB,Polygalaceae
+Polygonum cognatum,HERB,Polygalaceae
+Polygonum cognatum-type,HERB,Polygalaceae
+Polygonum cognatum/molliaeforme-type,HERB,Polygalaceae
+Polygonum convolvulus,HERB,Polygalaceae
+Polygonum convolvulus-type,HERB,Polygalaceae
+Polygonum lapathifolium-type,HERB,Polygalaceae
+Polygonum nepalensis-type,NA,Polygalaceae
+Polygonum oxyspermum-group,HERB,Polygalaceae
+Polygonum persicaria,HERB,Polygalaceae
+Polygonum persicaria T,HERB,Polygalaceae
+Polygonum persicaria group,HERB,Polygalaceae
+Polygonum persicaria-type,HERB,Polygalaceae
+Polygonum polycnemoides-type,HERB,Polygalaceae
+Polygonum polystachyum-type,NA,Polygalaceae
+Polygonum pro parte,HERB,Polygalaceae
+Polygonum sec.,HERB,Polygalaceae
+Polygonum sect. Aconogonon,HERB,Polygalaceae
+Polygonum sect. Bistorta,HERB,Polygalaceae
+Polygonum sect. Persicaria,HERB,Polygalaceae
+Polygonum undiff.,HERB,Polygalaceae
+Polygonum undifferentiated,HERB,Polygalaceae
+Polygonum viviparum,HERB,Polygalaceae
+Polygonum viviparum-type,HERB,Polygalaceae
+Polygonum viviparum/P. bistorta,HERB,Polygalaceae
+Polygonum-type,HERB,Polygalaceae
+Polygoum ellipticum,HERB,Polygalaceae
+Polykrikos,DINO,delete
+Polyp zarodnie,VEMI,delete
+Polyp-eae,VACR,delete
+Polyp._vulg.,VACR,delete
+Polypod. vulg.,VACR,delete
+Polypodiaceae,VACR,delete
+Polypodiaceae (spore monolete undiff.),VACR,delete
+Polypodiaceae monolete,VACR,delete
+Polypodiaceae pro parte,VACR,delete
+Polypodiaceae undiff,VACR,delete
+Polypodiaceae undiff.,VACR,delete
+Polypodiaceae without perine,VACR,delete
+Polypodiaceae/Aspidiaceae undiff.,VACR,delete
+Polypodiales,VACR,delete
+"Polypodiales, monolete spores undifferentiated",NA,delete
+"Polypodiceae, Sporangium",VEMI,delete
+Polypodiophyta,VACR,delete
+Polypodiophyta undiff.,VACR,delete
+"Polypodiopsida, trilete spores undifferentiated",NA,delete
+Polypodium,VACR,delete
+Polypodium sporangia,VACR,delete
+Polypodium undiff.,VACR,delete
+Polypodium virginianum,VACR,delete
+Polypodium vulgare,VACR,delete
+Polypodium vulgare type,VACR,delete
+Polypodium vulgare-type,VACR,delete
+Polypodium-type,NA,delete
+Polypodium-type (Polypodium-T),NA,delete
+Polystichum,VACR,delete
+Polystichum type,VACR,delete
+Polystichum-type,VACR,delete
+Polystichum-type (Polystichum-T),NA,delete
+Polytrich.,BRYO,delete
+Poppulus,TRSH,Salicaceae
+Populus,TRSH,Salicaceae
+Populus tremula,TRSH,Salicaceae
+Populus tremula-type,TRSH,Salicaceae
+Portulacaceae,HERB,Portulacaceae
+Potam-eae,AQUA,delete
+Potamogeonaceae,AQUA,delete
+Potamogeton,AQUA,delete
+Potamogeton (Potamogeton),NA,delete
+Potamogeton natans,AQUA,delete
+Potamogeton natans t.,AQUA,delete
+Potamogeton natans-type,AQUA,delete
+Potamogeton sect. Coleogeton-type,AQUA,delete
+Potamogeton sect. Eupotamogeton,AQUA,delete
+Potamogeton subg. Coleogeton,AQUA,delete
+Potamogeton subg. Potamogeton,AQUA,delete
+Potamogeton subgenus Potamogeton type,AQUA,delete
+Potamogeton undiff.,AQUA,delete
+Potamogeton-type,AQUA,delete
+Potamogeton/Sparganium,AQUA,delete
+Potamogetonaceae,AQUA,delete
+Potentilla,HERB,Rosaceae
+Potentilla T,HERB,Rosaceae
+Potentilla aurea,HERB,Rosaceae
+Potentilla erecta,HERB,Rosaceae
+Potentilla micrantha-type,HERB,Rosaceae
+Potentilla palustris,AQUA,Rosaceae
+Potentilla recta,HERB,Rosaceae
+Potentilla recta-type,HERB,Rosaceae
+Potentilla subg. Comarum,HERB,Rosaceae
+Potentilla t.,HERB,Rosaceae
+Potentilla type,HERB,Rosaceae
+Potentilla-type,HERB,Rosaceae
+Potentilla/Chamaerhodos-type,NA,Rosaceae
+Potentilla/Chamaerhodos-type (Potentilla/Chamaerhodos-T),NA,Rosaceae
+Potentilla/Comarum,HERB,Rosaceae
+Poterium,HERB,Rosaceae
+Poterium-type,HERB,Rosaceae
+Potomogeton,AQUA,delete
+Pre-Quaternary,PREQ,delete
+Pre-Quaternary pollen,PREQ,delete
+Pre-Quaternary spore,PREQ,delete
+Pre-Quaternary spores,PREQ,delete
+Prim-eae,HERB,Primulaceae
+Primula,HERB,Primulaceae
+Primula clusiana-type,HERB,Primulaceae
+Primula clusiana/hirsuta-type,HERB,Primulaceae
+Primula farinosa,HERB,Primulaceae
+Primula farinosa-type,HERB,Primulaceae
+Primula hirsuta-type,HERB,Primulaceae
+Primula veris group,HERB,Primulaceae
+Primula veris-group,HERB,Primulaceae
+Primula veris-type,HERB,Primulaceae
+Primula vulgaris-type,HERB,Primulaceae
+Primula-type,HERB,Primulaceae
+Primula/Linaria-type,HERB,Primulaceae
+Primulaceae,HERB,Primulaceae
+Primulaceae undiff.,HERB,Primulaceae
+Prosopis,TRSH,Fabaceae
+Proteaceae,NA,Proteaceae
+Protoperidinium,DINO,delete
+Prunella,HERB,Lamiaceae
+Prunella vulgaris-type,HERB,Lamiaceae
+Prunella-type,HERB,Lamiaceae
+Prunella/Nepeta-type,NA,Lamiaceae
+Prunoideae,TRSH,Rosaceae
+Prunus,TRSH,Rosaceae
+Prunus T,TRSH,Rosaceae
+Prunus cf. P. spinosa,TRSH,Rosaceae
+Prunus padus,TRSH,Rosaceae
+Prunus sp.,TRSH,Rosaceae
+Prunus spinosa-type,TRSH,Rosaceae
+Prunus t.,TRSH,Rosaceae
+Prunus-type,TRSH,Rosaceae
+Prunus-type (Prunus-T),NA,Rosaceae
+Prunus/Rosa/Rubus type,TRSH,Rosaceae
+Prunus/Rubus-type,TRSH,Rosaceae
+Pseudolarix,NA,delete
+Pseudolarix type,TRSH,delete
+Pseudoschizaea,ALGA,delete
+Pseudoschizaea,CHLO,delete
+Pseudoschizaea circula,ALGA,delete
+Pseudosquizaea spp.,ALGA,delete
+Pseudotsuga,TRSH,delete
+Pseudotsuga douglasii,TRSH,delete
+Psoralea,HERB,Fabaceae
+Pter._a-m,VACR,delete
+Pteridaceae,VACR,delete
+Pteridium,VACR,delete
+Pteridium aquilin.,VACR,delete
+Pteridium aquilinum,VACR,delete
+Pteridium aquilinum-type,VACR,delete
+Pteridium undiff.,VACR,delete
+Pteridium-type,VACR,delete
+Pteridium-type (Pteridium-T),NA,delete
+Pteridophyta,VACR,delete
+"Pteridophyta (monolete, verrucate)",VACR,delete
+Pteridophyta monolete undiff.,VACR,delete
+Pteridophyta spore,VACR,delete
+Pteridophyta spores,VACR,delete
+Pteridophyta undiff.,VACR,delete
+"Pteridophyta, monolete indeterminata",NA,delete
+"Pteridophyta, trilete indeterminata",NA,delete
+Pteridophytes,NA,delete
+Pteris,VACR,delete
+Pteris cretica R,VACR,delete
+Pteris-type,NA,delete
+Pterocarya,TRSH,Juglandaceae
+Pterocarya frax. type clumps of two,TRSH,Juglandaceae
+Pterocarya fraxinifolia,TRSH,Juglandaceae
+Pterocarya fraxinifolia type,TRSH,Juglandaceae
+Pterocarya pterocarpa,TRSH,Juglandaceae
+Pterocarya-Juglans,TRSH,Juglandaceae
+Pteroceltis,NA,Cannabaceae
+Pteropsida,VACR,delete
+Pteropsida,INUN,delete
+Pteropsida (monolete) indet.,VACR,delete
+Pteropsida (monolete) undif.,VACR,delete
+Pteropsida (trilete) undif.,VACR,delete
+Pteropsida monolete undiff.,VACR,delete
+Pteropsida undiff.,VACR,delete
+Pteropyrum,HERB,Polygonaceae
+Pterosperma,INVE,delete
+Pulmonaria,HERB,Boraginaceae
+Pulmonaria T,HERB,Boraginaceae
+Pulmonaria t.,HERB,Boraginaceae
+Pulmonaria type,HERB,Boraginaceae
+Pulmonaria-group,HERB,Boraginaceae
+Pulmonaria-type,HERB,Boraginaceae
+Pulsatilla,HERB,Ranunculaceae
+Pulsatilla alpina?,HERB,Ranunculaceae
+Pulsatilla-type,HERB,Ranunculaceae
+Punica,TRSH,Lythraceae
+Pyrola,HERB,Ericaceae
+Pyrola,DWAR,Ericaceae
+Pyrolaceae,HERB,Ericaceae
+Pyrolaceae,DWAR,Ericaceae
+Pyrrosia-type,NA,delete
+Pyrrosia-type (Pyrrosia-T),NA,delete
+Pyrus,TRSH,Rosaceae
+Pyrus/Malus cf.,INUN,Rosaceae
+Q. evergreen,TRSH,Fagaceae
+Q. sempervirens,TRSH,Fagaceae
+Q. sempervirens-t.,TRSH,Fagaceae
+QUERCUS COCCIFERA type,TRSH,Fagaceae
+QUERCUS ILEX type,TRSH,Fagaceae
+QUERCUS ROBUR type,TRSH,Fagaceae
+QUERCUS SUBER t.,TRSH,Fagaceae
+QUERCUS SUBER/CERRIS,TRSH,Fagaceae
+QUERCUS decid.,TRSH,Fagaceae
+QUERCUS deciduous,TRSH,Fagaceae
+QUERCUS ilex,TRSH,Fagaceae
+QUERCUS t.ilex,TRSH,Fagaceae
+Quantity of sample,NOPO,Fagaceae
+Quantity of spike,NOPO,Fagaceae
+Quercus,TRSH,Fagaceae
+Quercus (deciduous),TRSH,Fagaceae
+Quercus (evergreen),NA,Fagaceae
+Quercus (unclear),NA,Fagaceae
+Quercus caducifolia,TRSH,Fagaceae
+Quercus calliprinos,TRSH,Fagaceae
+Quercus calliprinos-type,TRSH,Fagaceae
+Quercus canariensis,TRSH,Fagaceae
+Quercus cerris,TRSH,Fagaceae
+Quercus cerris-type,TRSH,Fagaceae
+Quercus cerris/Q. suber,TRSH,Fagaceae
+Quercus cerris/Q. suber-type,TRSH,Fagaceae
+Quercus cerris/suber,TRSH,Fagaceae
+Quercus cerriscf.,TRSH,Fagaceae
+Quercus cf. Q. canariensis,TRSH,Fagaceae
+Quercus cf. Q. rotundifolia,TRSH,Fagaceae
+Quercus cf. Q. semecarpifolia,TRSH,Fagaceae
+Quercus cf. semecarpifolia (Q. cf. semecarpifolia),NA,Fagaceae
+Quercus clumps of two,TRSH,Fagaceae
+Quercus coccifera,TRSH,Fagaceae
+Quercus coccifera type,TRSH,Fagaceae
+Quercus coccifera-type,TRSH,Fagaceae
+Quercus coccifera/Q. ilex,TRSH,Fagaceae
+Quercus decid.,TRSH,Fagaceae
+Quercus deciduous,TRSH,Fagaceae
+Quercus deciduous  type,TRSH,Fagaceae
+Quercus deciduous-type,TRSH,Fagaceae
+Quercus evergreeen,TRSH,Fagaceae
+Quercus evergreen,TRSH,Fagaceae
+Quercus evergreen  type,TRSH,Fagaceae
+Quercus evergreen-type,TRSH,Fagaceae
+Quercus faginea,TRSH,Fagaceae
+Quercus faginea-type,TRSH,Fagaceae
+Quercus ilex,TRSH,Fagaceae
+Quercus ilex type,TRSH,Fagaceae
+Quercus ilex-type,TRSH,Fagaceae
+Quercus ilex/Q. coccifera-type,TRSH,Fagaceae
+Quercus ilex/coccifera,TRSH,Fagaceae
+Quercus infectoria-type,TRSH,Fagaceae
+Quercus ithaburensis-type,TRSH,Fagaceae
+Quercus petraea,TRSH,Fagaceae
+Quercus pro parte,TRSH,Fagaceae
+Quercus pubescens type,TRSH,Fagaceae
+Quercus pubescens-type,TRSH,Fagaceae
+Quercus pubescens/Q. robur-type,TRSH,Fagaceae
+Quercus pubescens/petraea,TRSH,Fagaceae
+Quercus pyrenaica-type,TRSH,Fagaceae
+Quercus rob.-pub.-type,TRSH,Fagaceae
+Quercus robur,TRSH,Fagaceae
+Quercus robur T,TRSH,Fagaceae
+Quercus robur type,TRSH,Fagaceae
+Quercus robur-group,TRSH,Fagaceae
+Quercus robur-type,TRSH,Fagaceae
+Quercus sempervirens,TRSH,Fagaceae
+Quercus suber,TRSH,Fagaceae
+Quercus suber  type,TRSH,Fagaceae
+Quercus suber-type,TRSH,Fagaceae
+Quercus subgen. Cyclobalanopsis,NA,Fagaceae
+Quercus subgen. Cyclobalanopsis (Q. subgen. Cyclobalanopsis),NA,Fagaceae
+Quercus subgen. Cyclobalanopsis-type,TRSH,Fagaceae
+Quercus total,TRSH,Fagaceae
+Quercus undiff.,TRSH,Fagaceae
+Quercus-D,TRSH,Fagaceae
+Quercus-E,TRSH,Fagaceae
+QuercusCyclo.,TRSH,Fagaceae
+QuercusIlex,TRSH,Fagaceae
+QuercusLepido.,TRSH,Fagaceae
+Quercusdecidu,TRSH,Fagaceae
+RANUNCULACEAE,HERB,Ranunculaceae
+RANUNCULUS,HERB,Ranunculaceae
+RIBES,TRSH,Grossulariaceae
+RIVULARIACEAE,CYAN,delete
+ROBINIA,TRSH,Fabaceae
+ROSACEAE,TRSH,Rosaceae
+ROSACEAE indiff.,TRSH,Rosaceae
+RUBIACEAE,HERB,Rubiaceae
+RUBUS,TRSH,Rosaceae
+RUBUS idaeus,TRSH,Rosaceae
+RUMEX,HERB,Polygonaceae
+RUMEX LONGIFOLIUS,HERB,Polygonaceae
+RUMEX TYPE,HERB,Polygonaceae
+RUMEX acetosa,HERB,Polygonaceae
+RUMEX cf. obtusif.,HERB,Polygonaceae
+RUMEX indet.,HERB,Polygonaceae
+RUPPIA,AQUA,delete
+Radiosperma,INVE,delete
+Radiosperma,NOPO,delete
+Ran-eae,HERB,Ranunculaceae
+Ran._acris,HERB,Ranunculaceae
+Rannunculus flamula,HELO,Ranunculaceae
+Ranunculaceae,HERB,Ranunculaceae
+Ranunculaceae (other),NA,Ranunculaceae
+Ranunculaceae ND,HERB,Ranunculaceae
+Ranunculaceae cf. Delphinium,HERB,Ranunculaceae
+Ranunculaceae indet.,HERB,Ranunculaceae
+Ranunculaceae p.p.,HERB,Ranunculaceae
+Ranunculaceae pro parte,HERB,Ranunculaceae
+Ranunculaceae pulsatilla,HERB,Ranunculaceae
+Ranunculaceae thalictrum,HERB,Ranunculaceae
+Ranunculaceae tp. Batrachium,AQUA,Ranunculaceae
+Ranunculaceae undiff.,HERB,Ranunculaceae
+Ranunculaceae/Thalictrum-type,HERB,Ranunculaceae
+Ranunculus,HERB,Ranunculaceae
+Ranunculus acer-type,HERB,Ranunculaceae
+Ranunculus aconitifolius,HERB,Ranunculaceae
+Ranunculus aconitifolius-type,HERB,Ranunculaceae
+Ranunculus acris,HERB,Ranunculaceae
+Ranunculus acris T,HERB,Ranunculaceae
+Ranunculus acris t.,HERB,Ranunculaceae
+Ranunculus acris type,HERB,Ranunculaceae
+Ranunculus acris-group,HERB,Ranunculaceae
+Ranunculus acris-t.,HERB,Ranunculaceae
+Ranunculus acris-type,HERB,Ranunculaceae
+Ranunculus acris-type undiff.,HERB,Ranunculaceae
+Ranunculus aquatilis T,AQUA,Ranunculaceae
+Ranunculus aquatilis t.,AQUA,Ranunculaceae
+Ranunculus aquatilis-type,AQUA,Ranunculaceae
+Ranunculus arvensis,HERB,Ranunculaceae
+Ranunculus arvensis t.,HERB,Ranunculaceae
+Ranunculus arvensis-group,HERB,Ranunculaceae
+Ranunculus arvensis-type,HERB,Ranunculaceae
+Ranunculus asiaticus-type,HERB,Ranunculaceae
+Ranunculus batrachium-type,AQUA,Ranunculaceae
+Ranunculus cf. lapponicus,HERB,Ranunculaceae
+Ranunculus ficaria-type,HERB,Ranunculaceae
+Ranunculus flammula,HELO,Ranunculaceae
+Ranunculus flammula type,HELO,Ranunculaceae
+Ranunculus flammula-group,HERB,Ranunculaceae
+Ranunculus flammula-type,AQUA,Ranunculaceae
+Ranunculus glacialis-type,HERB,Ranunculaceae
+Ranunculus lingua-type,HERB,Ranunculaceae
+Ranunculus macrophyllus,HERB,Ranunculaceae
+Ranunculus montanus-type,HERB,Ranunculaceae
+Ranunculus muricatus-type,HERB,Ranunculaceae
+Ranunculus parviflorus,HERB,Ranunculaceae
+Ranunculus peltatus-type,AQUA,Ranunculaceae
+Ranunculus reniformis t.,INUN,Ranunculaceae
+Ranunculus repens-type,HERB,Ranunculaceae
+Ranunculus sceleratus-group,HERB,Ranunculaceae
+Ranunculus sceleratus-type,HERB,Ranunculaceae
+Ranunculus serbicus,HERB,Ranunculaceae
+Ranunculus sp.,HERB,Ranunculaceae
+Ranunculus subg. Batrachium,AQUA,Ranunculaceae
+Ranunculus subg. Batrachium-type,AQUA,Ranunculaceae
+Ranunculus trichophyllus,AQUA,Ranunculaceae
+Ranunculus trichophyllus-type,AQUA,Ranunculaceae
+Ranunculus typ,HERB,Ranunculaceae
+Ranunculus type,HERB,Ranunculaceae
+Ranunculus undiff.,HERB,Ranunculaceae
+Ranunculus undiff. type,HERB,Ranunculaceae
+Ranunculus-type,HERB,Ranunculaceae
+Ranunculus-type (Ranunculus-T),NA,Ranunculaceae
+Ranunuculaceae,HERB,Ranunculaceae
+Ratio (Ratio),NA,delete
+Reaumuria,NA,Tamaricaceae
+Rebedded,INUN,delete
+Redeposited pollen,PREQ,delete
+Remaniés,INUN,delete
+Reseda,HERB,Resedaceae
+Reseda lutea,HERB,Resedaceae
+Reseda lutea-type,HERB,Resedaceae
+Reseda-type,HERB,Resedaceae
+Resedaceae,HERB,Resedaceae
+Resti insetti,INVE,delete
+Reworked,PREQ,delete
+Reworked,NOPO,delete
+Reworked pollen,INUN,delete
+Reworked pollen,PREQ,delete
+Reynoutria,HERB,Polygonaceae
+Rhamnaceae,TRSH,Rhamnaceae
+Rhamnus,TRSH,Rhamnaceae
+Rhamnus  type,TRSH,Rhamnaceae
+Rhamnus cathartica,TRSH,Rhamnaceae
+Rhamnus catharticus,TRSH,Rhamnaceae
+Rhamnus cf.,INUN,Rhamnaceae
+Rhamnus frangula,TRSH,Rhamnaceae
+Rhamnus type,TRSH,Rhamnaceae
+Rhamnus-type,TRSH,Rhamnaceae
+Rhamnus/Frangula,TRSH,Rhamnaceae
+Rhamnus/Paliurus,TRSH,Rhamnaceae
+Rheum,HERB,Polygonaceae
+Rheum ribes,HERB,Polygonaceae
+Rhiananthus type,HERB,Orobanchaceae
+Rhinanthus,HERB,Orobanchaceae
+Rhinanthus T,HERB,Orobanchaceae
+Rhinanthus t.,HERB,Orobanchaceae
+Rhinanthus typ,HERB,Orobanchaceae
+Rhinanthus type,HERB,Orobanchaceae
+Rhinanthus-group,HERB,Orobanchaceae
+Rhinanthus-type,HERB,Orobanchaceae
+Rhinanthus-type (Rhinanthus-T),NA,Orobanchaceae
+Rhinanthus-type undiff.,HERB,Orobanchaceae
+Rhizophoraceae,NA,Rhizophoraceae
+Rhizopoda,RHIZ,delete
+Rhizopoda sp.A,NOPO,delete
+Rhizopoda sp.B,NOPO,delete
+Rhizopoda sp.C,NOPO,delete
+Rhizopoda undiff.,RHIZ,delete
+Rhododendron,TRSH,Ericaceae
+Rhododendron ? 22 TE,DWAR,Ericaceae
+Rhododendron ferrugineum,DWAR,Ericaceae
+Rhododendron-type,DWAR,Ericaceae
+Rhoiptelea,NA,Juglandaceae
+Rhus,TRSH,Anacardiaceae
+Rhus G,TRSH,Anacardiaceae
+Rhus coriaria,TRSH,Anacardiaceae
+Rhus coriaria-type,TRSH,Anacardiaceae
+Rhus group,TRSH,Anacardiaceae
+Rhus-type,TRSH,Anacardiaceae
+Rhynchospora,AQUA,delete
+Rhynchospora alba,AQUA,delete
+Ribes,TRSH,Grossulariaceae
+Ribes alpinum-type,NA,Grossulariaceae
+Ribes spp.,NA,Grossulariaceae
+Riccia,BRYO,Grossulariaceae
+Riccia type 165,BRYO,Grossulariaceae
+Ricinus,TRSH,Euphorbiaceae
+Rivularia-type,CYAN,delete
+Robinia,TRSH,Fabaceae
+Robinia pseudacacia,TRSH,Fabaceae
+Robinia pseudoacacia,TRSH,Fabaceae
+Roemeria,HERB,Papaveraceae
+Roemeria hybrida-type,HERB,Papaveraceae
+Roemeria t.,HERB,Papaveraceae
+Rorippa amphibia,AQUA,delete
+Rosa,TRSH,Rosaceae
+Rosa t.,TRSH,Rosaceae
+Rosa typ,TRSH,Rosaceae
+Rosa type,TRSH,Rosaceae
+Rosa-type,HERB,Rosaceae
+Rosa-type,TRSH,Rosaceae
+Rosa/Prunus,TRSH,Rosaceae
+Rosaceae,TRSH,Rosaceae
+Rosaceae  undiff.  Type,TRSH,Rosaceae
+Rosaceae  undiff.  type,TRSH,Rosaceae
+Rosaceae (operculate) undiff.,TRSH,Rosaceae
+Rosaceae (type A),TRSH,Rosaceae
+Rosaceae Dryas,HERB,Rosaceae
+Rosaceae herb,TRSH,Rosaceae
+Rosaceae indet.,TRSH,Rosaceae
+Rosaceae non-operculate,TRSH,Rosaceae
+Rosaceae pro parte,TRSH,Rosaceae
+Rosaceae rosa canina,TRSH,Rosaceae
+Rosaceae striate opercolate,TRSH,Rosaceae
+Rosaceae subf. Maloideae,TRSH,Rosaceae
+Rosaceae subg. Amygdalus,TRSH,Rosaceae
+Rosaceae tree,TRSH,Rosaceae
+Rosaceae undif.,TRSH,Rosaceae
+"Rosaceae undiff,",TRSH,Rosaceae
+Rosaceae undiff.,TRSH,Rosaceae
+Rosaceae undifferentiated,TRSH,Rosaceae
+"Rosaceae, Prunus",TRSH,Rosaceae
+Rosaceae-type,TRSH,Rosaceae
+Rosaceae-type/Prunus,TRSH,Rosaceae
+Rosaceae/Rubus chamaemorus,HERB,Rosaceae
+Rosmarinus,HERB,Lamiaceae
+Rosmarinus-type,DWAR,Lamiaceae
+Rotifera sp.A (egg),NOPO,delete
+Rotifera sp.B (egg),NOPO,delete
+Rotifera sp.C (egg),NOPO,delete
+Rubia,HERB,Rubiaceae
+Rubiaceae,HERB,Rubiaceae
+Rubiaceae (6 colpae),HERB,Rubiaceae
+Rubiaceae 6-colpate,HERB,Rubiaceae
+Rubiaceae undiff.,HERB,Rubiaceae
+Rubiaceae undifferentiated,HERB,Rubiaceae
+Rubus,TRSH,Rosaceae
+Rubus arcticus,HERB,Rosaceae
+Rubus cf. R. saxatilis,TRSH,Rosaceae
+Rubus chamaemorus,HERB,Rosaceae
+Rubus chameomorus,HERB,Rosaceae
+Rubus fruticosus-type,TRSH,Rosaceae
+Rubus idaeus,TRSH,Rosaceae
+Rubus idaeus-type,TRSH,Rosaceae
+Rubus saxatilis,HERB,Rosaceae
+Rubus undiff.,TRSH,Rosaceae
+Rubus-type,TRSH,Rosaceae
+Rubus_c-us,HERB,Rosaceae
+Rumex,HERB,Polygonaceae
+Rumex (Rumex),NA,Polygonaceae
+Rumex ac/ac-type,HERB,Polygonaceae
+Rumex acetosa,HERB,Polygonaceae
+Rumex acetosa group,HERB,Polygonaceae
+Rumex acetosa type,HERB,Polygonaceae
+Rumex acetosa type clumps of two,HERB,Polygonaceae
+Rumex acetosa-type,HERB,Polygonaceae
+Rumex acetosa-type/Oxyria,HERB,Polygonaceae
+Rumex acetosa-type/R. acetosella-type,HERB,Polygonaceae
+Rumex acetosa/R. acetosella,HERB,Polygonaceae
+Rumex acetosa/R. acetosella-type,HERB,Polygonaceae
+Rumex acetosa/Rumex acetosella,HERB,Polygonaceae
+Rumex acetosa/Rumex acetosella-type,HERB,Polygonaceae
+Rumex acetosella,TRSH,Polygonaceae
+Rumex acetosella,HERB,Polygonaceae
+Rumex acetosella t.,HERB,Polygonaceae
+Rumex acetosella type,HERB,Polygonaceae
+Rumex acetosella-type,HERB,Polygonaceae
+Rumex alpestris,HERB,Polygonaceae
+Rumex alpinus,HERB,Polygonaceae
+Rumex aquaticus,HERB,Polygonaceae
+Rumex aquaticus type,HERB,Polygonaceae
+Rumex aquaticus-type,AQUA,delete
+Rumex aquaticus-type,HERB,NA
+Rumex aquaticus-typeype,HERB,Polygonaceae
+Rumex cf. R. alpinus,HERB,Polygonaceae
+Rumex cf. R. obtusifolius,HERB,Polygonaceae
+Rumex conglomeratus,HERB,Polygonaceae
+Rumex conglomeratus group,HERB,Polygonaceae
+Rumex conglomeratus-type,HERB,Polygonaceae
+Rumex crispus,HERB,Polygonaceae
+Rumex crispus-type,HERB,Polygonaceae
+Rumex hydrolapathum,HERB,Polygonaceae
+Rumex longifolius type,HERB,Polygonaceae
+Rumex longifolius-type,HERB,Polygonaceae
+Rumex obtusifolius,HERB,Polygonaceae
+Rumex obtusifolius T,HERB,Polygonaceae
+Rumex obtusifolius t.,HERB,Polygonaceae
+Rumex obtusifolius type,HERB,Polygonaceae
+Rumex obtusifolius-type,HERB,Polygonaceae
+Rumex sanguineus group,HERB,Polygonaceae
+Rumex sanguineus-group,HERB,Polygonaceae
+Rumex sanguineus-type,HERB,Polygonaceae
+Rumex scutatus type,HERB,Polygonaceae
+Rumex sect. Acetosa,HERB,Polygonaceae
+Rumex subg. Acetosa,HERB,Polygonaceae
+Rumex subg. Acetosa/R. subg. Acetosella,HERB,Polygonaceae
+Rumex und.,HERB,Polygonaceae
+Rumex undif.,HERB,Polygonaceae
+Rumex undiff.,HERB,Polygonaceae
+Rumex-Typ,HERB,Polygonaceae
+Rumex-type,HERB,Polygonaceae
+Rumex/Oxyria,HERB,Polygonaceae
+Rumex/Oxyria digyna,HERB,Polygonaceae
+Rumex/Oxyria-type,HERB,Polygonaceae
+Rumex_acet.,HERB,Polygonaceae
+Ruppia,AQUA,delete
+Ruppiaceae,AQUA,delete
+Ruscus,TRSH,Asparagaceae
+Ruscus,DWAR,Asparagaceae
+Ruscus aculeatus,TRSH,Asparagaceae
+Ruta,TRSH,Rutaceae
+Ruta t.,TRSH,Rutaceae
+Rutaceae,TRSH,Rutaceae
+Rutaceae undifferentiated,NA,Rutaceae
+SALIX,TRSH,Salicaceae
+SAMBUCUS,TRSH,Adoxaceae
+SAXIFRAGACEAE,HERB,Saxifragaceae
+SCP,NOPO,delete
+SCROPHULARIACEAE,HERB,Scrophulariaceae
+SEDUM,HERB,Crassulaceae
+SELAGINELLA,VACR,delete
+SILENE type,HERB,Caryophyllaceae
+SORBUS,TRSH,Rosaceae
+SPARGANIUM,AQUA,delete
+SPARGANIUM/TYPHA,AQUA,delete
+SPHAGNUM,BRYO,delete
+SPHAGNUM type,BRYO,delete
+SPINIFERITES type,DINO,delete
+SPIROGYRA,ALGA,delete
+Sabiaceae,NA,Sabiaceae
+Sabina,TRSH,delete
+Sagina,HERB,Caryophyllaceae
+Sagina procumbens,HERB,Caryophyllaceae
+Sagina-type,HERB,Caryophyllaceae
+Sagittaria,AQUA,delete
+Sagittaria sagittifolia,AQUA,delete
+Salix,TRSH,Salicaceae
+Salix (Salix),NA,Salicaceae
+Salix cf. hastata,TRSH,Salicaceae
+Salix glauca-type,DWAR,Salicaceae
+Salix helvetica-type,TRSH,Salicaceae
+Salix herbacea,DWAR,Salicaceae
+Salix herbacea-type,TRSH,Salicaceae
+Salix pentandra-type,TRSH,Salicaceae
+Salix polaris,DWAR,Salicaceae
+Salix spp.,NA,Salicaceae
+Salix undiff.,TRSH,Salicaceae
+Salsola,HERB,Amaranthaceae
+Salsola kali t.,HERB,Amaranthaceae
+Salvia,HERB,Lamiaceae
+Salvia verticillata-type,HERB,Lamiaceae
+Salvia-type,HERB,Lamiaceae
+Salvinia,AQPT,delete
+Salvinia-Azolla massulae,AQPT,delete
+Salvinia/Azolla,AQUA,delete
+Salvinia/Azolla: massulae,AQPT,delete
+Sambucus,TRSH,Adoxaceae
+Sambucus cf. S. nigra,TRSH,Adoxaceae
+Sambucus cf. nigra,TRSH,Adoxaceae
+Sambucus ebulus,HERB,Adoxaceae
+Sambucus ebulus clumps,HERB,Adoxaceae
+Sambucus ebulus clumps of two,HERB,Adoxaceae
+Sambucus nigra,TRSH,Adoxaceae
+Sambucus nigra typ,TRSH,Adoxaceae
+Sambucus nigra type,TRSH,Adoxaceae
+Sambucus nigra-type,TRSH,Adoxaceae
+Sambucus nigra/S. racemosa,TRSH,Adoxaceae
+Sambucus nigra/racemosa,TRSH,Adoxaceae
+Sambucus racemosa,TRSH,Adoxaceae
+Sambucus racemosa type,TRSH,Adoxaceae
+Sambucus racemosa-type,TRSH,Adoxaceae
+Sambucus sibirica,TRSH,Adoxaceae
+Sambucus undiff.,TRSH,Adoxaceae
+Sambucus-type,TRSH,Adoxaceae
+Sample ID (Sample ID),NA,delete
+Sample code/label (Sample label),NA,delete
+Sample dry mass (g),NOPO,delete
+Sample mass [g] (Samp m),NA,delete
+Sample quantity,NOPO,delete
+Sample quantity (cm3),NOPO,delete
+Sample surface (cm2),NOPO,delete
+Sample volume,NOPO,delete
+Sample volume (ml),NOPO,delete
+Sample volume [cm,NA,delete
+Sample wet volume (ml),NOPO,delete
+Samydaceae,NA,Salicaceae
+Sangisorba minor,HERB,Rosaceae
+Sanguisorba,HERB,Rosaceae
+Sanguisorba cf. S. minor,HERB,Rosaceae
+Sanguisorba dodecandra,HERB,Rosaceae
+Sanguisorba minor,HERB,Rosaceae
+Sanguisorba minor ssp. minor,HERB,Rosaceae
+Sanguisorba minor subsp. minor,HERB,Rosaceae
+Sanguisorba minor t.,HERB,Rosaceae
+Sanguisorba minor-type,HERB,Rosaceae
+Sanguisorba minor/Poterium,HERB,Rosaceae
+Sanguisorba officinalis,HERB,Rosaceae
+Sanguisorba officinalis-type,HERB,Rosaceae
+Sanguisorba-type,HERB,Rosaceae
+Sanguisorba/Poterium,HERB,Rosaceae
+Sanguissorba offic.,HERB,Rosaceae
+Sanicula,HERB,Apiaceae
+Sanicula europaea,HERB,Apiaceae
+Sanicula-type,HERB,Apiaceae
+Santalácea,HERB,Santalaceae
+Sapindaceae,TRSH,Sapindaceae
+Sapotaceae,TRSH,Sapotaceae
+Sarcopoterium,HERB,Rosaceae
+Sarcopoterium spinosum/Sanguisorba minor,HERB,Rosaceae
+Sarcopoterium-type,TRSH,Rosaceae
+Sarcopoterium/Sanguisorba minor,HERB,Rosaceae
+Sarothamnus scoparius,TRSH,Rosaceae
+Saururaceae,NA,Saururaceae
+Saussurea,HERB,Asteraceae
+Saussurea alpina,HERB,Asteraceae
+Saussurea t.,HERB,Asteraceae
+Saussurea type,HERB,Asteraceae
+Saussurea-type,HERB,Asteraceae
+Saussurea-type (Saussurea-T),NA,Asteraceae
+Saxif-eae,HERB,Saxifragaceae
+Saxifraga,HERB,Saxifragaceae
+Saxifraga aizoides type,HERB,Saxifragaceae
+Saxifraga androsacea/caesia-type (S. androsacea/caesia-T),NA,Saxifragaceae
+Saxifraga cernua-type,HERB,Saxifragaceae
+Saxifraga cernua-type (S. cernua-T),NA,Saxifragaceae
+Saxifraga cespitosa,HERB,Saxifragaceae
+Saxifraga cespitosa-type,HERB,Saxifragaceae
+Saxifraga cf.,INUN,Saxifragaceae
+Saxifraga cf. S. foliolosa,HERB,Saxifragaceae
+Saxifraga granulata,HERB,Saxifragaceae
+Saxifraga granulata-type,HERB,Saxifragaceae
+Saxifraga granulata/hirculus-type,NA,Saxifragaceae
+Saxifraga granulata/hirculus-type (S. granulata/hirculus-T),NA,Saxifragaceae
+Saxifraga hieraciifolia,HERB,Saxifragaceae
+Saxifraga hirculus-type,HERB,Saxifragaceae
+Saxifraga hirsuta-type,HERB,Saxifragaceae
+Saxifraga hirsuta/cuneifolia-type,NA,Saxifragaceae
+Saxifraga nelsoniana,HERB,Saxifragaceae
+Saxifraga nivalis-type,HERB,Saxifragaceae
+Saxifraga opposite.,HERB,Saxifragaceae
+Saxifraga oppositifolia,HERB,Saxifragaceae
+Saxifraga oppositifolia type,HERB,Saxifragaceae
+Saxifraga oppositifolia-type,HERB,Saxifragaceae
+Saxifraga paniculata-type,HERB,Saxifragaceae
+Saxifraga sp.,HERB,Saxifragaceae
+Saxifraga stellaris,HERB,Saxifragaceae
+Saxifraga stellaris type,HERB,Saxifragaceae
+Saxifraga stellaris-type,HERB,Saxifragaceae
+Saxifraga tricuspidata,HERB,Saxifragaceae
+Saxifraga tricuspidata-type,HERB,Saxifragaceae
+Saxifraga tridactylitis-type,HERB,Saxifragaceae
+Saxifraga undiff.,HERB,Saxifragaceae
+Saxifraga undifferentiated,HERB,Saxifragaceae
+Saxifragaceae,HERB,Saxifragaceae
+Saxifragaceae (herb),NA,Saxifragaceae
+Saxifragaceae (shrub),NA,Saxifragaceae
+Saxifragaceae (unclear),NA,Saxifragaceae
+Saxifragia cf. S. granulata,HERB,Saxifragaceae
+Scab._o-ca,HERB,Caprifoliaceae
+Scabiosa,HERB,Caprifoliaceae
+Scabiosa argentea,HERB,Caprifoliaceae
+Scabiosa columbaria-type,HERB,Caprifoliaceae
+Scabiosa rotata-type,HERB,Caprifoliaceae
+Scabiosa t.,HERB,Caprifoliaceae
+Scabiosa type,HERB,Caprifoliaceae
+Scabiosa undiff.,HERB,Caprifoliaceae
+Scabiosa-type,HERB,Caprifoliaceae
+Scabiosa/Succisa-type,HERB,Caprifoliaceae
+Scandix,HERB,Apiaceae
+Scenedesmus,ALGA,delete
+Scenedesmus,CHLO,delete
+Scenedesmus quadricauda,ALGA,delete
+Scheuchz.,HELO,delete
+Scheuchzeria,AQUA,delete
+Scheuchzeria,HELO,delete
+Scheuchzeria palustris,HELO,delete
+Scheuchzeria palustris,AQUA,delete
+Schisandra,NA,Schisandraceae
+Schoenoplectus,HELO,delete
+Schoenoplectus lacturis subsp. lacustris,AQUA,delete
+Schoenoplectus-type,AQUA,delete
+Schoenus,HELO,delete
+Schoenus-type,AQUA,delete
+Schulzia,UPHE,Apiaceae
+Sciadopitys,TRSH,delete
+Scilla type,HERB,Asparagaceae
+Scilla-type,HERB,Asparagaceae
+Scirpus,AQUA,delete
+Scirpus,HELO,delete
+Scirpus lacustris-type,AQUA,delete
+Scirpus-type,AQUA,delete
+Scleranthus,HERB,Caryophyllaceae
+Scleranthus annuus,HERB,Caryophyllaceae
+Scleranthus perennis,HERB,Caryophyllaceae
+Scleranthus-type,HERB,Caryophyllaceae
+Scorconera laciniata,HERB,Asteraceae
+Scorzonera,HERB,Asteraceae
+Scorzonera humilis-type,HERB,Asteraceae
+Scorzonera type,HERB,Asteraceae
+Scorzonera-type,HERB,Asteraceae
+Scrofulariaceae,HERB,Scrophulariaceae
+Scroph-eae,HERB,Scrophulariaceae
+Scrophularia,HERB,Scrophulariaceae
+Scrophularia typ,HERB,Scrophulariaceae
+Scrophularia type,HERB,Scrophulariaceae
+Scrophularia-type,HERB,Scrophulariaceae
+Scrophularia-type (Scrophularia-T),NA,Scrophulariaceae
+Scrophularia/Verbascum,HERB,Scrophulariaceae
+Scrophularia/Verbascum-type,HERB,Scrophulariaceae
+Scrophularia/Verbascum/Digitalis,HERB,Scrophulariaceae
+Scrophulariaceae,HERB,Scrophulariaceae
+Scrophulariaceae cf. Veronica,HERB,Scrophulariaceae
+Scrophulariaceae indet.,HERB,Scrophulariaceae
+Scrophulariaceae pro parte,HERB,Scrophulariaceae
+Scrophulariaceae undiff.,HERB,Scrophulariaceae
+Scrophulariaceae undifferentiated,HERB,Scrophulariaceae
+Scutellaria,HERB,Lamiaceae
+Scutellaria-type,HERB,Lamiaceae
+Secale,HERB,Poaceae
+Secale cereale,HERB,Poaceae
+Secale-type,HERB,Poaceae
+Section (Sect),NA,delete
+Securinega tinctoria-type,TRSH,Phyllanthaceae
+Sediment volume used (ml),NOPO,delete
+Sedimentation rate (mm/year),NOPO,delete
+Sedum,HERB,Crassulaceae
+Sedum type,HERB,Crassulaceae
+Sedum-type,HERB,Crassulaceae
+Sel._ selaginoides,VACR,delete
+Sel._helvetica,VACR,delete
+Sel._involvens,VACR,delete
+Selaginella,VACR,delete
+Selaginella Selaginoides,VACR,delete
+Selaginella denticulata,VACR,delete
+Selaginella denticulata-type,VACR,delete
+Selaginella helvetica-type,VACR,delete
+Selaginella rupestris,VACR,delete
+Selaginella rupestris (L.) Spring.,VACR,delete
+Selaginella sanguinolenta,VACR,delete
+Selaginella selaginoides,VACR,delete
+Selaginella selaginoides-type,VACR,delete
+Selaginella sibirica,VACR,delete
+Selaginellaceae,VACR,delete
+Selenopenphix quanta,DINO,delete
+Sempervivum,HERB,Crassulaceae
+Senecio,HERB,Asteraceae
+Senecio T,HERB,Asteraceae
+Senecio cf.,INUN,Asteraceae
+Senecio t.,HERB,Asteraceae
+Senecio type,HERB,Asteraceae
+Senecio-type,HERB,Asteraceae
+Serratula,HERB,Asteraceae
+Serratula type,HERB,Asteraceae
+Serratula-type,HERB,Asteraceae
+Sesamum,NA,Pedaliaceae
+Seseli-type,HERB,Apiaceae
+Setaria,HERB,Poaceae
+Sibbaldia,NA,Rosaceae
+Sibbaldia (Sibbaldia),NA,Rosaceae
+Sibbaldia-type,NA,Rosaceae
+Siderites,HERB,Lamiaceae
+Sideritis,HERB,Lamiaceae
+Silenaceae,HERB,Caryophyllaceae
+Silene,HERB,Caryophyllaceae
+Silene T,HERB,Caryophyllaceae
+Silene acaulis,HERB,Caryophyllaceae
+Silene acaulis-type,HERB,Caryophyllaceae
+Silene dioica,HERB,Caryophyllaceae
+Silene dioica type,HERB,Caryophyllaceae
+Silene dioica-type,HERB,Caryophyllaceae
+Silene pro parte,HERB,Caryophyllaceae
+Silene rupestris,HERB,Caryophyllaceae
+Silene tp.,HERB,Caryophyllaceae
+Silene typ,HERB,Caryophyllaceae
+Silene undiff.,HERB,Caryophyllaceae
+Silene vulgaris-type,HERB,Caryophyllaceae
+Silene-type,HERB,Caryophyllaceae
+Silene-type (Silene-T),NA,Caryophyllaceae
+Simaroubaceae,NA,Simaroubaceae
+Sinapis,HERB,Brassicaceae
+Sinapis typ,HERB,Brassicaceae
+Sinapis type,HERB,Brassicaceae
+Sinapis-type,HERB,Brassicaceae
+Sium latifolium T,HERB,Apiaceae
+Sium t.,HERB,Apiaceae
+Size of cover glass (mm),NOPO,delete
+Slides counted,NA,delete
+Smilax,HERB,Smilacaceae
+Smilax aspera,HERB,Smilacaceae
+Smyrnium-type,HERB,Apiaceae
+Solanaceae,HERB,Solanaceae
+Solanaceae type,HERB,Solanaceae
+Solanum,HERB,Solanaceae
+Solanum dulcamara,HERB,Solanaceae
+Solanum nigrum,HERB,Solanaceae
+Solanum nigrum type,HERB,Solanaceae
+Solanum nigrum-type,HERB,Solanaceae
+Solanum nigrum-type,TRSH,Solanaceae
+Solanum tuberosum,HERB,Solanaceae
+Solanum-type,NA,Solanaceae
+Solanum/Physochlaina-type (Solanum/Physochlaina-T),NA,Solanaceae
+Soldanella,HERB,Primulaceae
+Soldanella-type,HERB,Primulaceae
+Solidago,HERB,Asteraceae
+Solidago type,HERB,Asteraceae
+Solidago virgaurea-type,HERB,Asteraceae
+Solidago-type,HERB,Asteraceae
+Sonchus-type,HERB,Asteraceae
+Sorbus,TRSH,Rosaceae
+Sorbus T,TRSH,Rosaceae
+Sorbus aria,TRSH,Rosaceae
+Sorbus aucuparia,TRSH,Rosaceae
+Sorbus aucuparia-type,TRSH,Rosaceae
+Sorbus group,TRSH,Rosaceae
+Sorbus-Gruppe,TRSH,Rosaceae
+Sorbus-group,TRSH,Rosaceae
+Sorbus-type,TRSH,Rosaceae
+Sorbus/Cotoneaster,TRSH,Rosaceae
+Sorbus/Cotoneaster-type,NA,Rosaceae
+Sorbus/Cotoneaster-type (Sorbus/Cotoneaster-T),NA,Rosaceae
+Sorbus/Rubus t.,TRSH,Rosaceae
+Sordaria,NOPO,delete
+Sordaria,FUNG,delete
+Sordaria (HdV-55A),FUNG,delete
+Sordaria sp,FUNG,delete
+Sordaria sp.,FUNG,delete
+"Sordaria, ascospore",NA,delete
+Sordaria-type,FUNG,delete
+Sordaria-type,NOPO,delete
+Sordariaceae,FUNG,delete
+Sordariaceus ascospores,FUNG,delete
+Sp,INUN,delete
+Sparg-eae,AQUA,delete
+Sparga typha,AQUA,delete
+Sparganiaceae,AQUA,delete
+Sparganiaceae/Typhaceae,AQUA,delete
+Sparganium,AQUA,delete
+Sparganium T,AQUA,delete
+Sparganium angustifolium-type,AQUA,delete
+Sparganium emersum,AQUA,delete
+Sparganium emersum,HELO,delete
+Sparganium emersum (S. emersum),NA,delete
+Sparganium emersum type,HELO,delete
+Sparganium emersum-type,AQUA,delete
+Sparganium emersum-type,HELO,delete
+Sparganium erectum,HELO,delete
+Sparganium erectum,AQUA,delete
+Sparganium erectum type,HELO,delete
+Sparganium erectum-type,HELO,delete
+Sparganium erectum-type,AQUA,delete
+Sparganium minimum,AQUA,delete
+Sparganium t.,AQUA,delete
+Sparganium-type,AQUA,delete
+Sparganium/Typha,AQUA,delete
+Sparganium/Typha angustifolia,AQUA,delete
+Sparganium/Typha angustifolia-type,AQUA,delete
+Spartium,TRSH,Fabaceae
+Spergula,HERB,Caryophyllaceae
+Spergula arvensis,HERB,Caryophyllaceae
+Spergula arvensis type,HERB,Caryophyllaceae
+Spergula arvensis-type,HERB,Caryophyllaceae
+Spergula type,HERB,Caryophyllaceae
+Spergula-type,HERB,Caryophyllaceae
+Spergula/Spergularia,HERB,Caryophyllaceae
+Spergularia,HERB,Caryophyllaceae
+Spergularia-type,HERB,Caryophyllaceae
+Spermatophyta,INUN,delete
+Sphaerostephanos,VACR,delete
+Sphag._angustifolium,AQBR,delete
+Sphag._fuscum,AQBR,delete
+Sphag._magel-m,AQBR,delete
+Sphagnaceae,BRYO,delete
+Sphagnales,BRYO,delete
+Sphagnum,BRYO,delete
+Sphagnum-type,BRYO,delete
+Sphagnum: leaves,MACR,delete
+Spherical soot particles,NOPO,delete
+Spheroidal Carbonaceous Particles,NOPO,delete
+Spheroidal carbonaceous particle,NOPO,delete
+Spicules,INUN,delete
+Spike,NOPO,delete
+Spike (counted),NOPO,delete
+Spike (grains/tablet),NOPO,delete
+Spike (mass),NOPO,delete
+Spike tablets (number),NOPO,delete
+Spikes/slide,NOPO,delete
+Spikes/tablet,NOPO,delete
+Spinacia-type,HERB,Amaranthaceae
+Spiniferites,DINO,delete
+Spiniferites (reworked),DINO,delete
+Spiniferites belerius,DINO,delete
+Spiniferites bentorii,DINO,delete
+Spiniferites cruciferus,DINO,delete
+Spiniferites mirabilis,DINO,delete
+Spiniferites ramosus,DINO,delete
+Spiraea,HERB,Rosaceae
+Spiraea-type,NA,Rosaceae
+Spiraea-type (Spiraea-T),NA,Rosaceae
+Spirea type,HERB,Rosaceae
+Spirogyra,CHLO,delete
+Spirogyra,ALGA,delete
+Spirogyra cf. scrobiculata,ALGA,delete
+Spirogyra-type,NA,delete
+Spirulina,CHLO,delete
+Spongae spicules,NOPO,delete
+Spora trilete,VACR,delete
+Sporangium,VEMI,delete
+Spore monolete,VACR,delete
+Spore trilete,VACR,delete
+Spores,INUN,delete
+Spores,VACR,delete
+Spores indefinite,INUN,delete
+Spores indeterminata,INUN,delete
+Spores monoletes,VACR,delete
+Spores monolètes,VACR,delete
+Spores trilete,VACR,delete
+Spores triletes,VACR,delete
+Spores trilètes,VACR,delete
+"Spores, monolete",NA,delete
+"Spores, trilete",VACR,delete
+Spori monoleti,VACR,delete
+"Sporomiella, individual spores",NA,delete
+Sporomorphs,SPOR,delete
+Sporormiella,FUNG,delete
+Sporormiella (HdV-113),FUNG,delete
+Sporormiella sp.,FUNG,delete
+Sporormiella type,FUNG,delete
+Sporormiella-type,FUNG,delete
+Stachys,HERB,Lamiaceae
+Stachys (Galeopsis - Ballota - Gruppe),HERB,Lamiaceae
+Stachys sylvatica type,HERB,Lamiaceae
+Stachys sylvatica-type,HERB,Lamiaceae
+Stachys sylvestris,HERB,Lamiaceae
+Stachys type,HERB,Lamiaceae
+Stachys-type,HERB,Lamiaceae
+Stahhys sylvatica type,HERB,Lamiaceae
+Stellaria,HERB,Caryophyllaceae
+Stellaria cf. S. graminea,HERB,Caryophyllaceae
+Stellaria holostea,HERB,Caryophyllaceae
+Stellaria holostea-type,HERB,Caryophyllaceae
+Stellaria nemorum,HERB,Caryophyllaceae
+Stellaria palustris,AQUA,Caryophyllaceae
+Stellaria-type,HERB,Caryophyllaceae
+Stellera,TRSH,Thymelaeaceae
+Sterculiaceae,HERB,Malvaceae
+Sterculiaceae?,NA,Malvaceae
+Steris segetalis,HERB,Caryophyllaceae
+Stipa,HERB,Poaceae
+Stomata,VEMI,NA
+Stomata undiff.,VEMI,delete
+Str-s_al-s,AQUA,delete
+Stratiotes aloides,AQUA,delete
+Strobilanthes-type,NA,Acanthaceae
+Styracaceae,NA,Styracaceae
+Styrax,TRSH,Styracaceae
+Styrax officinalis,TRSH,Styracaceae
+Suaeda-type,HERB,Amaranthaceae
+Subgenus Lycopodium,INUN,delete
+Subgenus Sceptridium,VACR,delete
+Succisa,HERB,Caprifoliaceae
+Succisa pratensis,HERB,Caprifoliaceae
+Succisa pratensis-type,HERB,Caprifoliaceae
+Sum AP,INUN,delete
+Sum algae,NA,delete
+Swertia perennis,HERB,Gentianaceae
+Swertia sect. Ophelia-type,NA,Gentianaceae
+Swertia-type,HERB,Gentianaceae
+Swertia-type (Swertia-T),NA,Gentianaceae
+Symphytum,HERB,Boraginaceae
+Symphytum-type,HERB,Boraginaceae
+Symplocaceae,NA,Symplocaceae
+Symplocos,PREQ,Symplocaceae
+Syringa,TRSH,Oleaceae
+Syringia,TRSH,Oleaceae
+T-C-C type,TRSH,delete
+T. latifolia-t.,AQUA,delete
+TAMARIX,TRSH,Tamaricaceae
+TAMUS,HERB,Dioscoreaceae
+THALICTRUM ALPINUM,HERB,Ranunculaceae
+THALICTRUM type,HERB,Ranunculaceae
+TILIA,TRSH,Malvaceae
+TRIGLOCHIN,HELO,delete
+TRILATE-TYPE-SPORE,VACR,delete
+TSUGA,TRSH,delete
+TYPHA,AQUA,delete
+TYPHA LATIFOLIA,AQUA,delete
+TYPHA latif.,AQUA,delete
+Tablets,NOPO,delete
+Tablets (added),NOPO,delete
+Tablets: 1,NA,delete
+Talictrum,HERB,Ranunculaceae
+Tamaricaceae,NA,Tamaricaceae
+Tamarix,TRSH,Tamaricaceae
+Tamarix spp.,NA,Tamaricaceae
+Tamus,HERB,Dioscoreaceae
+Taraxacum,HERB,Asteraceae
+Taraxacum type,HERB,Asteraceae
+Taraxacum-type,HERB,Asteraceae
+Taraxacum-type (Tar-T),NA,Asteraceae
+Tardigrada (body),INVE,delete
+Taxaceae,NA,delete
+Taxodiaceae,TRSH,delete
+Taxodiaceae/Cupressaceae/Taxaceae,TRSH,delete
+Taxodium,TRSH,delete
+Taxus,TRSH,delete
+Taxus baccata,TRSH,delete
+Testate amoebae,NOPO,delete
+Tetraedron,CHLO,delete
+Tetraedron,ALGA,delete
+Tetraedron minimum,CHLO,delete
+Tetraedron minimum,ALGA,delete
+Tetraploa,FUNG,delete
+Tetraploa aristata,CHLO,delete
+Teucrium,HERB,Lamiaceae
+Teucrium t.,HERB,Lamiaceae
+Teucrium-type,HERB,Lamiaceae
+Texture (Texture),NA,delete
+Thalictrum,HERB,Ranunculaceae
+Thalictrum alpinum,HERB,Ranunculaceae
+Thalictrum aquilegiifolium,HERB,Ranunculaceae
+Thalictrum flavum type,HERB,Ranunculaceae
+Thalictrum flavum-type,HERB,Ranunculaceae
+Thalictrum spp.,NA,Ranunculaceae
+Thalictrum type,HERB,Ranunculaceae
+Thalictrum type N,HERB,Ranunculaceae
+Thalictrum type R,HERB,Ranunculaceae
+Thalictrum undiff.,HERB,Ranunculaceae
+Thalictrum-type,HERB,Ranunculaceae
+Theaceae,NA,Theaceae
+Thecamoeba,RHIZ,delete
+Thecaphora,FUNG,delete
+Theligonum,HERB,Rubiaceae
+Theligonum cynocrambe,HERB,Rubiaceae
+Thelypteris,VACR,delete
+Thelypteris palustris,VACR,delete
+Thelypteris palustris-type,VACR,delete
+Thelypteris phegopteris,VACR,delete
+Thelypteris-type,VACR,delete
+Thelypteris-type (Thelypteris-T),NA,delete
+Thesium,HERB,Santalaceae
+Thesium humifusum,HERB,Santalaceae
+Thesium-type,HERB,Santalaceae
+Thymelaea,DWAR,Thymelaeaceae
+Thymelaeaceae,TRSH,Thymelaeaceae
+Thymelaeaceae,DWAR,Thymelaeaceae
+Thymelaeaceae undiff.,DWAR,Thymelaeaceae
+Thymeleaceae,TRSH,Thymelaeaceae
+Thymus,HERB,Lamiaceae
+Thymus drucei,HERB,Lamiaceae
+Thymus serpyllum,DWAR,Lamiaceae
+Thymus-type,HERB,Lamiaceae
+Thymus/Mentha,HERB,Lamiaceae
+Thymus/Mentha-type,DWAR,Lamiaceae
+Thypha/Sparganium,AQUA,delete
+Tiefen,NOPO,delete
+Tilia,TRSH,delete
+Tilia cordata,TRSH,Malvaceae
+Tilia cordata-Typ,TRSH,Malvaceae
+Tilia cordata-type,TRSH,Malvaceae
+Tilia platyphyllos,TRSH,Malvaceae
+Tilia platyphyllos-type,TRSH,Malvaceae
+Tilletia,FUNG,delete
+Tilletia sphagni,FUNG,delete
+Tilletia sphagnii,FUNG,delete
+Tillettia,FUNG,delete
+Tofieldia,HERB,Tofieldiaceae
+Torilis,HERB,Apiaceae
+Torilis-type,HERB,Apiaceae
+Total accumulation rate (grains/cm²/yr),NOPO,delete
+Total concentration,NOPO,delete
+Total counts,NA,delete
+Total number of lines,NOPO,delete
+Total pollen,INUN,delete
+Tracheids,INUN,delete
+Trachycarpus fortunei,TRSH,Arecaceae
+Tragopogon pratensis,HERB,Asteraceae
+Trapa,AQUA,delete
+Trapa natans,AQUA,delete
+Trees and shrubs,INUN,delete
+Trema,NA,Cannabaceae
+Tribulus,HERB,Zygophyllaceae
+Tribulus spp.,NA,Zygophyllaceae
+Tribulus terrestris,HERB,Zygophyllaceae
+Trichodelitschia,FUNG,delete
+Trichomanes speciosum,VACR,delete
+Trichophorum caespitosum,AQUA,delete
+Tricticum-type cf.,HERB,Poaceae
+Trientalis,HERB,Primulaceae
+Trientalis europaea,HERB,Primulaceae
+Trientalis europea,HERB,Primulaceae
+Trif._re-s,HERB,Fabaceae
+Trifolium,HERB,Fabaceae
+Trifolium alpinum-type,HERB,Fabaceae
+Trifolium badium-type,HERB,Fabaceae
+Trifolium cfr alpinum,HERB,Fabaceae
+Trifolium dubium type,HERB,Fabaceae
+Trifolium montanum,HERB,Fabaceae
+Trifolium pratense,HERB,Fabaceae
+Trifolium pratense type,HERB,Fabaceae
+Trifolium pratense-type,HERB,Fabaceae
+Trifolium repens,HERB,Fabaceae
+Trifolium repens T,HERB,Fabaceae
+Trifolium repens type,HERB,Fabaceae
+Trifolium repens-type,HERB,Fabaceae
+Trifolium spadiceum-type,HERB,Fabaceae
+Trifolium t.,HERB,Fabaceae
+Trifolium typ,HERB,Fabaceae
+Trifolium type,HERB,Fabaceae
+Trifolium undiff.,HERB,Fabaceae
+Trifolium-type,HERB,Fabaceae
+Triglochin,AQUA,delete
+Triglochin,HELO,delete
+Triglochin maritima,AQUA,delete
+Trigocladium opacum (Type HdV-10),FUNG,delete
+Trigonella,HERB,Fabaceae
+Trilete,VACR,delete
+Trilete fern spores,VACR,delete
+Trilete fern spores undiff.,VACR,delete
+Trilete non-psilate,VACR,delete
+Trilete psil.,VACR,delete
+Trilete psilate,VACR,delete
+Trilete spore,VACR,delete
+Trilete spore(s),VACR,delete
+Trilete spore(s) undiff.,VACR,delete
+"Trilete spore, bacculate",VACR,delete
+Trilete spores,VACR,delete
+Trilete spores (not psilate),VACR,delete
+Trilete spores (psilate),VACR,delete
+Trilete spores (scabrate),VACR,delete
+Trilete spores (smoothly verrucate),VACR,delete
+Trilete spores (verrucate),VACR,delete
+Trilete spores undiff.,VACR,delete
+Trilete verrucate Sporen,VACR,delete
+Triletes lisses,VACR,delete
+Triletes non psilate,VACR,delete
+Triletes psilate,VACR,delete
+Trinia glauca-type,HERB,Apiaceae
+Tripterospora,FUNG,delete
+Tristellateia,NA,Malpighiaceae
+Triticum,HERB,Poaceae
+Triticum T,HERB,Poaceae
+Triticum type,HERB,Poaceae
+Triticum-type,HERB,Poaceae
+Triticum/Avena,HERB,Poaceae
+Triticum/Avena-type,HERB,Poaceae
+Triticum/Hordeum,HERB,Poaceae
+Triver,NOPO,delete
+Trochodendron,NA,Trochodendraceae
+Trollius,HERB,Ranunculaceae
+Trollius europaeus,HERB,Ranunculaceae
+Trollius-type,HERB,Ranunculaceae
+Tropaeolaceae,NA,Tropaeolaceae
+Tsuga,TRSH,delete
+Tsuga heterophylla,TRSH,delete
+Tsugadiversifolia,TRSH,delete
+Tsugasieboldii,TRSH,delete
+Tuberaria,HERB,Cistaceae
+Tubuliflorae,HERB,Asteraceae
+Turbellaria,PLAT,delete
+Turbellariae,PLAT,delete
+Turbellarian,PLAT,delete
+Turgenia-type,HERB,Apiaceae
+Tussilago farfara,HERB,Asteraceae
+Tussilago-type,HERB,Asteraceae
+Type 1,FUNG,delete
+Type 1066,FUNG,delete
+Type 107,INVE,delete
+Type 109,NOPO,delete
+Type 10A,FUNG,delete
+Type 112,FUNG,delete
+Type 112A/B,FUNG,delete
+Type 113,FUNG,delete
+Type 126,FUNG,delete
+Type 1282,FUNG,delete
+Type 13,NOPO,delete
+Type 13,FUNG,delete
+Type 140 Valsaria variospora,FUNG,delete
+Type 143,FUNG,delete
+Type 143: Asc. of Diporotheca,FUNG,delete
+Type 150,UNPP,delete
+Type 165,BRYO,delete
+Type 16C,FUNG,delete
+Type 172,FUNG,delete
+Type 173,FUNG,delete
+Type 179,INVE,delete
+Type 18,FUNG,delete
+Type 180,NOPO,delete
+Type 181,UNPP,delete
+Type 2,FUNG,delete
+Type 200,FUNG,delete
+Type 201,FUNG,delete
+Type 207,FUNG,delete
+Type 207 Glomus cf. Fasciculatum,FUNG,delete
+Type 219,NOPO,delete
+Type 225,ALGA,delete
+Type 227,NOPO,delete
+Type 27,FUNG,delete
+Type 28,INVE,delete
+Type 30,FUNG,delete
+Type 305,FUNG,delete
+Type 315 Spirogyra,ALGA,delete
+Type 32 A: Assulina muscorum,RHIZ,delete
+Type 32A,RHIZ,delete
+Type 33,UNPP,delete
+Type 351,FUNG,delete
+Type 353A/B,PLAT,delete
+Type 360,FUNG,delete
+Type 366,UNPP,delete
+Type 368,FUNG,delete
+Type 37,ROTI,delete
+Type 3B,FUNG,delete
+Type 4,FUNG,delete
+Type 44,FUNG,delete
+Type 44: Ustulina deusta,FUNG,delete
+Type 503,INUN,delete
+Type 52,UNPP,delete
+Type 55,FUNG,delete
+Type 55A,FUNG,delete
+Type 55A2,FUNG,delete
+Type 572,FUNG,delete
+Type 6,FUNG,delete
+Type 600,ALGA,delete
+Type 65,FUNG,delete
+Type 72,MICR,delete
+Type 729,FUNG,delete
+Type 7A,FUNG,delete
+Type 8,FUNG,delete
+Type 8 undiff.,INUN,delete
+Type 81,NOPO,delete
+Type 88,INVE,delete
+Type 89 : Tetraploa aristata,FUNG,delete
+Type 8B,FUNG,delete
+Type 8E,FUNG,delete
+Type 8b,FUNG,delete
+Type 90,FUNG,delete
+Type 901,ALGA,delete
+Type 902,INVE,delete
+Type 92,FUNG,delete
+Type 99,FUNG,delete
+Type E,INUN,delete
+Type HdV-18,FUNG,delete
+Type UG 1066 Delitschia spp.,FUNG,delete
+Type x,INUN,delete
+Typer 27,FUNG,delete
+Typha,AQUA,delete
+Typha (Typha),NA,delete
+Typha (tetrad),AQUA,delete
+Typha angustata,AQUA,delete
+Typha angustifolia,AQUA,delete
+Typha angustifolia,HELO,delete
+Typha angustifolia type,AQUA,delete
+Typha angustifolia-type,AQUA,delete
+Typha angustifolia/Sparganium,AQUA,delete
+Typha angustifolia/Sparganium-type,AQUA,delete
+Typha latifolia,HELO,delete
+Typha latifolia,AQUA,delete
+Typha latifolia T,AQUA,delete
+Typha latifolia t.,AQUA,delete
+Typha latifolia type,AQUA,delete
+Typha latifolia-type,AQUA,delete
+Typha minima,HELO,delete
+Typha minima,AQUA,delete
+Typha sp.,AQUA,delete
+Typha-Spargan.,AQUA,delete
+Typha-Sparganium,AQUA,delete
+Typha-type,AQUA,delete
+Typha/Sparagnum,AQUA,delete
+Typha/Sparganium,AQUA,delete
+Typha/Sparganium type,AQUA,delete
+Typha/Sparganium-type,AQUA,delete
+Typhaceae,AQUA,delete
+ULMUS,TRSH,Ulmaceae
+UMBELLIFERAE,HERB,Apiaceae
+UNKNOWN,INUN,delete
+UNKNOWN-POLLEN,INUN,delete
+UNKNOWN-POLLEN/SPORES,INUN,delete
+URTICA,HERB,Urticaceae
+URTICACEAE,HERB,Urticaceae
+URTICACEAE undiff.,HERB,Urticaceae
+Ulex,TRSH,Fabaceae
+Ulex type,TRSH,Fabaceae
+Ulex-type,TRSH,Fabaceae
+Ulex/Cytisus-type,TRSH,Fabaceae
+Ullotrix/Microspora-type,ALGA,delete
+Ulmaceae,TRSH,NA
+Ulmaceae (other),NA,NA
+Ulmus,TRSH,Ulmaceae
+Ulmus / Zelkova,TRSH,Ulmaceae
+Ulmus glabra,TRSH,Ulmaceae
+Ulmus glabra type,TRSH,Ulmaceae
+Ulmus glabra-type,TRSH,Ulmaceae
+Ulmus laevis,TRSH,Ulmaceae
+Ulmus minor,TRSH,Ulmaceae
+Ulmus spp.,NA,Ulmaceae
+Ulmus-Zelkova,TRSH,Ulmaceae
+Ulmus/Zelkova,TRSH,Ulmaceae
+Umbellifera,HERB,Apiaceae
+Umbelliferae,HERB,Apiaceae
+Umbelliferae  undiff. type,HERB,Apiaceae
+Umbelliferae undiff.,HERB,Apiaceae
+Umbellifereae,HERB,Apiaceae
+Umbilicus,HERB,Crassulaceae
+Umbilicus rupestris-type,HERB,Crassulaceae
+Unbestimmbare,INUN,delete
+Undefined 3-col.,INUN,delete
+Undefined 3-col._3-por.,INUN,delete
+Undefined_spores.,INUN,delete
+Undeterminable,INUN,delete
+Unidentified,INUN,delete
+Unknown,INUN,delete
+Unknown A,INUN,delete
+Unknown B,INUN,delete
+Unknown C Iridaceae?,INUN,delete
+Unknown D,INUN,delete
+Unknown Heterocolporate,INUN,delete
+Unknown Large reticulate inaperaturate,INUN,delete
+Unknown pollen,INUN,delete
+Unknown small tricolporate oblate 16.8M,INUN,delete
+Unknown spore,INUN,delete
+Unknown spore(s),INUN,delete
+Unknown triporae reticulate,INUN,delete
+Uritca pilulifera,HERB,Urticaceae
+Urtic.-Moraceae,HERB,Urticaceae
+Urtica,HERB,Urticaceae
+Urtica cf. U. dioica,HERB,Urticaceae
+Urtica cf. U. pilulifera,HERB,Urticaceae
+Urtica cf. pilulifera,HERB,Urticaceae
+Urtica dioica,HERB,Urticaceae
+Urtica dioica clumps,HERB,Urticaceae
+Urtica dioica clumps of two,HERB,Urticaceae
+Urtica dioica t.,HERB,Urticaceae
+Urtica dioica type,HERB,Urticaceae
+Urtica dioica-type,HERB,Urticaceae
+Urtica dubia,HERB,Urticaceae
+Urtica membranacea,HERB,Urticaceae
+Urtica membranacea-type,HERB,Urticaceae
+Urtica pilulifera,HERB,Urticaceae
+Urtica pilulifera-type,HERB,Urticaceae
+Urtica sp (triporate type),HERB,Urticaceae
+Urtica spp.,NA,Urticaceae
+Urtica undiff.,HERB,Urticaceae
+Urtica urens,HERB,Urticaceae
+Urtica-type,HERB,Urticaceae
+Urtica/Parietaria,HERB,Urticaceae
+Urticac.-Moraceae,HERB,Urticaceae
+Urticaceae,HERB,Urticaceae
+Urticaceae (Urticaceae),NA,Urticaceae
+Urticaceae (non-Urtica),NA,Urticaceae
+Urticaceae undiff.,HERB,Urticaceae
+Urticaceae/Moraceae,INUN,Urticaceae
+Urticaceae/Moraceae,HERB,Urticaceae
+Urticales,HERB,Urticaceae
+Ustulina,FUNG,delete
+Ustulina deusta,FUNG,delete
+Utricularia,AQUA,delete
+Utricularia vulgaris,AQUA,delete
+Utricularia-type,HERB,delete
+VACCINIUM,TRSH,Ericaceae
+VIBURNUM,TRSH,Adoxaceae
+VIOLA,HERB,Violaceae
+VITIS,TRSH,Vitaceae
+Vacci-eae,DWAR,Ericaceae
+Vacciniaceae,DWAR,Ericaceae
+Vaccinium,TRSH,Ericaceae
+Vaccinium,DWAR,Ericaceae
+Vaccinium T,TRSH,Ericaceae
+Vaccinium myrtillus,TRSH,Ericaceae
+Vaccinium myrtillus,DWAR,Ericaceae
+Vaccinium myrtillus-type,DWAR,Ericaceae
+Vaccinium oxycoccos,DWAR,Ericaceae
+Vaccinium type,TRSH,Ericaceae
+Vaccinium undiff.,DWAR,Ericaceae
+Vaccinium vitis-idaea,TRSH,Ericaceae
+Vaccinium-Typ,TRSH,Ericaceae
+Vaccinium-type,TRSH,Ericaceae
+Vaccinium-type,DWAR,Ericaceae
+Vaccinium/Oxycoccus,DWAR,Ericaceae
+Vaccinium/Rhododendron,DWAR,Ericaceae
+Valeriana,HERB,Caprifoliaceae
+Valeriana capitata L.,UPHE,Caprifoliaceae
+Valeriana cf.,INUN,Caprifoliaceae
+Valeriana cf. capitata,HERB,Caprifoliaceae
+Valeriana clarkei/himalayana-type,NA,Caprifoliaceae
+Valeriana dioica-type,HERB,Caprifoliaceae
+Valeriana montana-type,HERB,Caprifoliaceae
+Valeriana officinalis,HERB,Caprifoliaceae
+Valeriana officinalis T,HERB,Caprifoliaceae
+Valeriana officinalis t.,HERB,Caprifoliaceae
+Valeriana officinalis-type,HERB,Caprifoliaceae
+Valeriana sambucifolia-type,HERB,Caprifoliaceae
+Valeriana saxatilis-type,HERB,Caprifoliaceae
+Valeriana tripteris-type,HERB,Caprifoliaceae
+Valeriana-type,HERB,Caprifoliaceae
+Valerianaceae,HERB,Caprifoliaceae
+Valerianaceae/Dipsacaceae,HERB,Caprifoliaceae
+Valerianella,HERB,Caprifoliaceae
+Valerianella type,HERB,Caprifoliaceae
+Valsaria cf. V. variospora (Type HdV-140),FUNG,delete
+Valsaria sp.,FUNG,delete
+Varia,INUN,delete
+Vegetal,NOPO,delete
+Veratrum,HERB,Melanthiaceae
+Veratrum spp.,NA,Melanthiaceae
+Veratrum-type,HERB,Melanthiaceae
+Verbascum,HERB,Scrophulariaceae
+Verbascum type,HERB,Scrophulariaceae
+Verbascum-type,HERB,Scrophulariaceae
+Verbascumcf.,INUN,Scrophulariaceae
+Verbena,HERB,Verbenaceae
+Verbenaceae,HERB,Verbenaceae
+Veronica,HERB,Plantaginaceae
+Veronica type,HERB,Plantaginaceae
+Veronica-type,HERB,Plantaginaceae
+Veronica-type (Veronica-T),NA,Plantaginaceae
+Veronica/Lamium album-type,HERB,Plantaginaceae
+Vib._op-s,TRSH,Adoxaceae
+Viburnum,TRSH,Adoxaceae
+Viburnum lantana,TRSH,Adoxaceae
+Viburnum opulus,TRSH,Adoxaceae
+Viburnum opulus T,TRSH,Adoxaceae
+Viburnum opulus-type,TRSH,Adoxaceae
+Viburnum opulus/tinus,TRSH,Adoxaceae
+Viburnum-type,TRSH,Adoxaceae
+Viburnum/Euonymus,TRSH,Adoxaceae
+Viburnum/Sambucus,TRSH,Adoxaceae
+Vicea,HERB,Fabaceae
+Vicia,HERB,Fabaceae
+Vicia T,HERB,Fabaceae
+Vicia cracca,HERB,Fabaceae
+Vicia cracca type,HERB,Fabaceae
+Vicia cracca-type,HERB,Fabaceae
+Vicia faba,HERB,Fabaceae
+Vicia faba-type,HERB,Fabaceae
+Vicia lathyroides,HERB,Fabaceae
+Vicia sativa type,HERB,Fabaceae
+Vicia sylvatica-type,HERB,Fabaceae
+Vicia tp.,HERB,Fabaceae
+Vicia type,HERB,Fabaceae
+Vicia-type,HERB,Fabaceae
+Vicia/Lathyrus,HERB,Fabaceae
+Vicia/Lathyrus-type,HERB,Fabaceae
+Viciaceae,HERB,Fabaceae
+Vinca,HERB,Apocynaceae
+Viola,HERB,Violaceae
+Viola arvensis-type,HERB,Violaceae
+Viola canina-type,HERB,Violaceae
+Viola odorata-type,HERB,Violaceae
+Viola palustris,AQUA,Violaceae
+Viola palustris-type,AQUA,Violaceae
+Viola palustris-type,HERB,Violaceae
+Viola tricolor,HERB,Violaceae
+Viola tricolor type,HERB,Violaceae
+Viola tricolor-type,HERB,Violaceae
+Viola-tricolor/V. arvensis,HERB,Violaceae
+Violaceae,HERB,Violaceae
+Viscum,TRSH,Santalaceae
+Viscum,HEMI,Santalaceae
+Viscum album,HEMI,Santalaceae
+Viscum album,TRSH,Santalaceae
+Viscum album-type,HEMI,Santalaceae
+Vitaceae,TRSH,Vitaceae
+Vitex,TRSH,Lamiaceae
+Vitis,TRSH,Vitaceae
+Vitis,LIAN,Vitaceae
+Vitis vinifera,LIAN,Vitaceae
+Vitis vinifera,TRSH,Vitaceae
+Volume (cm3),NOPO,delete
+Volume [cm,NA,delete
+Volume in cm³,NOPO,delete
+Volume of residue (ml),NOPO,delete
+Volume of sample (cm3),NOPO,delete
+Volume of sample (mm3),NOPO,delete
+Volume or mass examined,NOPO,delete
+Volume prélevé,NOPO,delete
+Volume spike added,NOPO,delete
+Volumen,NOPO,delete
+Volumen [cm³],NOPO,delete
+Volvocaceae,ALGA,delete
+Votadinium spinosum,DINO,delete
+Weigela,TRSH,Caprifoliaceae
+Weight,NOPO,delete
+Weight (g),NOPO,delete
+Weight of tablets,NOPO,delete
+Wet weight (g),NOPO,delete
+Wild grass group,HERB,delete
+Wild grass group clumps of two,HERB,delete
+Wood._f-s,VACR,delete
+Woodceae._a-a,VACR,delete
+Woodsia,VACR,delete
+Woodsia ilvensis,VACR,delete
+Woodsia/Athyrium crenatum-type,NA,delete
+Woodsia/Athyrium-type,NA,delete
+Xanthium,HERB,Asteraceae
+Xanthium spinosum,HERB,Asteraceae
+Xanthium spinosum T,HERB,Asteraceae
+Xanthium spinosum-type,HERB,Asteraceae
+Xanthium strumarium,HERB,Asteraceae
+Xanthium t.,HERB,Asteraceae
+Xanthium-type,HERB,Asteraceae
+Xanthium-type (Xanthium-T),NA,Asteraceae
+Xanthium/Ambrosia,HERB,Asteraceae
+Xbroken,INUN,delete
+Xcorroded,INUN,delete
+Xcrumpled,INUN,delete
+Xhidden,INUN,delete
+Xilariaceae,FUNG,delete
+Xunknown,INUN,delete
+ZEA MAIS,HERB,Poaceae
+Zannichellia palustris,AQUA,delete
+Zanthoxylum,TRSH,Rutaceae
+Zea,HERB,Poaceae
+Zea mais,HERB,Poaceae
+Zea mays,HERB,Poaceae
+Zea mays-type,HERB,Poaceae
+Zea-type,HERB,Poaceae
+Zelkova,TRSH,Ulmaceae
+Zelkova-type,TRSH,Ulmaceae
+Zelkova/Ulmus,TRSH,Ulmaceae
+Zizyphus,TRSH,NA
+Zizyphus lotus,TRSH,NA
+Zygnema,ALGA,delete
+Zygnema,CHLO,delete
+Zygnema-type,CHLO,delete
+Zygophyllaceae,TRSH,Zygophyllaceae
+Zygophyllaceae (other),NA,Zygophyllaceae
+Zygophyllum,TRSH,Zygophyllaceae
+Zygophyllum spp.,NA,Zygophyllaceae
+added Exototic marker,NOPO,delete
+broken,INUN,delete
+cereal type,HERB,Poaceae
+cf Adoxa moschatellina,HERB,Adoxaceae
+cf Arceuthobium,TRSH,Santalaceae
+cf Citrillus,HERB,Cucurbitaceae
+cf Erodium,HERB,Geraniaceae
+cf Oenanthe,HERB,Apiaceae
+cf Onobrychis,HERB,Fabaceae
+cf Plumbago,INUN,Plumbaginaceae
+cf juncus,INUN,Juncaceae
+cf. Adonis,INUN,Ranunculaceae
+cf. Aerva,INUN,Amaranthaceae
+cf. Althaenia,INUN,delete
+cf. Anagallis-type,INUN,delete
+"cf. Anuraeopsis, resting eggs",NA,delete
+cf. Arbutus,INUN,Ericaceae
+cf. Astragalus alpinus-type,HERB,Fabaceae
+cf. Bryales,BRYO,delete
+cf. Cannabis,HERB,Cannabaceae
+cf. Cannabis sativa,INUN,Cannabaceae
+cf. Capparis,INUN,Capparaceae
+cf. Cassiope,INUN,Ericaceae
+cf. Castanea,INUN,Fagaceae
+cf. Casuarina,INUN,Casuarinaceae
+cf. Centaurea nigra-type,INUN,Asteraceae
+cf. Centaurea scabiosa-type,INUN,Asteraceae
+cf. Centaurium,INUN,Gentianaceae
+cf. Ceratonia,INUN,Fabaceae
+cf. Coprosma,HERB,Rubiaceae
+cf. Crassulaceae,HERB,Crassulaceae
+cf. Cryptogramma crispa,INUN,delete
+cf. Cytisus,INUN,Fabaceae
+cf. Daphne,INUN,Thymelaeaceae
+cf. Ephedra,INUN,delete
+cf. Ephedra fragilis,INUN,delete
+cf. Euphorbia,INUN,Euphorbiaceae
+cf. Fagus,INUN,Fagaceae
+cf. Filipendula,HERB,Rosaceae
+cf. Fraxinus,INUN,Oleaceae
+cf. Galeopsis,INUN,Lamiaceae
+cf. Gentiana,HERB,Gentianaceae
+cf. Hamamelidaceae,INUN,Hamamelidaceae
+cf. Heracleum sphondylium,HERB,Apiaceae
+cf. Humulus,INUN,Cannabaceae
+cf. Humulus lupulus,HERB,Cannabaceae
+cf. Humulus lupulus,INUN,Cannabaceae
+cf. Iris,INUN,Iridaceae
+cf. Juniperus,INUN,delete
+cf. Larix-type,INUN,delete
+cf. Liliaceae,INUN,Liliaceae
+cf. Limosella aquatica,INUN,delete
+cf. Littorella,INUN,Plantaginaceae
+cf. Lonicera,INUN,Caprifoliaceae
+cf. Lychnis flos-cuculi,HERB,Caryophyllaceae
+cf. Malvaceae,INUN,Malvaceae
+cf. Melilotus,INUN,Fabaceae
+cf. Moss spore,NA,delete
+cf. Myricaria,INUN,Tamaricaceae
+cf. Olea,INUN,Oleaceae
+cf. Orchidaceae,INUN,Orchidaceae
+cf. Papaver radicatum,INUN,Papaveraceae
+cf. Papaveraceae,INUN,Papaveraceae
+cf. Pedicularis,INUN,Orobanchaceae
+cf. Orobanchaceae,INUN,Orobanchaceae
+cf. Polypodiaceae,NA,delete
+cf. Potentilla palustris,INUN,Rosaceae
+cf. Primula,INUN,Primulaceae
+cf. Pyrus,INUN,Rosaceae
+cf. Reseda lutea-type,INUN,Resedaceae
+cf. Restionaceae,INUN,Restionaceae
+cf. Rubus arcticus,TRSH,Rosaceae
+cf. Saxifraga stellaris,INUN,Saxifragaceae
+cf. Sedum,INUN,Crassulaceae
+cf. Sedum-type,INUN,Crassulaceae
+cf. Silene alba,INUN,Caryophyllaceae
+cf. Sorbus,INUN,Rosaceae
+cf. Sorbus acuparia,TRSH,Rosaceae
+cf. Sorbus aucuparia,TRSH,Rosaceae
+cf. Sorbus aucuparia,INUN,Rosaceae
+cf. Sporidesmium,FUNG,delete
+cf. Stellaria,INUN,Caryophyllaceae
+cf. Succisa,INUN,Caprifoliaceae
+cf. Tamus,INUN,Dioscoreaceae
+cf. Taraxacum,INUN,Asteraceae
+"cf. Type 1024_Conidia, Brachysporium",FUNG,delete
+cf. Type 77B,FUNG,delete
+cf. Ustulina deusta,FUNG,delete
+cf. Valeriana,INUN,Caprifoliaceae
+cf. Verbascum,INUN,Scrophulariaceae
+cf. Viscum,INUN,Santalaceae
+cf. Vitis,INUN,Vitaceae
+cf. Xanthium-type,INUN,Asteraceae
+cf. Ziziphus,INUN,Rhamnaceae
+cf. Zygnema-type,NA,delete
+"charcoal <0,025mm",CHAR,delete
+"charcoal >0,025mm",CHAR,delete
+"charcoal >0,100mm",CHAR,delete
+charred material <100 µm,NOPO,delete
+charred material >100 µm,NOPO,delete
+"concentration (F.P.A., grains/gram)",NOPO,delete
+concentration of Lycopodium,NOPO,delete
+counted Exotic marker,NOPO,delete
+deciduous Quercus,TRSH,Fagaceae
+evergreen Quercus,TRSH,Fagaceae
+examined volume (Vg),NOPO,delete
+examined volume (Vg) (ml),NOPO,delete
+exot added,NOPO,delete
+exot counted,NOPO,delete
+exotic per tablet,NOPO,delete
+foraminiferal linings,INVE,delete
+idioblasty Nymphaea,VEMI,delete
+indef._pollen,INUN,delete
+indet,INUN,delete
+indet.,INUN,delete
+indet. Pollen,INUN,delete
+indiff,INUN,delete
+mandibola di chironomide,INVE,delete
+number of exotic tablets,NOPO,delete
+other deciduous Quercus,TRSH,delete
+other herbs,INUN,delete
+other spores,SPOR,delete
+pollen s vypuklymi porami,INUN,delete
+quantity of Lycopodium added,NOPO,delete
+ricales,DWAR,delete
+sample volume (Vp),NOPO,delete
+sample volume (Vp) (ml),NOPO,delete
+sample weight (Pp),NOPO,delete
+sample weight (Pp) (grams),NOPO,delete
+scalariform perforation plate,INUN,delete
+sediment volume (cm^3),NOPO,delete
+spore-monolete,VACR,delete
+spore-trilete,VACR,delete
+sum basic pollen,NA,delete
+sum broadleaved shrubs,NA,delete
+sum broadleaved trees,NA,delete
+"sum dwarf shrubs, herbs and graminoids",NA,delete
+sum indetermined pollen,NA,delete
+sum non-pollen-palynomorphs,NA,delete
+sum pteridophyta,NA,delete
+sum total,INUN,delete
+sum trees and shrubs,NA,delete
+surface area,NOPO,delete
+t. 119,UNPP,delete
+t. 13,FUNG,delete
+t. 731,UNPP,delete
+t. 74,UNPP,delete
+t. CRATAEGUS,TRSH,delete
+t.HELIANTHEMUM,HERB,delete
+t.PLATANUS,TRSH,delete
+t.PRUNUS,TRSH,delete
+trilete,VACR,delete
+trilete psilate Sporen,VACR,delete
+unidentified,INUN,delete
+unknown,INUN,delete
+varia,INUN,delete
+volume [cm³],NOPO,delete
+volume of sample,NOPO,delete
