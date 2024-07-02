@@ -1,7 +1,6 @@
 #-----------------------------------------------#
 # Function for estimating phylogenetic diversity ----
 #-----------------------------------------------#
-
 get_phylogenetic_diversity <- 
   function(counts,
            backbone_tree,
@@ -14,16 +13,8 @@ get_phylogenetic_diversity <-
   dat <- 
     counts %>%
     as.data.frame() %>% 
-    column_to_rownames("sample_id")
+    tibble::column_to_rownames("sample_id")
   
-  #final_tree <- 
-  #  ape::read.tree(
-  #    paste(
-  #      "Inputs/Data/Ramirez_Barahona_etal_2020_phylogeny/",
-  #      "pruned_Ramirez_Barahona_etal_2020_raxml_surface_samples.tre",
-  #      sep = ""
-  #    )
-  #  )
   final_tree <- backbone_tree
   # Make a vector of families from the tree that are missing from the counts data
   drop_list <- 
@@ -52,10 +43,9 @@ get_phylogenetic_diversity <-
         abundance.weighted = abundance.weighted,
         runs
         ) %>% 
-      rownames_to_column("sample_id") %>% 
-      as_tibble() %>% 
+     tibble:: rownames_to_column("sample_id") %>% 
+      tibble::as_tibble() %>% 
       dplyr::rename(ses_mpd = mpd.obs.z)
-    
     
     return(mpd_phylogeny) 
     
@@ -70,8 +60,8 @@ get_phylogenetic_diversity <-
         abundance.weighted = abundance.weighted,
         runs = runs
         ) %>% 
-      rownames_to_column("sample_id") %>% 
-      as_tibble() %>% 
+      tibble::rownames_to_column("sample_id") %>% 
+      tibble::as_tibble() %>% 
       dplyr::rename(ses_mntd = mntd.obs.z)
     
     return(mntd_phylogeny) 

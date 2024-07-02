@@ -18,6 +18,9 @@
 #-----------------------------------------------#
 source("R/00_Config_file.R")
 
+
+# A. Surface pollen data ----
+
 #-----------------------------------------------#
 # Load harmonised filtered data of surface pollen samples ----
 #-----------------------------------------------#
@@ -79,6 +82,9 @@ ape::write.tree(
     sep = ""
   )
 )
+
+
+# B. Fossil pollen data ----
 
 #-----------------------------------------------#
 # Load harmonised filtered data of fossil pollen samples ----
