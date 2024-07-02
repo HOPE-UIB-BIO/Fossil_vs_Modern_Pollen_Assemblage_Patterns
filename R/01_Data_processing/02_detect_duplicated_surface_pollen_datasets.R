@@ -1,9 +1,13 @@
 #----------------------------------------------------------#
+# Fossil pollen data can predict robust spatial patterns of biodiversity 
+#                        in the past
 #
-#       Latitudinal analysis of phylogenetic dispersion
+#                         K. Bhatta 
 #
-#               Surface sample pollen data 
-#          
+#                           2024
+#----------------------------------------------------------#
+
+#----------------------------------------------------------#
 #               Detect duplicated datasets ----
 #----------------------------------------------------------#
 #-----------------------------------------------#
@@ -15,7 +19,7 @@ source("R/00_Config_file.R")
 # Load raw data ----
 #-----------------------------------------------#
 epd <- 
-  read_rds(
+  readr::read_rds(
     "Inputs/Data/surface_samples_epd/data_empd_211123.rds"
   ) %>% 
   tidyr::unnest(metadata) %>% 
@@ -25,7 +29,7 @@ epd <-
   dplyr::mutate_at("percentage", as.character)
 
 cao <- 
-  read_rds(
+  readr::read_rds(
     "Inputs/Data/surface_samples_cao/surface_samples_cao_221123.rds"
   ) %>% 
   tidyr::unnest(metadata) %>% 
@@ -35,7 +39,7 @@ cao <-
   dplyr::mutate_at("percentage", as.character)
 
 pg <- 
-  read_rds(
+  readr::read_rds(
     "Inputs/Data/surface_samples_cao/surface_samples_pangaea_220923.rds"
   ) %>% 
   dplyr::filter(!long < 75 & !long > 125) %>%
@@ -133,8 +137,8 @@ names(cao)
 
 
 full_data <- 
-  bind_rows(pg_1, epd, cao)
+  dplyr::bind_rows(pg_1, epd, cao)
 
-write_rds(full_data,
+readr::write_rds(full_data,
           file = "Inputs/Data/data_combined_raw_121223.rds",
           compress = "gz")
