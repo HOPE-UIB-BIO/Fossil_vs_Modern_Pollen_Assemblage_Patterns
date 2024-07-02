@@ -204,9 +204,9 @@ readr::write_rds(
 
 # Combine all estimates
 phylodiversity_estimated_surface_samples <- 
-  read_rds("Inputs/Data/phylodiversity_estimated_surface_samples_050124.rds") 
+  readr::read_rds("Inputs/Data/phylodiversity_estimated_surface_samples_050124.rds") 
 phylodiversity_estimated_top_500yr_samples <- 
-  read_rds("Inputs/Data/phylodiversity_estimated_top_500yr_samples_080124.rds")
+  readr::read_rds("Inputs/Data/phylodiversity_estimated_top_500yr_samples_080124.rds")
 
 names(phylodiversity_estimated_surface_samples)
 names(phylodiversity_estimated_top_500yr_samples)
