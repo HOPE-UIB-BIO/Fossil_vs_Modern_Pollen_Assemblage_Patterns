@@ -1,8 +1,13 @@
-
+#----------------------------------------------------------#
+# Fossil pollen data can predict robust spatial patterns of biodiversity 
+#                        in the past
+#
+#                         K. Bhatta 
+#
+#                           2024
+#----------------------------------------------------------#
 
 #----------------------------------------------------------#
-#
-#       Latitudinal analysis of phylogenetic dispersion
 #
 #               Spatial coverage of datasets ----
 #          

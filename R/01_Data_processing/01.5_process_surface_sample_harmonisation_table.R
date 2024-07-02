@@ -36,5 +36,7 @@ full_list <-
   dplyr::mutate(family_level = NA) %>% 
   dplyr::arrange(taxon_name)
 
-readr::write_csv(full_list,
-          file = "Inputs/Tables/surface_samples_harmonisation_table_221123.csv")
+# readr::write_csv(full_list,
+#          file = "Inputs/Tables/surface_samples_harmonisation_table_221123.csv")
+
+# Note: this table is updated to created full harmonisation table!
