@@ -170,27 +170,3 @@ my_palette <-
     )
   )
 
-#----------------------------------------------------------#
-# 7. Authorise the user -----
-#----------------------------------------------------------#
-
-# Define directory for external storage for users
-auth_tibble <-
-  tibble::tribble(
-    ~name, ~path,
-    "ondrej", "C:/Users/ondre/My Drive/",
-    "vfe032", "G:/My Drive/",
-    "kuber", "H:/My Drive/"
-  )
-
-data_storage_path <-
-  auth_tibble %>%
-  dplyr::filter(name == Sys.info()["user"]) %>%
-  purrr::pluck("path")
-
-
-external_storage_targets <-
-  paste0(
-    data_storage_path,
-    "_targets_h1"
-  )
