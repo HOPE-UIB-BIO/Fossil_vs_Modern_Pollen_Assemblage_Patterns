@@ -1,3 +1,5 @@
+
+
 #----------------------------------------------------------#
 #
 #       Latitudinal analysis of phylogenetic dispersion
@@ -16,11 +18,11 @@ source("R/00_Config_file.R")
 #-----------------------------------------------#
 # Surface_samples 
 surface_pollen_filtered_clim_zone <-
-  read_rds("Inputs/Data/surface_pollen_filtered_030124.rds") #2735 samples/datasets
+  readr::read_rds("Inputs/Data/surface_pollen_filtered_030124.rds") #2735 samples/datasets
 
 # Fossil pollen records
 top_fossil_pollen_500yr_filtered_clim_zone <-
-  read_rds("Inputs/Data/top_fossil_pollen_500yr_filtered_080124.rds") %>% #363 samples
+  readr::read_rds("Inputs/Data/top_fossil_pollen_500yr_filtered_080124.rds") %>% #363 samples
   dplyr::group_by(dataset_id, lat, long) %>% 
   tidyr::nest() %>%   # 71 datasets
   dplyr::ungroup()
@@ -74,29 +76,31 @@ raster_df <-
   dplyr::rename(raster_values = Beck_KG_V1_present_0p083) %>%
   dplyr::mutate(raster_values = round(raster_values, digits = 0)) %>%
   # Assign the names of climate zone to the raster values
-  left_join(beck_translation_table, by = c("raster_values")) %>%
+  dplyr::left_join(beck_translation_table, by = c("raster_values")) %>%
   dplyr::filter(!raster_values == 0) 
 
 base_map <-
   surface_pollen_filtered_clim_zone %>%
-  ggplot(aes(x = long, y = lat)) +
-  coord_fixed(ylim = c(20.00, 80.00),
-              xlim = c(65.00, 135.00)) +
-  geom_tile(
+  ggplot2::ggplot(aes(x = long, y = lat)) +
+  ggplot2::coord_fixed(
+    ylim = c(20.00, 80.00),
+    xlim = c(65.00, 135.00)
+    ) +
+  ggplot2::geom_tile(
     data = raster_df,
     aes(x = x, y = y, fill = climate_zone_revised),
     inherit.aes = FALSE,
     alpha = 0.75
     ) +
-  scale_fill_manual(values = my_palette) +
-  labs(x = expression(paste('Longitude ', (degree ~ E))),
-       y = expression(paste('Latitude ', (degree ~ N))),
-       fill = "Climate-zones"
-       ) +
-  theme_classic() +
-  borders(colour = color_common,
+  ggplot2::scale_fill_manual(values = my_palette) +
+  ggplot2::labs(x = expression(paste('Longitude ', (degree ~ E))),
+                y = expression(paste('Latitude ', (degree ~ N))),
+                fill = "Climate-zones"
+                ) +
+  ggplot2::theme_classic() +
+  ggplot2::borders(colour = color_common,
           linewidth = 0.2) +
-  theme(
+  ggplot2::theme(
     axis.title = element_text(color = color_common, size = 24),
     axis.text = element_text(colour = color_common, size = 20),
     legend.position = "none",
@@ -104,11 +108,11 @@ base_map <-
     legend.title = element_text(size = 18), 
     legend.key.size = unit(0.75, 'cm')
     ) +
-  guides(fill = guide_legend(title.position = "top"))
+  ggplot2::guides(fill = guide_legend(title.position = "top"))
 
 surface_samples_distribution <- 
   base_map +
-  geom_point(color = "blue", size = 1.5) 
+  ggplot2::geom_point(color = "blue", size = 1.5) 
   
 filtered_data_surface_samples <-
   surface_pollen_filtered_clim_zone %>%
@@ -123,7 +127,7 @@ insetrect <-
 
 final_fig_surface_sample_distribution <-
   surface_samples_distribution +
-  geom_rect(
+  ggplot2::geom_rect(
     data = insetrect,
     aes(
       xmin = xmin,
@@ -150,7 +154,7 @@ final_fig_surface_sample_distribution <-
 # Fossil datasets
 fossil_samples_distribution <- 
   base_map +
-  geom_point(color = "blue", 
+  ggplot2::geom_point(color = "blue", 
              size = 1.5, 
              data = top_fossil_pollen_500yr_filtered_clim_zone) 
 
@@ -167,7 +171,7 @@ insetrect <-
 
 final_fig_fossil_sample_distribution <-
   fossil_samples_distribution +
-  geom_rect(
+  ggplot2::geom_rect(
     data = insetrect,
     aes(
       xmin = xmin,
@@ -201,11 +205,11 @@ final_map <-
     legend = "bottom"
     )
 
-ggsave(final_map,
-       file = "Outputs/Figure/samples_distribution_210524.tiff", 
-       height = 15,
-       width = 30,
-       units = "cm", 
-       dpi = 400,
-       compression = "lzw"
-       )
+#ggsave(final_map,
+#       file = "Outputs/Figure/samples_distribution_210524.tiff", 
+#       height = 15,
+#       width = 30,
+#       units = "cm", 
+#       dpi = 400,
+#       compression = "lzw"
+#       )
