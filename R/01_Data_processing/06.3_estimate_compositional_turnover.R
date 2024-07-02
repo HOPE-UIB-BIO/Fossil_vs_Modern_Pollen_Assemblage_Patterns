@@ -17,7 +17,10 @@
 #-----------------------------------------------#
 source("R/00_Config_file.R")
 
-# Load processed datasets
+#-----------------------------------------------#
+# Load processed datasets ----
+#-----------------------------------------------#
+
 surface_pollen_filtered_clim_zone <- 
   readr::read_rds("Inputs/Data/surface_pollen_filtered_030124.rds")
 
@@ -45,7 +48,6 @@ surface_samples_lat <-
     ecozone_koppen_30,
     climate_zone_revised
     )
-
 
 top_fossil_pollen_500yr_filtered_clim_zone <- 
   readr::read_rds("Inputs/Data/top_fossil_pollen_500yr_filtered_080124.rds")  
@@ -77,7 +79,10 @@ top_fossil_pollen_500yr_lat <-
     climate_zone_revised
     )
 
-# DCCA
+#-----------------------------------------------#
+# Estimate compositional turnover (DCCA axis 1) ----
+#-----------------------------------------------#
+
 dcca_surface_samples <- 
   REcopol::fit_ordination(
     data_source_community = surface_samples_sp,
@@ -156,6 +161,9 @@ turnover_combined <-
     everything()
   ) 
 
+#-----------------------------------------------#
+# Save output ----
+#-----------------------------------------------#
 readr::write_rds(turnover_combined,
           file = "Inputs/Data/turnover_combined_050224.rds",
           compress = "gz")

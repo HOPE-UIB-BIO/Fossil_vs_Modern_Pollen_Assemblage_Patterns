@@ -17,11 +17,17 @@
 source("R/00_Config_file.R")
 
 #-----------------------------------------------#
+# Load raw data ----
+#-----------------------------------------------#
 
 full_data <- 
   readr::read_rds(
     "Inputs/Data/data_combined_raw_121223.rds"
   )
+
+#-----------------------------------------------#
+# Harmonise taxa ----
+#-----------------------------------------------#
 
 dat_harmonised <-
   full_data %>%
@@ -102,6 +108,9 @@ dat_harmonised <-
       )
   )
 
+#-----------------------------------------------#
+# Save harmonised surface pollen data ----
+#-----------------------------------------------#
 readr::write_rds(
   dat_harmonised,
   file = "Inputs/Data/data_harmonised_121223.rds",

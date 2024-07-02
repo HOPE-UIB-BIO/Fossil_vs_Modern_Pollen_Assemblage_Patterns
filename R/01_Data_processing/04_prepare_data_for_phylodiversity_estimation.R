@@ -15,7 +15,10 @@
 #-----------------------------------------------#
 source("R/00_Config_file.R")
 
+#-----------------------------------------------#
 # A. Surface_samples ----
+#-----------------------------------------------#
+
 dat_harmonised <- 
   read_rds("Inputs/Data/data_harmonised_121223.rds")
 
@@ -51,7 +54,9 @@ surface_pollen_filtered <-
   data_for_phylodiv_estimation[rowSums(data_for_phylodiv_estimation > 0) > 2,] %>% # filter out samples with < 3 taxa
   tibble::rownames_to_column("sample_id")  #2783 samples
 
-# Add climate zones (Beck et al. 2018)
+
+# Add climate zones (Beck et al. 2018) ----
+
 beck_translation_table <- 
   readr::read_csv("Inputs/Data/Biomes_spatial/koppen_link.csv") %>% 
   dplyr::rename(
@@ -105,12 +110,10 @@ surface_pollen_filtered_clim_zone <-
                 -raster_values) %>% 
   dplyr::filter(!is.na(climate_zone_revised)) # 2735 samples
 
-readr::write_rds(surface_pollen_filtered_clim_zone,
-          file = "Inputs/Data/surface_pollen_filtered_030124.rds",
-          compress = "gz")
-
-
+#-----------------------------------------------#
 # B. Top samples from fossil pollen data ----
+#-----------------------------------------------#
+
 # Note: This data was used directly from  "Latitudinal gradients in the 
 #  phylogenetic assembly of angiosperms in Asia during the Holocene"
 #  Therefore, initial data filtering and harmonisation was already done there.
@@ -205,6 +208,14 @@ top_fossil_pollen_500yr_filtered_clim_zone <-
     everything(),
     -raster_values
     )
+
+#-----------------------------------------------#
+# Save filtered data ----
+#-----------------------------------------------#
+
+readr::write_rds(surface_pollen_filtered_clim_zone,
+                 file = "Inputs/Data/surface_pollen_filtered_030124.rds",
+                 compress = "gz")
 
 readr::write_rds(top_fossil_pollen_500yr_filtered_clim_zone,
           file = "Inputs/Data/top_fossil_pollen_500yr_filtered_080124.rds",

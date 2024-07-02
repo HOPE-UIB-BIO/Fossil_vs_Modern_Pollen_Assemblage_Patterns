@@ -201,7 +201,10 @@ readr::write_rds(
   compress = "gz"
   )
 
-# Combine all estimates
+#-----------------------------------------------#
+# Combine all estimates ----
+#-----------------------------------------------#
+
 phylodiversity_estimated_surface_samples <- 
   readr::read_rds("Inputs/Data/phylodiversity_estimated_surface_samples_050124.rds") 
 phylodiversity_estimated_top_500yr_samples <- 
@@ -218,6 +221,9 @@ phylo_div_full <-
             ) %>% 
   dplyr::select(dataset_id, sample_id, lat, everything())
 
+#-----------------------------------------------#
+# Save outputs ----
+#-----------------------------------------------#
 readr::write_rds(phylo_div_full,
           file = "Inputs/Data/phylo_div_full_090123.rds",
           compress = "gz")

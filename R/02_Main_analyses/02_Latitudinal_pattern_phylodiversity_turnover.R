@@ -1,4 +1,14 @@
 #----------------------------------------------------------#
+# Fossil pollen data can predict robust spatial patterns of biodiversity 
+#                        in the past
+#
+#                         K. Bhatta 
+#
+#                           2024
+#----------------------------------------------------------#
+
+
+#----------------------------------------------------------#
 #
 #       Latitudinal analysis of phylogenetic dispersion
 #
@@ -19,12 +29,6 @@ turnover_combined <-
   read_rds("Inputs/Data/turnover_combined_050224.rds") %>% 
   dplyr::group_by(data_type) %>% 
   tidyr::nest(.key = "turnover") %>% 
-  ungroup()
-
-dca_combined <- 
-  read_rds("Inputs/Data/dca_combined_300424.rds") %>% 
-  dplyr::group_by(data_type) %>% 
-  tidyr::nest(.key = "dca") %>% 
   ungroup()
 
 #--------------------------------------------------------#

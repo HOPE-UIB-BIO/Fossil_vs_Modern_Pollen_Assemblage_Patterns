@@ -32,7 +32,10 @@ top_fossil_pollen_500yr_filtered_clim_zone <-
   tidyr::nest() %>%   # 71 datasets
   dplyr::ungroup()
 
+#-----------------------------------------------#
 # Make a base map with climate zones ----
+#-----------------------------------------------#
+
 # Read the raster points from the geo-tiff file published in Beck et al. 2018
 beck_translation_table <- 
   read_csv("Inputs/Data/Biomes_spatial/koppen_link.csv") %>% 
@@ -84,6 +87,9 @@ raster_df <-
   dplyr::left_join(beck_translation_table, by = c("raster_values")) %>%
   dplyr::filter(!raster_values == 0) 
 
+#-----------------------------------------------#
+# Plot the location points ----
+#-----------------------------------------------#
 base_map <-
   surface_pollen_filtered_clim_zone %>%
   ggplot2::ggplot(aes(x = long, y = lat)) +
