@@ -1,8 +1,15 @@
 #----------------------------------------------------------#
+# Fossil pollen data can predict robust spatial patterns of biodiversity 
+#                        in the past
 #
-#       Latitudinal analysis of phylogenetic dispersion
+#                         K. Bhatta 
 #
-#         Surface sample pollen data harmonisation table ----
+#                           2024
+#----------------------------------------------------------#
+
+#----------------------------------------------------------#
+#
+# Prepapre surface pollen data harmonisation table ----
 #                          
 #----------------------------------------------------------#
 #-----------------------------------------------#
@@ -11,13 +18,13 @@
 source("R/00_Config_file.R")
 
 pangaea_taxa <- 
-  read_csv("Inputs/Tables/taxa_names_surface_samples_pangaea_150923.csv") %>% 
-  distinct(taxon_name)
+  readr::read_csv("Inputs/Tables/taxa_names_surface_samples_pangaea_150923.csv") %>% 
+  dplyr::distinct(taxon_name)
 empd_taxa <- 
-  read_csv("Inputs/Tables/taxa_names_empd_211123.csv") %>% 
-  distinct()
+  readr::read_csv("Inputs/Tables/taxa_names_empd_211123.csv") %>% 
+  dplyr::distinct()
 cao_taxa <- 
-  read_csv("Inputs/Tables/taxa_names_cao_data_221123.csv")
+  readr::read_csv("Inputs/Tables/taxa_names_cao_data_221123.csv")
 
 
 full_list <- 
@@ -29,5 +36,5 @@ full_list <-
   dplyr::mutate(family_level = NA) %>% 
   dplyr::arrange(taxon_name)
 
-write_csv(full_list,
+readr::write_csv(full_list,
           file = "Inputs/Tables/surface_samples_harmonisation_table_221123.csv")
