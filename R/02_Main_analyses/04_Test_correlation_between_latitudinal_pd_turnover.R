@@ -384,7 +384,7 @@ legend(
 
 
 #--------------------------------------------------------#
-# 3. Plot the models ----
+# 5. Plot the models ----
 #--------------------------------------------------------#
 final_plot_mpd <- 
   ggplot2::ggplot(correlation_dat_pd,
@@ -488,6 +488,9 @@ final_composite_plot <-
     font.label = list(size = 18, color = color_common)
   )
 
+#--------------------------------------------------------#
+# 6. Save final figure ----
+#--------------------------------------------------------#
 ggplot2::ggsave(final_composite_plot,
        file = paste(
          "Outputs/Figure/Correlations_",

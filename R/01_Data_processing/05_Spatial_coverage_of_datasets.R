@@ -216,7 +216,7 @@ final_map <-
     legend = "bottom"
     )
 
-#ggsave(final_map,
+#ggplot2::ggsave(final_map,
 #       file = "Outputs/Figure/samples_distribution_210524.tiff", 
 #       height = 15,
 #       width = 30,

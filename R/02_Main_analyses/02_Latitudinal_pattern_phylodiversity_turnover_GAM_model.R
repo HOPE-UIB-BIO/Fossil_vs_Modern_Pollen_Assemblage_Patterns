@@ -347,7 +347,7 @@ gam_mod_turnover <-
   )
 
 #--------------------------------------------------------#
-# Save output ----
+# Save outputs ----
 #--------------------------------------------------------#
 readr::write_rds(gam_mod_turnover,
           file = "Outputs/Data/gam_mod_turnover_050224.rds",
