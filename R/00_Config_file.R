@@ -26,6 +26,7 @@ package_list <-
     "ggplot2",
     "ggpubr",
     "ggmap",
+    "ggpmisc",
     "ggspatial",
     "ggtext",
     "gratia",
@@ -33,6 +34,7 @@ package_list <-
     "gridExtra",
     "here",   
     "leaflet",
+    "lmodel2",
     "maps",
     "mgcv", 
     "pangaear",
@@ -81,7 +83,6 @@ if(update_repo_packages == TRUE){
     renv::snapshot(lockfile =  "renv/library_list.lock")  # do only for update
   }
 }
-
 
 #----------------------------------------------------------#
 # 2. Define space -----

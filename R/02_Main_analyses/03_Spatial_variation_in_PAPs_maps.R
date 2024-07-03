@@ -62,7 +62,7 @@ surface_samples_pd <-
 surface_samples_turnover <- 
   turnover_combined[1,]$turnover[[1]] 
 
-# B. Fossil samples
+# B. Fossil samples ----
 top_500_fossil_samples_pd <- 
   phylo_div_full %>% 
   dplyr::filter(data_type == "top_500_yr")
@@ -142,7 +142,7 @@ ggplot2::ggsave(
   compression = "lzw"
   )
 
-# Map sesMNTD
+# Map sesMNTD ----
 surface_samples_mntd <- 
   base_map +
   ggplot2::geom_point(
@@ -211,7 +211,7 @@ ggplot2::ggsave(
   compression = "lzw"
   )
 
-# Map compositional turnover
+# Map compositional turnover ----
 surface_sample_turnover <- 
   base_map +
   ggplot2::geom_point(
