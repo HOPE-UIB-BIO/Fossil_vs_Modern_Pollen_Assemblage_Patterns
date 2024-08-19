@@ -1,6 +1,6 @@
 
 #----------------------------------------------------------#
-# Fossil pollen data can predict robust spatial patterns of biodiversity 
+# Fossil pollen data can reconstruct robust spatial patterns of biodiversity 
 #                        in the past
 #
 #                         K. Bhatta 

@@ -1,5 +1,5 @@
 #----------------------------------------------------------#
-# Fossil pollen data can predict robust spatial patterns of biodiversity 
+# Fossil pollen data can reconstruct robust spatial patterns of biodiversity 
 #                        in the past
 #
 #                         K. Bhatta 
@@ -76,11 +76,11 @@ if(update_repo_packages == TRUE){
   if(already_synch == FALSE){
     library(here)
     # synchronise the package versions
-    renv::restore(lockfile = here::here( "renv/library_list.lock"))
+    renv::restore(lockfile = here::here( "renv.lock"))
     already_synch <- TRUE
     
     # save snapshot of package versions
-    renv::snapshot(lockfile =  "renv/library_list.lock")  # do only for update
+    renv::snapshot(lockfile =  "renv.lock")  # do only for update
   }
 }
 

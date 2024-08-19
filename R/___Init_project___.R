@@ -1,5 +1,5 @@
 #----------------------------------------------------------#
-# Fossil pollen data can predict robust spatial patterns of biodiversity 
+# Fossil pollen data can reconstruct robust spatial patterns of biodiversity 
 #                        in the past
 #
 #                       Project setup
@@ -66,10 +66,12 @@ package_list <-
     "remotes",
     "renv",       
     "roxygen2",   
+    "sjstats",
     "tidyverse",  
     "usethis",
     "vegan",
-    "viridis"
+    "viridis",
+    "xaringan"
   )
 
 # define helper function
