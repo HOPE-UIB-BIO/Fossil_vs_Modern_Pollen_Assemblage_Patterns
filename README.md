@@ -1,4 +1,4 @@
-# Fossil pollen data can predict robust spatial patterns of biodiversity in the past
+# Fossil pollen data can reconstruct robust spatial patterns of biodiversity in the past
 
 ## Authors
 Kuber P Bhatta*, Xianyong Cao, Vivian A. Felde, John-Arvid Grytnes, Hilary H. Birks, H. John B. Birks
