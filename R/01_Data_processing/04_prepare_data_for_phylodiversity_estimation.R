@@ -116,7 +116,7 @@ surface_pollen_filtered_clim_zone <-
 
 # Note: This data was used directly from  "Latitudinal gradients in the 
 #  phylogenetic assembly of angiosperms in Asia during the Holocene"
-#  Therefore, initial data filtering and harmonisation was already done there.
+#  Therefore, initial data filtering and harmonisation was already done there.(Bhatta et al. 2024)
 
 top_fossil_pollen <-
   readr::read_rds("Inputs/Data/data_for_main_analysis_191223.rds") %>%
