@@ -121,5 +121,19 @@ library(here)
 renv::snapshot(lockfile = "renv.lock")
 
 #----------------------------------------------------------#
-# Step 8: Run the project 
+# Step 8: GitHub hook
+#----------------------------------------------------------#
+
+# Prevent commiting to the Main
+usethis::use_git_hook(
+  hook = "pre-commit",
+  script = '#!/bin/sh
+  branch="$(git rev-parse --abbrev-ref HEAD)"
+  if [ "$branch" = "main" ]; then
+  echo "You cannot commit directly to main branch. Please make a new branch"
+  exit 1
+  fi'
+)
+#----------------------------------------------------------#
+# Step 9: Run the project 
 #----------------------------------------------------------#
