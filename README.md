@@ -20,7 +20,7 @@ This repository contains data and R codes for analysing concordance of spatial p
 Different sections (folders) of the R project are as follows:
 - `Inputs/`: All the pre-analysed and processed data, and tables are stored in this folder.
   - The subfolder `Inputs/Data/` contains a geo-tif file for the biome or climate-zone classification (`Inputs/Data/Biomes/`), backbone phylogeny used for construction of phylogeny (`Inputs/Data/Ramirez_Barahona_etal_2020_phylogeny/`), unprocessed surface sample data (`Inputs/Data/surface_samples_epd`), and processed data (.rds files) to be used in the analyses. The subfolder `Inputs/Tables/` contains the pollen taxa lists and pollen-taxa harmonisation tables used for standardising the pollen taxonomy. 
-Please note that users will not find raw data of surface pollen data (`Inputs/Data/surface_samples_cao/`) here because it cannot be shared publicly due to an embargo of the data contributors. 
+Please note that users will not find raw data of surface pollen data (`Inputs/Data/surface_samples_cao/`) and fossil pollen data (`Inputs/Data/Data_processed_2022-08-30.rds`) here because it cannot be shared publicly due to an embargo of the data contributors. 
 - `Outputs/` contains outputs of all analyses in the form of data (`Outputs/Data/`), figures (`Outputs/Figure/`), and tables (`Outputs/Table/`).
 - `___Init_project___.R`: This script is useful for the initial project setup (see below).
 - `renv/`: This folder stores all the installed packages with the record of their versions.
